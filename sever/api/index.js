@@ -7,4 +7,4 @@ app.get("/", (req, res) => {
   res.send("Hello from Express deployed on Vercel!");
 });
 
-module.exports = serverless(app); // Wrap with serverless-http
+module.exports = serverless(app); 

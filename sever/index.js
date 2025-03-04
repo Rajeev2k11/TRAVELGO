@@ -14,10 +14,7 @@ dotenv.config()
 const mongoUrl = process.env.MONGO_URL;
 console.log('MongoDB URL:', mongoUrl.replace(/:([^@]+)@/, ':****@'));
 
-mongoose.connect(process.env.MONGO_URL, {
-  useNewUrlParser: true,
-  useUnifiedTopology: true
-})
+mongoose.connect(process.env.MONGO_URL)
 .then(async () => {
   console.log('Connected to MongoDB');
   console.log('Database:', mongoose.connection.db.databaseName);

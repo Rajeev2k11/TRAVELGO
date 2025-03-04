@@ -14,6 +14,8 @@ import { setPackage } from "@/app/redux/slices/packageSlice";
 import axios from "axios";
 import { setError } from "@/app/redux/slices/destinationSlice";
 import { Toaster } from "@/components/ui/sonner"
+const apiUrl = process.env.NEXT_PUBLIC_API_URL;
+
 
 const Page = () => {
   const  packageName  = useParams().package;
@@ -24,7 +26,7 @@ console.log("pkg",packageName)
   useEffect(() => {
     if (!pkg.packages.length) {
       axios
-        .get("http://localhost:5001/api/packages/")
+        .get(`${apiUrl}/api/packages/`)
         .then(({ data }) => dispatch(setPackage(data)))
         .catch((error) => dispatch(setError(error)))
         .finally(() => setLoading(false));

@@ -30,6 +30,7 @@ import {PackageCard} from "../../../components/packageCard";
 const page = () => {
   const location = useParams().location;
 const [loading, setLoading] = useState(true);
+const apiUrl = process.env.NEXT_PUBLIC_API_URL;
 const [filters, setFilters] = useState({
   theme: [], 
   duration: [],
@@ -43,7 +44,7 @@ console.log("check destination", locationData)
   
   const fetchLocations = async () => {
     try {
-      const locations = await axios.get("http://localhost:5001/api/locations/");
+      const locations = await axios.get(`${apiUrl}/api/locations/`);
       const data = await locations.data;
       dispatch(setDestinations(data));
     } catch (error) {
@@ -53,7 +54,7 @@ console.log("check destination", locationData)
 
   const fetchPackages = async () => {
     try {
-      const packages = await axios.get("http://localhost:5001/api/packages/");
+      const packages = await axios.get(`${apiUrl}/api/packages/`);
       const data = await packages.data;
       dispatch(setPackage(data));
     } catch (error) {

@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import { motion } from "framer-motion";
 import axios from "axios";
 import { toast } from "sonner";
+const apiUrl = process.env.NEXT_PUBLIC_API_URL;
 
 const ContactForm = () => {
   const [formData, setFormData] = useState({
@@ -47,7 +48,7 @@ const ContactForm = () => {
   };
   const sendData = async () => {
     try {
-      const response = await axios.post("http://localhost:5001/api/formdata", formData, {
+      const response = await axios.post(`${apiUrl}/api/formdata`, formData, {
         headers: {
           "Content-Type": "application/json",
         }

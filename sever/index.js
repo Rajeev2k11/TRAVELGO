@@ -9,8 +9,8 @@ const packageRoutes = require("./routes/PackageRoute");
 const formdataRoutes = require("./routes/FormData")
 
 dotenv.config()
-
-// Log the MongoDB URL (with password hidden)
+ 
+// Log the MongoDB URL (with password hid
 const mongoUrl = process.env.MONGO_URL;
 console.log('MongoDB URL:', mongoUrl.replace(/:([^@]+)@/, ':****@'));
 

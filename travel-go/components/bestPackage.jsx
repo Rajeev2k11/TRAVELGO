@@ -6,14 +6,14 @@ import { useDispatch, useSelector } from "react-redux";
 import { setError, setLoading } from "@/app/redux/slices/destinationSlice";
 import { setPackage } from "@/app/redux/slices/packageSlice";
 import axios from "axios";
-
+const apiUrl = process.env.NEXT_PUBLIC_API_URL;
 const BestPackage = () => {
   const Packagess = useSelector((state) => state.package);
   const dispatch = useDispatch();
 
   const fetchPackages = async () => {
     try {
-      const packages = await axios.get("http://localhost:5001/api/packages/");
+      const packages = await axios.get(`${apiUrl}/api/packages/`);
       const data = await packages.data;
       dispatch(setPackage(data));
     } catch (error) {

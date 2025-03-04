@@ -1,6 +1,8 @@
 "use client"
 import Link from "next/link";
 import { useState, useEffect } from "react";
+const apiUrl = process.env.NEXT_PUBLIC_API_URL;
+
 
 const SearchBar = () => {
   const [query, setQuery] = useState("");
@@ -17,7 +19,7 @@ const handleChange =(value)=>{
   
     setLoading(true);
     try {
-      const response = await fetch("http://localhost:5001/api/locations");
+      const response = await fetch(`${apiUrl}/api/locations`);
       const data = await response.json();
       const results = data.filter((location,index)=>{
        return(

@@ -7,7 +7,7 @@ import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious
 
 import axios from "axios";
 import { Card, CardContent } from "./ui/card";
-
+const apiUrl = process.env.NEXT_PUBLIC_API_URL;
 
 const TopDestination = (title) => {
 
@@ -18,7 +18,7 @@ const TopDestination = (title) => {
 
   const fetchDestination=async()=>{
     try {
-      const location = await axios.get("http://localhost:5001/api/locations")
+      const location = await axios.get(`${apiUrl}/api/locations`)
       const data = await location.data
       dispatch(setDestinations(data))
     } catch (error) {

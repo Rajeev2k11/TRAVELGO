@@ -14,7 +14,7 @@ import {
   FormMessage,
 } from "@/components/ui/form"
 import { Input } from "@/components/ui/input"
-
+const apiUrl = process.env.NEXT_PUBLIC_API_URL;
 
 const phoneRegex = /^([+]?[\s0-9]+)?(\d{3}|[(]?[0-9]+[)])?([-]?[\s]?[0-9])+$/;
 
@@ -34,7 +34,7 @@ export function BookForm() {
 
   const onSubmit = async (values) => {
     try {
-      const response = await axios.post("http://localhost:5001/api/formdata", values, {
+      const response = await axios.post(`${apiUrl}/api/formdata`, values, {
         headers: { "Content-Type": "application/json" },
       });
 

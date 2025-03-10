@@ -14,6 +14,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 
 export default function RootLayout({ children }) {
+ 
   return (
     <html lang="en">
     <head>
@@ -23,6 +24,7 @@ export default function RootLayout({ children }) {
         <body className={`${inter.className}`}>
         <ReduxProvider store={store}>
           <Navbar />
+          
           <main className="min-h-screen">{children}</main>
          
 

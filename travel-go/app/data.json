@@ -1,0 +1,613 @@
+[
+    {
+  "package_name": "Wonderful Srinagar Gateway: 3 Nights 4 Days",
+  "location": "kashmir",
+  "duration": {
+    "day": 4,
+    "night": 3
+  },
+  "package_description": "This 3 Nights / 4 Days package is perfect for those who want to fully explore the beauty of Srinagar, the crown jewel of Kashmir. Stay in a traditional houseboat on Dal Lake, enjoy a Shikara ride, visit the serene Mughal Gardens, and explore the vibrant markets of Srinagar. This itinerary offers a perfect blend of relaxation, sightseeing, and cultural experiences. Whether you are a honeymoon couple, a family, or a solo traveler, this package allows you to experience the soul of Kashmir at a leisurely pace.",
+  "price": 41999,
+  "itinerary": [
+    {
+      "title": "Arrival in Srinagar & Shikara Ride",
+      "details": [
+        "Arrive at Srinagar Airport & transfer to the hotel/houseboat",
+        "Enjoy a Shikara Ride on Dal Lake",
+        " Relax & admire the scenic beauty",
+        " Dinner & overnight stay in Srinagar"
+      ]
+    },
+    {
+      "title": "Mughal Gardens & Sightseeing Tour",
+      "details": [
+        "Breakfast at the hotel",
+        "Visit Shankaracharya Temple & Mughal Gardens",
+        "Explore Dal Lake & Hazratbal Shrine",
+        "Enjoy shopping at local bazaars",
+        "Dinner & overnight stay in Srinagar"
+      ]
+    },
+    {
+      "title": "Local Culture & Shopping",
+      "details": [
+        "Breakfast at the hotel",
+        "Visit Pari Mahal, Tulip Garden & Botanical Garden",
+        "Enjoy authentic Kashmiri Wazwan cuisine",
+        "Free time for shopping (Pashmina, saffron, carpets)",
+        "Dinner & overnight stay in Srinagar"
+      ]
+    },
+    {
+      "title": "Departure from Srinagar",
+      "details": [
+        " Breakfast at the hotel",
+        " Transfer to Srinagar Airport for your return flight"
+      ]
+    }
+  ],
+  "Trip Overview":{"Destinations":"Srinagar","Duration":"3 Nights / 4 Days", "Experience":"Houseboat stay, Shikara ride, Mughal gardens, cultural exploration"},
+  "inclusions": [
+    "Airport Transfers (Pick-up & Drop-off)",
+    "3-Night Accommodation in Srinagar (Hotel/Houseboat)",
+    " Daily Breakfast & Dinner",
+    "Shikara Ride on Dal Lake (1 Hour)",
+    "Private Vehicle for Sightseeing",
+    "Visit to Mughal Gardens & Shankaracharya Temple",
+    " All Applicable Taxes"
+  ],
+  "things-to-do": [
+    {
+      "title": "Arrival & Leisure:",
+      "details": [
+        "Check-in to a houseboat or hotel & relax",
+        "Enjoy a Shikara Ride on Dal Lake in the evening",
+        "Witness a beautiful sunset over the Zabarwan Mountains"
+      ]
+    },
+    {
+      "title": "Mughal Gardens & Old Srinagar Tour:",
+      "details": [
+        "Visit Shankaracharya Temple for panoramic views",
+        "Explore the famous Mughal Gardens:",
+        "Shalimar Bagh (The Garden of Love) - Nishat Bagh (The Garden of Bliss) - Chashme Shahi (The Royal Spring)",
+        "Visit the Hazratbal Shrine near Dal Lake",
+        "Stroll through the local bazaars of Lal Chowk"
+      ]
+    },
+    {
+        "title": " Cultural & Shopping Experience:",
+        "details": [
+           " Explore the Tulip Garden (Seasonal - March to April)",
+           " Visit the Pari Mahal & Botanical Garden",
+         "   Enjoy shopping for Pashmina shawls, carpets & saffron",
+           " Indulge in authentic Kashmiri cuisine (Try Rogan Josh & Kahwa)"
+            
+        ]
+      },
+      {
+        "title": " Departure",
+        "details": [
+          "  Breakfast at the hotel",
+           " Drop-off at Srinagar Airport for your return flight"
+            
+            
+        ]
+      }
+  ],
+  "images": [
+    "https://images.pexels.com/photos/11710968/pexels-photo-11710968.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "https://images.pexels.com/photos/6729210/pexels-photo-6729210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "https://images.pexels.com/photos/28762054/pexels-photo-28762054/free-photo-of-majestic-gate-to-the-taj-mahal-in-agra.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "https://images.pexels.com/photos/29507470/pexels-photo-29507470/free-photo-of-scenic-view-of-pahalgam-village-in-summer.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+
+  ],
+  "theme": "Friends",
+  "rating": 4.8,
+  "id": 1
+},
+
+{
+    "package_name": "Fairytale Gateway to Srinagar and Gulmarg: 3 Nights 4 Days",
+    "location": "Kashmir",
+    "duration": {
+      "day": 4,
+      "night": 3
+    },
+    "package_description": "Explore the enchanting beauty of Kashmir with this 3 Nights / 4 Days tour covering Srinagar and Gulmarg. Start your journey in Srinagar, the Venice of the East, and enjoy a Shikara ride on Dal Lake, visit Mughal Gardens, and experience a houseboat stay. Head to Gulmarg, the winter paradise, for an exciting Gondola ride and snow adventures. Whether you are a honeymooner, a family traveler, or a solo explorer, this package offers the perfect balance of relaxation and adventure.",
+    "price": 45999,
+    "itinerary": [
+      {
+        "title": "Arrival in Srinagar & Local Sightseeing",
+        "details": [
+          "Arrive at Srinagar Airport & transfer to your hotel/houseboat",
+          "Enjoy a Shikara ride on Dal Lake",
+          "Visit Shankaracharya Temple & Mughal Gardens",
+          "Explore Lal Chowk market for Kashmiri handicrafts",
+          "Dinner & overnight stay in Srinagar"
+        ]
+      },
+      {
+        "title": "Excursion to Gulmarg",
+        "details": [
+          "Breakfast at the hotel & drive to Gulmarg (Approx. 2-hour drive)",
+          "Take the Gondola ride up to Phase 1 for panoramic views",
+          "Enjoy snow activities (Skiing, Snowboarding, Sledging – optional)",
+          "Explore local attractions like Maharani Temple & St. Mary’s Church",
+          "Dinner & overnight stay in Gulmarg"
+        ]
+      },
+      {
+        "title": "Return to Srinagar & Sightseeing",
+        "details": [
+          "Breakfast at the hotel & return to Srinagar",
+          "Visit Hazratbal Shrine & explore the old city",
+          "Take a relaxing stroll in the beautiful Tulip Garden (Seasonal - March to April)",
+          "Shopping for Kashmiri Pashmina shawls, carpets, and dry fruits",
+          "Dinner & overnight stay in Srinagar"
+        ]
+      },
+      {
+        "title": "Departure from Srinagar",
+        "details": [
+          "Breakfast at the hotel & transfer to Srinagar Airport for your flight home"
+        ]
+      }
+    ],
+    "Trip Overview": {
+      "Destinations": "Srinagar, Gulmarg",
+      "Duration": "3 Nights / 4 Days",
+      "Experience": "Houseboat stay, Shikara ride, Gondola ride, snow activities"
+    },
+    "inclusions": [
+      "Airport Transfers (Pick-up & Drop-off)",
+      "3-Night Accommodation (2 Nights in Srinagar, 1 Night in Gulmarg)",
+      "Daily Breakfast & Dinner",
+      "Shikara Ride on Dal Lake (1 Hour)",
+      "Gondola Cable Car Ride (Phase 1) in Gulmarg",
+      "Sightseeing in a Private Car",
+      "All Applicable Taxes"
+    ],
+    "things-to-do": [
+      {
+        "title": "Srinagar:",
+        "details": [
+          "Enjoy a Shikara Ride on Dal Lake",
+          "Visit Shankaracharya Temple for panoramic views",
+          "Explore Mughal Gardens (Shalimar Bagh, Nishat Bagh, Chashme Shahi)",
+          "Stay in a traditional houseboat on Dal Lake",
+          "Try authentic Kashmiri Wazwan cuisine"
+        ]
+      },
+      {
+        "title": "Gulmarg:",
+        "details": [
+          "Ride the Gondola Cable Car (up to Phase 1)",
+          "Experience skiing and snowboarding (in winter)",
+          "Visit Maharani Temple and St. Mary's Church",
+          "Enjoy a pony ride through scenic meadows"
+        ]
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/11710968/pexels-photo-11710968.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/6729210/pexels-photo-6729210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/28762054/pexels-photo-28762054/free-photo-of-majestic-gate-to-the-taj-mahal-in-agra.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/29507470/pexels-photo-29507470/free-photo-of-scenic-view-of-pahalgam-village-in-summer.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    ],
+    "theme": "Adventure",
+    "rating": 4.9,
+    "id": 2
+  },
+
+{
+  "package_name": "Wonderful Srinagar with Sonmarg: 3 Nights 4 Days",
+  "location": "Kashmir",
+  "duration": {
+    "day": 4,
+    "night": 3
+  },
+  "package_description": "Experience the breathtaking beauty of Kashmir with this 3 Nights / 4 Days tour covering Srinagar and Sonmarg. Stay in a traditional houseboat, take a Shikara ride on Dal Lake, and explore the famous Mughal Gardens in Srinagar. Then, head to Sonmarg, the ‘Meadow of Gold,’ where you can enjoy a pony ride to Thajiwas Glacier, explore snow-covered landscapes, and soak in stunning Himalayan views. This package is perfect for honeymooners, families, and nature lovers who want a peaceful yet adventurous getaway.",
+  "price": 16299,
+  "itinerary": [
+    {
+      "title": "Arrival in Srinagar & Local Sightseeing",
+      "details": [
+        "Arrive at Srinagar Airport & transfer to your hotel/houseboat",
+        "Enjoy a Shikara ride on Dal Lake",
+        "Visit Shankaracharya Temple & Mughal Gardens",
+        "Explore Lal Chowk market for Kashmiri handicrafts",
+        "Dinner & overnight stay in Srinagar"
+      ]
+    },
+    {
+      "title": "Excursion to Sonmarg",
+      "details": [
+        "Breakfast at the hotel & drive to Sonmarg (Approx. 2.5-hour drive)",
+        "Enjoy a pony ride to Thajiwas Glacier (Optional)",
+        "Explore snow-covered meadows & the Sindh River",
+        "Relax in the serene surroundings with mesmerizing views",
+        "Dinner & overnight stay in Sonmarg"
+      ]
+    },
+    {
+      "title": "Return to Srinagar & Sightseeing",
+      "details": [
+        "Breakfast at the hotel & return to Srinagar",
+        "Visit Hazratbal Shrine & explore the old city",
+        "Take a relaxing stroll in the beautiful Tulip Garden (Seasonal - March to April)",
+        "Shopping for Kashmiri Pashmina shawls, carpets, and dry fruits",
+        "Dinner & overnight stay in Srinagar"
+      ]
+    },
+    {
+      "title": "Departure from Srinagar",
+      "details": [
+        "Breakfast at the hotel & transfer to Srinagar Airport for your flight home"
+      ]
+    }
+  ],
+  "Trip Overview": {
+    "Destinations": "Srinagar, Sonmarg",
+    "Duration": "3 Nights / 4 Days",
+    "Experience": "Houseboat stay, Shikara ride, lush meadows, Thajiwas Glacier trek"
+  },
+  "inclusions": [
+    "Airport Transfers (Pick-up & Drop-off)",
+    "3-Night Accommodation (2 Nights in Srinagar, 1 Night in Sonmarg)",
+    "Daily Breakfast & Dinner",
+    "Shikara Ride on Dal Lake (1 Hour)",
+    "Private Vehicle for Sightseeing",
+    "Trip to Thajiwas Glacier (Pony Ride at Additional Cost)",
+    "All Applicable Taxes"
+  ],
+  "things-to-do": [
+    {
+      "title": "Srinagar:",
+      "details": [
+        "Enjoy a Shikara Ride on Dal Lake",
+        "Stay in a traditional houseboat",
+        "Visit Mughal Gardens (Shalimar Bagh, Nishat Bagh, Chashme Shahi)",
+        "Explore Shankaracharya Temple & Hazratbal Shrine",
+        "Try authentic Kashmiri Wazwan cuisine"
+      ]
+    },
+    {
+      "title": "Sonmarg:",
+      "details": [
+        "Visit Thajiwas Glacier (Pony ride available)",
+        "Enjoy river rafting in the Sindh River (seasonal)",
+        "Explore lush meadows & scenic viewpoints",
+        "Take breathtaking photos of snow-capped peaks"
+      ]
+    }
+  ],
+  "images": [
+    "https://images.pexels.com/photos/11710968/pexels-photo-11710968.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "https://images.pexels.com/photos/6729210/pexels-photo-6729210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "https://images.pexels.com/photos/28762054/pexels-photo-28762054/free-photo-of-majestic-gate-to-the-taj-mahal-in-agra.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "https://images.pexels.com/photos/29507470/pexels-photo-29507470/free-photo-of-scenic-view-of-pahalgam-village-in-summer.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  ],
+  "theme": "Nature",
+  "rating": 4.7,
+  "id": 3
+},
+{
+    "package_name": "Trip to Srinagar & Pahalgam: 3 Nights 4 Days",
+    "location": "Kashmir",
+    "duration": {
+      "day": 4,
+      "night": 3
+    },
+    "package_description": "Experience the best of Kashmir with this 3 Nights / 4 Days package covering Srinagar and Pahalgam. Stay in a traditional houseboat on Dal Lake in Srinagar, take a peaceful Shikara ride, and explore the iconic Mughal Gardens. Then, journey to Pahalgam, known for its picturesque landscapes, lush meadows, and the famous Betaab Valley. Enjoy trekking, nature walks, and river rafting (seasonal), making this package perfect for those seeking both relaxation and adventure.",
+    "price": 17999,
+    "itinerary": [
+      {
+        "title": "Arrival in Srinagar & Local Sightseeing",
+        "details": [
+          "Arrive at Srinagar Airport & transfer to hotel/houseboat",
+          "Relax & enjoy a Shikara Ride on Dal Lake",
+          "Visit Mughal Gardens (Shalimar Bagh, Nishat Bagh, Chashme Shahi)",
+          "Explore Shankaracharya Temple for panoramic views",
+          "Dinner & overnight stay in Srinagar"
+        ]
+      },
+      {
+        "title": "Journey to Pahalgam & Sightseeing",
+        "details": [
+          "Breakfast at the hotel/houseboat",
+          "Transfer to Pahalgam (Approx. 2.5-hour drive)",
+          "Visit Betaab Valley for scenic beauty & photography",
+          "Explore Aru Valley for nature walks and breathtaking views",
+          "Optional pony ride to Baisaran Valley",
+          "Dinner & overnight stay in Pahalgam"
+        ]
+      },
+      {
+        "title": "Return to Srinagar & Sightseeing",
+        "details": [
+          "Breakfast at the hotel & return to Srinagar",
+          "Visit Hazratbal Shrine",
+          "Take a stroll through Lal Chowk for shopping",
+          "Enjoy local Kashmiri delicacies",
+          "Dinner & overnight stay in Srinagar"
+        ]
+      },
+      {
+        "title": "Departure from Srinagar",
+        "details": [
+          "Breakfast at the hotel",
+          "Transfer to Srinagar Airport for your return flight"
+        ]
+      }
+    ],
+    "Trip Overview": {
+      "Destinations": "Srinagar, Pahalgam",
+      "Duration": "3 Nights / 4 Days",
+      "Experience": "Houseboat stay, Shikara ride, trekking, nature walks"
+    },
+    "inclusions": [
+      "Airport Transfers (Pick-up & Drop-off)",
+      "3-Night Accommodation (2 Nights in Srinagar, 1 Night in Pahalgam)",
+      "Daily Breakfast & Dinner",
+      "Shikara Ride on Dal Lake (1 Hour)",
+      "Private Vehicle for Sightseeing",
+      "Visit to Mughal Gardens, Betaab Valley, and Aru Valley",
+      "All Applicable Taxes"
+    ],
+    "things-to-do": [
+      {
+        "title": "In Srinagar:",
+        "details": [
+          "Shikara Ride on Dal Lake",
+          "Visit Mughal Gardens (Shalimar Bagh, Nishat Bagh, Chashme Shahi)",
+          "Explore Shankaracharya Temple",
+          "Take a stroll through Lal Chowk market",
+          "Visit Hazratbal Shrine",
+          "Enjoy Kashmiri Wazwan cuisine"
+        ]
+      },
+      {
+        "title": "In Pahalgam:",
+        "details": [
+          "Visit Betaab Valley for breathtaking views",
+          "Explore Aru Valley (ideal for nature walks and photography)",
+          "Take a pony ride to Baisaran Valley (known as “Mini Switzerland”)",
+          "River Rafting on Lidder River (seasonal)",
+          "Enjoy a nature walk or trek around Pahalgam's meadows"
+        ]
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/11710968/pexels-photo-11710968.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/6729210/pexels-photo-6729210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/28762054/pexels-photo-28762054/free-photo-of-majestic-gate-to-the-taj-mahal-in-agra.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/29507470/pexels-photo-29507470/free-photo-of-scenic-view-of-pahalgam-village-in-summer.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    ],
+    "theme": "Nature",
+    "rating": 4.8,
+    "id": 4
+  },
+  {
+    "package_name": "Peaceful Kashmir with Gulmarg & Srinagar: 4 Nights 5 Days",
+    "location": "Kashmir",
+    "duration": {
+      "day": 5,
+      "night": 4
+    },
+    "package_description": "Experience the best of Kashmir with this 4 Nights / 5 Days package, featuring 2 nights in Srinagar (with a stay on a houseboat and visits to iconic sites like Mughal Gardens) and 2 nights in Gulmarg, known for its snow-covered landscapes and adventure sports. This package is perfect for travelers looking to blend relaxation, nature exploration, and winter activities. From a Shikara ride on Dal Lake in Srinagar to skiing in Gulmarg (seasonal), this package offers something for everyone.",
+    "price": 21599,
+    "itinerary": [
+      {
+        "title": "Arrival in Srinagar & Local Sightseeing",
+        "details": [
+          "Arrive at Srinagar Airport and transfer to the hotel/houseboat",
+          "Relax and enjoy a Shikara Ride on Dal Lake",
+          "Visit Mughal Gardens (Shalimar Bagh, Nishat Bagh, Chashme Shahi)",
+          "Explore the Shankaracharya Temple for panoramic views of Srinagar",
+          "Dinner and overnight stay in Srinagar"
+        ]
+      },
+      {
+        "title": "Srinagar Sightseeing & Journey to Gulmarg",
+        "details": [
+          "Breakfast at the hotel/houseboat",
+          "Visit Hazratbal Shrine",
+          "Drive to Gulmarg (Approx. 2.5-hour drive)",
+          "Explore the meadows of Gulmarg",
+          "Cable car ride on the Gulmarg Gondola (ride to Apharwat Peak, weather permitting)",
+          "Dinner and overnight stay in Gulmarg"
+        ]
+      },
+      {
+        "title": "Adventure Day in Gulmarg",
+        "details": [
+          "Breakfast at the hotel",
+          "Full day for winter sports activities: Skiing, snowboarding, or sledging (seasonal)",
+          "Pony ride around Khilanmarg or a nature walk",
+          "Enjoy the picturesque views and relax in the snow-covered landscapes",
+          "Dinner and overnight stay in Gulmarg"
+        ]
+      },
+      {
+        "title": "Return to Srinagar & Local Sightseeing",
+        "details": [
+          "Breakfast at the hotel",
+          "Transfer back to Srinagar",
+          "Explore Lal Chowk for shopping and local handicrafts",
+          "Dinner and overnight stay in Srinagar"
+        ]
+      },
+      {
+        "title": "Departure from Srinagar",
+        "details": [
+          "Breakfast at the hotel",
+          "Transfer to Srinagar Airport for your return flight"
+        ]
+      }
+    ],
+    "Trip Overview": {
+      "Destinations": "Srinagar, Gulmarg",
+      "Duration": "4 Nights / 5 Days",
+      "Experience": "Houseboat stay, Shikara ride, skiing (winter), cable car ride, Mughal gardens, trekking"
+    },
+    "inclusions": [
+      "Airport Transfers (Pick-up & Drop-off)",
+      "4-Night Accommodation (2 Nights in Srinagar, 2 Nights in Gulmarg)",
+      "Daily Breakfast & Dinner",
+      "Shikara Ride on Dal Lake (1 Hour)",
+      "Private Vehicle for Sightseeing",
+      "Visit to Mughal Gardens and Shankaracharya Temple",
+      "Gulmarg Gondola Ride",
+      "All Applicable Taxes"
+    ],
+    "things-to-do": [
+      {
+        "title": "In Srinagar:",
+        "details": [
+          "Shikara Ride on Dal Lake",
+          "Visit Mughal Gardens (Shalimar Bagh, Nishat Bagh, Chashme Shahi)",
+          "Explore Shankaracharya Temple for panoramic views",
+          "Stroll through Lal Chowk Market",
+          "Visit the Hazratbal Shrine",
+          "Enjoy traditional Kashmiri Wazwan cuisine"
+        ]
+      },
+      {
+        "title": "In Gulmarg:",
+        "details": [
+          "Gulmarg Gondola Ride (the highest cable car ride in Asia)",
+          "Skiing, snowboarding, and other winter sports (seasonal)",
+          "Nature walks around the meadows",
+          "Pony ride through the picturesque landscape",
+          "Visit Khilanmarg for spectacular snow-capped views",
+          "Trekking to Apharwat Peak (weather permitting)"
+        ]
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/11710968/pexels-photo-11710968.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/6729210/pexels-photo-6729210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/28762054/pexels-photo-28762054/free-photo-of-majestic-gate-to-the-taj-mahal-in-agra.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/29507470/pexels-photo-29507470/free-photo-of-scenic-view-of-pahalgam-village-in-summer.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    ],
+    "theme": "Adventure",
+    "rating": 4.9,
+    "id": 5
+  },
+  {
+    "package_name": "Couple Special in Kashmir: 4 Nights 5 Days",
+    "location": "Kashmir",
+    "duration": {
+      "day": 5,
+      "night": 4
+    },
+    "package_description": "The 4 Nights / 5 Days Honeymoon Package is designed for couples who seek romance, tranquility, and adventure. Start your honeymoon with a stay in Srinagar, where you will enjoy the picturesque Dal Lake and the historic Mughal Gardens. After a romantic experience in Srinagar, head to Gulmarg, a winter wonderland with snow activities, skiing, and meadow walks. The combination of these two destinations ensures a relaxing yet adventurous honeymoon experience.",
+    "price": 22999,
+    "itinerary": [
+      {
+        "title": "Arrival in Srinagar & Houseboat Stay",
+        "details": [
+          "Arrive at Srinagar Airport",
+          "Transfer to your houseboat on Dal Lake",
+          "Enjoy a romantic Shikara Ride on Dal Lake",
+          "Explore the Mughal Gardens (Shalimar Bagh, Nishat Bagh)",
+          "Experience a Kashmiri Wazwan dinner on the houseboat",
+          "Overnight stay on the houseboat in Srinagar"
+        ]
+      },
+      {
+        "title": "Explore Srinagar & Transfer to Gulmarg",
+        "details": [
+          "Breakfast at the houseboat",
+          "Visit Hazratbal Shrine and Shankaracharya Temple for panoramic views of Srinagar",
+          "Free time for shopping at Lal Chowk or visiting the floating market",
+          "Transfer to Gulmarg (Approx. 2.5-hour drive)",
+          "Check-in to your romantic hotel in Gulmarg",
+          "Evening at leisure for a nature walk or visit the St. Mary’s Church",
+          "Overnight stay in Gulmarg"
+        ]
+      },
+      {
+        "title": "Gulmarg - Snow Adventure & Romance",
+        "details": [
+          "Breakfast at the hotel",
+          "Take the Gulmarg Gondola Ride to Apharwat Peak",
+          "Engage in snow activities like skiing, snowboarding, and snowshoeing (seasonal)",
+          "Enjoy a romantic pony ride through Gulmarg’s meadows",
+          "Optional: Cable Car Ride to Kongdoori for more scenic views",
+          "Evening at leisure with a romantic candlelight dinner",
+          "Overnight stay in Gulmarg"
+        ]
+      },
+      {
+        "title": "Transfer to Srinagar & Sightseeing",
+        "details": [
+          "Breakfast at the hotel",
+          "Transfer back to Srinagar",
+          "Explore more Mughal Gardens and enjoy a leisure stroll",
+          "Visit Shankaracharya Temple for the panoramic view of Srinagar",
+          "Shopping for Kashmiri handicrafts and dry fruits at Lal Chowk",
+          "Optional: Visit the Hazratbal Shrine or explore local markets",
+          "Overnight stay in Srinagar"
+        ]
+      },
+      {
+        "title": "Departure from Srinagar",
+        "details": [
+          "Breakfast at the hotel",
+          "Free time for last-minute sightseeing or shopping",
+          "Transfer to Srinagar Airport for your departure"
+        ]
+      }
+    ],
+    "Trip Overview": {
+      "Destinations": "Srinagar, Gulmarg",
+      "Duration": "4 Nights / 5 Days",
+      "Experience": "A perfect honeymoon package blending romance, adventure, and the serene beauty of Srinagar’s lakes and Gulmarg’s snowy landscapes, this 5-day package provides an unforgettable experience with scenic beauty, luxury stays, snow activities, and cultural exploration."
+    },
+    "inclusions": [
+      "4 Nights Accommodation (2 Nights in Srinagar, 2 Nights in Gulmarg)",
+      "Daily Breakfast & Dinner",
+      "Shikara Ride on Dal Lake (1 Hour)",
+      "Gulmarg Gondola Ride",
+      "Private Vehicle for Transfers & Sightseeing",
+      "Visit to Mughal Gardens",
+      "Nature Walks in Gulmarg",
+      "Snow Activities in Gulmarg (Seasonal)",
+      "Romantic Candlelight Dinner",
+      "All Applicable Taxes"
+    ],
+    "things-to-do": [
+      {
+        "title": "In Srinagar (Romantic Getaway):",
+        "details": [
+          "Shikara Ride on Dal Lake",
+          "Visit the Mughal Gardens (Shalimar Bagh, Nishat Bagh, and Chashme Shahi)",
+          "Explore the floating market and buy Kashmiri handicrafts",
+          "Visit Hazratbal Shrine and Shankaracharya Temple",
+          "Enjoy a candlelight dinner at a cozy restaurant or houseboat"
+        ]
+      },
+      {
+        "title": "In Gulmarg (Adventure & Romance):",
+        "details": [
+          "Gulmarg Gondola Ride to Apharwat Peak",
+          "Engage in snow activities like skiing, snowboarding, and snowshoeing",
+          "Take a pony ride through Gulmarg’s meadows",
+          "Enjoy a romantic walk amidst snow-capped mountains",
+          "Visit the historic St. Mary’s Church"
+        ]
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/11710968/pexels-photo-11710968.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/6729210/pexels-photo-6729210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/28762054/pexels-photo-28762054/free-photo-of-majestic-gate-to-the-taj-mahal-in-agra.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/29507470/pexels-photo-29507470/free-photo-of-scenic-view-of-pahalgam-village-in-summer.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    ],
+    "theme": "Romantic",
+    "rating": 4.9,
+    "id": 6
+  }
+]

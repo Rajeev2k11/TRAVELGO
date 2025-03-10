@@ -55,7 +55,7 @@ const ContactForm = () => {
       });
       if (response.status >= 200 && response.status < 300) {
         
-        toast("Event has been created", {
+        toast.success("Event has been created", {
           title: "✅ Success!",
           description: "Your form has been submitted successfully.",
           duration: 4000,
@@ -69,7 +69,7 @@ const ContactForm = () => {
     }
   };
   return (
-    <div className="">
+    <div>
       <motion.div
         initial={{ opacity: 0, y: 50 }}
         animate={{ opacity: 1, y: 0 }}

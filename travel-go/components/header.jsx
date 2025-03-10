@@ -6,7 +6,7 @@ import { FaAngleDown, FaAngleUp } from "react-icons/fa";
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
-
+  console.log("Navbar",menuOpen)
   return (
     <nav className="fixed top-0 left-0 w-full bg-opacity-50 backdrop-blur-md bg-gradient-to-b from-black/40 via-black/10 to-transparent shadow-md z-50">
       <div className="container mx-auto px-6 py-4 flex items-center justify-between ">
@@ -31,7 +31,7 @@ const Navbar = () => {
 
         {/* Mobile Menu Button */}
         <button
-          className="md:hidden text-white text-2xl "
+          className="md:hidden text-white text-2xl"
           onClick={() => setMenuOpen(!menuOpen)}
         >
           {menuOpen ? <FiX /> : <FiMenu />}
@@ -79,7 +79,7 @@ const Dropdown = ({ title, isMobile = false }) => {
     <div 
       className="relative text-[16px]"
       onMouseEnter={() => !isMobile && setOpen(true)}
-      // onMouseLeave={() => !isMobile && setTimeout(() => setOpen(false), 400)}
+      onMouseLeave={() => !isMobile && setTimeout(() => setOpen(false), 400)}
     >
       <button 
         className="hover:text-gray-300 flex items-center"

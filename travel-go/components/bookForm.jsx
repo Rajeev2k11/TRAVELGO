@@ -19,9 +19,9 @@ const apiUrl = process.env.NEXT_PUBLIC_API_URL;
 const phoneRegex = /^([+]?[\s0-9]+)?(\d{3}|[(]?[0-9]+[)])?([-]?[\s]?[0-9])+$/;
 
 const formSchema = z.object({
-  username: z.string().min(2, { message: "Username must be at least 2 characters." }),
+  name: z.string().min(2, { message: "name must be at least 2 characters." }),
   email: z.string().min(4, { message: "Fill valid email ID" }).email("This is not a valid email."),
-  phone: z.string().min(10, { message: "Phone no must have 10 digits" }).regex(phoneRegex, "Invalid Number!"),
+  contact: z.string().min(10, { message: "Phone no must have 10 digits" }).regex(phoneRegex, "Invalid Number!"),
 })
 
 export function BookForm() {
@@ -29,7 +29,7 @@ export function BookForm() {
 
   const form = useForm({
     resolver: zodResolver(formSchema),
-    defaultValues: { username: "", email: "", phone: "" },
+    defaultValues: { name: "", email: "", contact: "" },
   })
 
   const onSubmit = async (values) => {
@@ -37,21 +37,27 @@ export function BookForm() {
       const response = await axios.post(`${apiUrl}/api/formdata`, values, {
         headers: { "Content-Type": "application/json" },
       });
-
-      toast({ title: "Success", description: "Form submitted successfully!", status: "success" });
+  
+      toast.success("Success", {
+        description: "Form submitted successfully!",
+      });
+  
       form.reset();
     } catch (error) {
       console.error("Error submitting form:", error.response?.data || error.message);
-      toast({ title: "Error", description: "Failed to submit form. Try again!", status: "error" });
+  
+      toast.error("Error", {
+        description: error.response?.data?.message || "Failed to submit form. Try again!",
+      });
     }
-  }
+  };
 
   return (
     <Form {...form}>
       <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-4">
         <FormField
           control={form.control}
-          name="username"
+          name="name"
           render={({ field }) => (
             <FormItem>
               <FormControl>
@@ -75,7 +81,7 @@ export function BookForm() {
         />
         <FormField
           control={form.control}
-          name="phone"
+          name="contact"
           render={({ field }) => (
             <FormItem>
               <FormControl>

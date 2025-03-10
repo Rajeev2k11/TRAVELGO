@@ -3,12 +3,13 @@ import {
 
   useParams,
 } from "next/navigation";
-// import { DestinationCard } from "../../../components/destinationCard";
+import { DestinationCard } from "../../../components/destinationCard";
 
 import { FaLocationDot } from "react-icons/fa6";
 import { IoMdPricetag } from "react-icons/io";
 import { GiIndiaGate } from "react-icons/gi";
 import { LiaFilterSolid } from "react-icons/lia";
+import {DialogForm} from "@/components/modalform"
 
 import {
   Carousel,
@@ -16,7 +17,7 @@ import {
   CarouselItem,
 } from "@/components/ui/carousel";
 import Image from "next/image";
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import Autoplay from "embla-carousel-autoplay";
 // import CardPackage from "@/components/card";
 import Filter from "@/components/filter";
@@ -36,11 +37,42 @@ const [filters, setFilters] = useState({
   duration: [],
   price: [],
 });
+const [showDialog, setShowDialog] = useState(false);
+const hasShownRef = useRef(false);
   const locationData = useSelector((state) => state.destination);
   const Packagess = useSelector((state) => state.package);
-console.log("check destination", locationData)
   const dispatch = useDispatch();
 
+
+  // Show Dialog after 2 seconds (only once)
+  useEffect(() => {
+    if (!hasShownRef.current) {
+      const timer = setTimeout(() => {
+        setShowDialog(true);
+        hasShownRef.current = true;
+      }, 10000);
+
+      return () => clearTimeout(timer);
+    }
+  }, []);
+
+  // Show Dialog when mouse leaves the page (exit intent)
+  useEffect(() => {
+    const handleMouseLeave = (e) => {
+      // Only trigger when mouse moves to the top of the page
+      e.preventDefault();
+      if (e.clientY <= 0 && !hasShownRef.current) {
+        setShowDialog(true);
+        hasShownRef.current = true;
+      }
+    };
+
+    document.addEventListener("mouseleave", handleMouseLeave);
+
+    return () => {
+      document.removeEventListener("mouseleave", handleMouseLeave);
+    };
+  }, []);
   
   const fetchLocations = async () => {
     try {
@@ -110,11 +142,6 @@ console.log("dynamic route", location)
   },[filters,packagefound]);
 
 
-
-
-
-  console.log("Location pages", locationData.destinations, Packagess.packages,locationfound,packagefound)
-  console.log("filtered packages", filteredPackages)
   if (loading) return <div>Loading...</div>;
   if (!locationfound)
     return <p className="mt-8">Loading or Location Not Found...</p>;
@@ -148,8 +175,9 @@ console.log("dynamic route", location)
           </CarouselContent>
         </Carousel>
       </div>
+      <DialogForm showDialog={showDialog} setShowDialog={setShowDialog} name={locationfound?.name} data="location"/>
       <div className="bg-[#2463EB]">
-        <div className="container flex justify-between align-center items-center text-white md:ml-10">
+        <div className="container md:px-16 px-4 flex justify-between align-center items-center text-white md:ml-10">
           <div className="p-2">
             <p className="p-1 font-bold text-sm md:text-lg">LOCATION</p>
             <span className="flex">
@@ -184,15 +212,15 @@ console.log("dynamic route", location)
         </div>
       </div>
       {/* Details about location */}
-      <div className="conatiner bg-violet-100 p-8 m-6 px-10">
-        {/* <DestinationCard destination={locationfound.about} /> */}
+      <div className="conatiner bg-violet-100 rounded-sm p-8 m-6 px-10">
+        <DestinationCard destination={locationfound.about} />
       </div>
       {/* filter and packages */}
 
       <div className="flex flex-col md:flex-row md:mx-8 mb-6 mx-4 md:container">
-        <div className="flex md:order-2 sm:order-1 border-s-white shadow-md rounded-md">
-          <div className="w-[300px]">
-            <span className="flex">
+        <div className="flex md:order-2 sm:order-1 border max-h-[700px] shadow-md rounded-md">
+          <div className="w-[300px] mt-4">
+            <span className="flex px-2">
               <span className="p-1">
                 <LiaFilterSolid />
               </span>

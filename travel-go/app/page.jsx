@@ -13,46 +13,21 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Carousel, CarouselContent, CarouselItem } from "@/components/ui/carousel";
 import Autoplay from "embla-carousel-autoplay";
 import Image from "next/image";
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { Toaster } from "sonner";
 
+
+
 const categories = [{name:"Family",image:"/1.png"},{name:"Honeymoon",image:"/maldive.jpg"},{name:"Couple",image:"singapore.jpg"},{name:"Friends",image:"3.png"}]
-const steps = [
-  {
-    step: 1,
-    title: "Say Hello to Easy Travel",
-    description:
-      "Start your journey by sharing your travel plans with us through our website or a simple message.",
-    color: "red-500",
-  },
-  {
-    step: 2,
-    title: "Let’s Plan Together",
-    description:
-      "Our team will connect with you to understand your travel goals and customize your experience.",
-    color: "blue-500",
-  },
-  {
-    step: 3,
-    title: "Tailored Packages Just for You",
-    description:
-      "We’ll craft a package that perfectly suits your needs and preferences for an unforgettable trip.",
-    color: "yellow-500",
-  },
-  {
-    step: 4,
-    title: "Relax and Enjoy!",
-    description:
-      "Sit back as we handle the details. Pack your bags and embark on your dream journey with Easy Travel.",
-    color: "orange-500",
-  },
-];
+
 export default function Home() {
   const [Offer, setOffer] = useState(["/1.png","/2.png","/3.png"])
+
+  
   return (
     <div className="">
     <Hero />
-    
+   
     <SearchBar />
     <section className="mt-4">
       <div className=" container md:ml-10">
@@ -128,8 +103,11 @@ export default function Home() {
         </section>
     {/* Our process */}
 
-    <div className="bg-yellow-100 py-10 px-6">
-      <div className="container mx-auto text-center">
+    <div className=" py-10 px-6">
+   
+  Your browser does not support HTML video.
+
+      {/* <div className="container mx-auto text-center">
         <h1 className="text-4xl font-bold text-blue-600 mb-6">
           Easy & Simple Process With Easy Travel
         </h1>
@@ -155,12 +133,12 @@ export default function Home() {
             </Card>
           ))}
         </div>
-      </div>
+      </div> */}
     </div>
 
     {/* Contact Form */}
     <Toaster className="size-10 p-6"/>
-    <div className="container items-center p-6">
+    <div className="container  p-6">
 
     <ContactForm />
     

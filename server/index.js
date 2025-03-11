@@ -11,10 +11,10 @@ const formdataRoutes = require("./routes/FormData")
 dotenv.config()
  
 // Log the MongoDB URL (with password hid
-const mongoUrl = process.env.MONGO_URL;
-console.log('MongoDB URL:', mongoUrl.replace(/:([^@]+)@/, ':****@'));
+// const mongoUrl = process.env.MONGO_URL;
+// console.log('MongoDB URL:', mongoUrl.replace(/:([^@]+)@/, ':****@'));
 
-mongoose.connect(process.env.MONGO_URL)
+mongoose.connect(process.env.MONGO_URI)
 .then(async () => {
   console.log('Connected to MongoDB');
   console.log('Database:', mongoose.connection.db.databaseName);

@@ -65,7 +65,7 @@ export default function TabsData({ Package }) {
                   Day {index+1}: {item.title}
                 </AccordionTrigger>
                 <AccordionContent>
-                 {item.details.map((point)=><li className="ml-2">{point}</li>)} 
+                 {item.details.map((point)=><li className="ml-2 text-[15px]">{point}</li>)} 
                 </AccordionContent>
               </AccordionItem>
             ))}

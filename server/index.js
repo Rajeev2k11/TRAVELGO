@@ -34,7 +34,7 @@ mongoose.connect(process.env.MONGO_URI)
 
 app.use(express.json());
 app.use(cors({
-  origin: ['https://travelgo-frontend-hhg12hrxw-rajeev2k11s-projects.vercel.app/'],
+  origin: ['https://travelgo-frontend-lemon.vercel.app/'],
   methods: ['GET', 'POST'],
 }));
 app.use(express.static('public'));

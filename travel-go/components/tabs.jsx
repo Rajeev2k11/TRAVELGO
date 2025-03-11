@@ -46,9 +46,10 @@ export default function TabsData({ Package }) {
           <div className="p-4">
             <h1 className="text-lg font-bold py-2">Things to do</h1>
             {Package?.thingstodo?.map((points,index)=>
+            
             <div>
               <h1 className="font-bold py-2"> 🎯 {points.title}</h1>
-              {points.details.map((detail,index)=><p className="px-4 py-1">✅{detail}</p>)}
+              {points?.details?.map((detail,index)=><p className="px-4 py-1">✅{detail}</p>)}
             </div>
             )}
           </div>

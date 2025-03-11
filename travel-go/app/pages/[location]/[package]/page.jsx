@@ -137,12 +137,12 @@ const Page = () => {
             </p>
             <div className="p-4 font-semibold">
             <span className="flex"><span className="p-1 text-md"><MdAddLocationAlt/></span>
-            <h2 >Destinations: {packagefound.tripoverview.Destinations}</h2></span>
+            <h2 >Destinations: {packagefound?.tripoverview?.Destinations}</h2></span>
             <span className="flex"><span className="p-1 text-md"><MdOutlineAccessTime /> </span>
-            <h2 >Duration: {packagefound.tripoverview.Duration}</h2></span>
+            <h2 >Duration: {packagefound?.tripoverview?.Duration}</h2></span>
             <span className="flex"><span className="p-1 text-md"><BiTrip />
             </span>
-            <h2 >Experience: {packagefound.tripoverview.Experience}</h2></span>
+            <h2 >Experience: {packagefound?.tripoverview?.Experience}</h2></span>
             </div>
           </div>
           <TabsData Package={packagefound} />

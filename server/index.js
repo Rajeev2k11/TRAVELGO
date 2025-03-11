@@ -33,15 +33,18 @@ mongoose.connect(process.env.MONGO_URI)
 });
 
 app.use(express.json());
-app.use(cors({
-  origin: ['https://travelgo-frontend-lemon.vercel.app/'],
-  methods: ['GET', 'POST'],
-}));
+app.use(
+  cors({
+    origin: 'http://localhost:3000' || 'https://travelgo-frontend.onrender.com', // Allow requests from localhost:3000
+    methods: ['GET', 'POST', 'PUT', 'DELETE'], // Specify allowed methods
+    credentials: true, // If cookies or auth tokens are required
+  })
+);
 app.use(express.static('public'));
 
 
 
-const PORT = 5001;
+const PORT = process.env.PORT || 5001;
 
 app.use("/api/locations", destinationRoutes);
 

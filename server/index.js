@@ -35,7 +35,7 @@ mongoose.connect(process.env.MONGO_URI)
 app.use(express.json());
 app.use(
   cors({
-    origin: 'http://localhost:3000' || 'https://travelgo-frontend.onrender.com' || 'https://travelgo-frontend-lemon.vercel.app/', // Allow requests from localhost:3000
+    origin: 'http://localhost:3000' || 'https://travelgo-frontend.onrender.com' || 'https://travelgo-frontend-lemon.vercel.app', // Allow requests from localhost:3000
     methods: ['GET', 'POST', 'PUT', 'DELETE'], // Specify allowed methods
     credentials: true, // If cookies or auth tokens are required
   })

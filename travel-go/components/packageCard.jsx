@@ -8,7 +8,7 @@ export const PackageCard = ({pkg}) => {
 console.log("pkgcard",pkg )
 
   return (
-    <Card className="rounded-2xl shadow-lg overflow-hidden w-[300px] ml-2 md:w-[400px]">
+    <Card className="rounded-2xl shadow-lg overflow-hidden w-[300px] ml-2 md:w-[300px]">
       {/* Image Section */}
       <div className="w-full">
         <img src={pkg.images[0]} alt={pkg.location} className="w-full h-[200px] object-cover " />

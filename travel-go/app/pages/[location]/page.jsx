@@ -1,15 +1,13 @@
 "use client";
-import {
-
-  useParams,
-} from "next/navigation";
+import { useParams } from "next/navigation";
 import { DestinationCard } from "../../../components/destinationCard";
 
 import { FaLocationDot } from "react-icons/fa6";
 import { IoMdPricetag } from "react-icons/io";
 import { GiIndiaGate } from "react-icons/gi";
 import { LiaFilterSolid } from "react-icons/lia";
-import {DialogForm} from "@/components/modalform"
+import { DialogForm } from "@/components/modalform";
+import { Progress } from "@/components/ui/progress";
 
 import {
   Carousel,
@@ -26,23 +24,23 @@ import { setError } from "@/app/redux/slices/destinationSlice";
 import { setPackage } from "@/app/redux/slices/packageSlice";
 import axios from "axios";
 import { setDestinations } from "../../redux/slices/destinationSlice";
-import {PackageCard} from "../../../components/packageCard";
+import { PackageCard } from "../../../components/packageCard";
 
 const page = () => {
   const location = useParams().location;
-const [loading, setLoading] = useState(true);
-const apiUrl = process.env.NEXT_PUBLIC_API_URL;
-const [filters, setFilters] = useState({
-  theme: [], 
-  duration: [],
-  price: [],
-});
-const [showDialog, setShowDialog] = useState(false);
-const hasShownRef = useRef(false);
+  const [loading, setLoading] = useState(true);
+  const apiUrl = process.env.NEXT_PUBLIC_API_URL;
+  const [filters, setFilters] = useState({
+    theme: [],
+    duration: [],
+    price: [],
+  });
+  const [showDialog, setShowDialog] = useState(false);
+  const [progress,setProgress] = useState(20)
+  const hasShownRef = useRef(false);
   const locationData = useSelector((state) => state.destination);
   const Packagess = useSelector((state) => state.package);
   const dispatch = useDispatch();
-
 
   // Show Dialog after 2 seconds (only once)
   useEffect(() => {
@@ -73,41 +71,55 @@ const hasShownRef = useRef(false);
       document.removeEventListener("mouseleave", handleMouseLeave);
     };
   }, []);
+
+  const fetchData = async () =>{
+    setLoading(true);
+    try {
+      
+      const [locationsResponse, packagesResponse] = await Promise.all([
+        fetch(`${apiUrl}/api/locations/`,{headers:{'Cache-control': 'no-cache'}}),
+        fetch(`${apiUrl}/api/packages/`,{headers:{'Cache-control': 'no-cache'}}),
+      ])
+
+      if (!locationsResponse.ok) {
+        throw new Error(`Locations API error: ${locationsResponse.status}`);
+      }
+      
+      if (!packagesResponse.ok) {
+        throw new Error(`Packages API error: ${packagesResponse.status}`);
+      }
+      
+      const locationsData = await locationsResponse.json();
+      const packagesData = await packagesResponse.json();
+
+      dispatch(setDestinations(locationsData))
+      dispatch(setPackage(packagesData))
+
+    } catch (error) {
+      console.error("Error fetching data:", error);
+      dispatch(setError(error.message || "Failed to fetch data"));
+    } finally {
+      setLoading(false)
+    }
+  }
+
   
-  const fetchLocations = async () => {
-    try {
-      const locations = await axios.get(`${apiUrl}/api/locations/`);
-      const data = await locations.data;
-      dispatch(setDestinations(data));
-    } catch (error) {
-      dispatch(setError(error));
-    }
-  };
-
-  const fetchPackages = async () => {
-    try {
-      const packages = await axios.get(`${apiUrl}/api/packages/`);
-      const data = await packages.data;
-      dispatch(setPackage(data));
-    } catch (error) {
-      dispatch(setError(error));
-    }
-  };
-
- 
-
   useEffect(() => {
-    fetchLocations();
-    fetchPackages();
-    setLoading(false)
+    fetchData()
+    const timer = setTimeout(()=>setProgress(70),500)
+
+    return() => clearTimeout(timer)
   }, []);
 
-console.log("dynamic route", location)
- 
+  console.log("dynamic route", location);
+
   const locationfound = locationData.destinations.find(
     (lname) => lname.name.split(" ")[0].toLowerCase() === location.toLowerCase()
   );
-  const packagefound = Packagess.packages.filter((pname) => pname.location.split(" ")[0].toLowerCase() === location.toLowerCase());
+  const packagefound = Packagess.packages.filter(
+    (pname) =>
+      pname.location.split(" ")[0].toLowerCase() === location.toLowerCase()
+  );
 
   const handleFilterChange = (newFilters) => {
     setFilters(newFilters);
@@ -115,13 +127,17 @@ console.log("dynamic route", location)
 
   const filteredPackages = useMemo(() => {
     return packagefound.filter((pkg) => {
-      const matchesTheme = filters.theme.length === 0 || filters.theme.includes(pkg.theme);
+      const matchesTheme =
+        filters.theme.length === 0 || filters.theme.includes(pkg.theme);
       const matchesDuration =
         filters.duration.length === 0 ||
         filters.duration.some((d) => {
-          if (d === "1-3 Days") return pkg.duration.day >= 1 && pkg.duration.day <= 3;
-          if (d === "4-7 Days") return pkg.duration.day >= 4 && pkg.duration.day <= 7;
-          if (d === "8-10 Days") return pkg.duration.day >= 8 && pkg.duration.day <= 10;
+          if (d === "1-3 Days")
+            return pkg.duration.day >= 1 && pkg.duration.day <= 3;
+          if (d === "4-7 Days")
+            return pkg.duration.day >= 4 && pkg.duration.day <= 7;
+          if (d === "8-10 Days")
+            return pkg.duration.day >= 8 && pkg.duration.day <= 10;
           if (d === "10+ Days") return pkg.duration.day > 10;
           return false;
         });
@@ -130,23 +146,36 @@ console.log("dynamic route", location)
         filters.price.length === 0 ||
         filters.price.some((p) => {
           if (p === "0-7999 INR") return pkg.price <= 7999;
-          if (p === "7999-17999 INR") return pkg.price > 7999 && pkg.price <= 17999;
-          if (p === "17999-24999 INR") return pkg.price > 17999 && pkg.price <= 24999;
-          if (p === "24999-33999 INR") return pkg.price > 24999 && pkg.price <= 33999;
+          if (p === "7999-17999 INR")
+            return pkg.price > 7999 && pkg.price <= 17999;
+          if (p === "17999-24999 INR")
+            return pkg.price > 17999 && pkg.price <= 24999;
+          if (p === "24999-33999 INR")
+            return pkg.price > 24999 && pkg.price <= 33999;
           if (p === "Above 34000 INR") return pkg.price > 34000;
           return false;
         });
 
       return matchesTheme && matchesDuration && matchesPrice;
     });
-  },[filters,packagefound]);
+  }, [filters, packagefound]);
 
+  if (loading)
+    return (
+      <div className="md:mt-[280px] mt-[250px] p-[50px] max-w-[800px] md:ml-[300px]">
+        Loading...
+        <Progress className="md:justify-center" value={progress} />
+      </div>
+    );
 
-  if (loading) return <div>Loading...</div>;
   if (!locationfound)
-    return <p className="mt-8">Loading or Location Not Found...</p>;
+    return (
+      <div className="md:mt-[280px] mt-[250px] max-w-[800px] p-[50px] md:ml-[300px]">
+        Loading...
+        <Progress className="md:justify-center" value={67} />
+      </div>
+    );
 
-  
   return (
     <div className=" w-full">
       <div>
@@ -175,7 +204,12 @@ console.log("dynamic route", location)
           </CarouselContent>
         </Carousel>
       </div>
-      <DialogForm showDialog={showDialog} setShowDialog={setShowDialog} name={locationfound?.name} data="location"/>
+      <DialogForm
+        showDialog={showDialog}
+        setShowDialog={setShowDialog}
+        name={locationfound?.name}
+        data="location"
+      />
       <div className="bg-[#2463EB]">
         <div className="container md:px-16 px-4 flex justify-between align-center items-center text-white md:ml-10">
           <div className="p-2">
@@ -201,7 +235,7 @@ console.log("dynamic route", location)
           <div className="p-2 sm:block hidden">
             <p className="p-1 font-bold text-sm md:text-lg">TOP ATTRACTION</p>
             <span className="flex">
-              <span >
+              <span>
                 <GiIndiaGate />
               </span>
               <h1 className="text-sm md:text-md">
@@ -226,14 +260,14 @@ console.log("dynamic route", location)
               </span>
               <h1>Filters</h1>
             </span>
-            <Filter onFilterChange={handleFilterChange}/>
+            <Filter onFilterChange={handleFilterChange} />
           </div>
         </div>
 
-        <div className="flex flex-wrap md:order-1 sm:order-2 md:ml-12 md:w-[140vh]">
+        <div className="flex flex-wrap md:order-1 sm:order-2 md:ml-12 md:w-[140vh] overflow-auto h-[100vh] scroll-smooth">
           {filteredPackages.map((pkg, index) => (
             <div className="px-1 py-3 mx-1" key={index}>
-              <PackageCard pkg={pkg}/>
+              <PackageCard pkg={pkg} />
             </div>
           ))}
         </div>

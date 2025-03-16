@@ -16,28 +16,28 @@ export default function TabsData({ Package }) {
         <TabsList className="flex justify-between">
           <TabsTrigger
             value="itinerary"
-            className="data-[state=active]:bg-violet-500 md:w-[180px] w-[110px] data-[state=active]:text-white data-[state=active]:shadow-lg data-[state=active]:border-violet-300 rounded-lg md:px-6 py-1 md:text-lg font-semibold transition-colors hover:bg-violet-200"
+            className="data-[state=active]:bg-violet-500 md:w-[180px] w-[110px] data-[state=active]:text-white data-[state=active]:shadow-lg data-[state=active]:border-violet-300 rounded-lg md:px-6 py-1 md:text-lg text-md font-semibold transition-colors hover:bg-violet-200"
           >
             Itinerary
           </TabsTrigger>
           <Separator orientation="vertical" />
           <TabsTrigger
             value="things"
-            className="data-[state=active]:bg-violet-500 md:w-[180px] w-[110px] data-[state=active]:text-white data-[state=active]:shadow-lg data-[state=active]:border-violet-300 rounded-lg md:px-6 py-1 md:text-lg font-semibold transition-colors hover:bg-violet-200"
+            className="data-[state=active]:bg-violet-500 md:w-[180px] w-[110px] data-[state=active]:text-white data-[state=active]:shadow-lg data-[state=active]:border-violet-300 rounded-lg md:px-6 py-1 md:text-lg text-md font-semibold transition-colors hover:bg-violet-200"
           >
             Things to do
           </TabsTrigger>
           <Separator orientation="vertical" />
           <TabsTrigger
             value="inclusions"
-            className="data-[state=active]:bg-violet-500 md:w-[180px] w-[110px] data-[state=active]:text-white data-[state=active]:shadow-lg data-[state=active]:border-violet-300 rounded-lg md:px-6 py-1 md:text-lg font-semibold transition-colors hover:bg-violet-200"
+            className="data-[state=active]:bg-violet-500 md:w-[180px] w-[110px] data-[state=active]:text-white data-[state=active]:shadow-lg data-[state=active]:border-violet-300 rounded-lg md:px-6 py-1 md:text-lg text-md font-semibold transition-colors hover:bg-violet-200"
           >
             Inclusions
           </TabsTrigger>
           <Separator orientation="vertical" />
           <TabsTrigger
             value="location"
-            className="data-[state=active]:bg-violet-500 md:w-[180px] w-[110px] data-[state=active]:text-white data-[state=active]:shadow-lg data-[state=active]:border-violet-300 rounded-lg md:px-6 py-1 md:text-lg font-semibold transition-colors hover:bg-violet-200 hidden md:block"
+            className="data-[state=active]:bg-violet-500 md:w-[180px] w-[110px] data-[state=active]:text-white data-[state=active]:shadow-lg data-[state=active]:border-violet-300 rounded-lg md:px-6 py-1 md:text-lg text-md font-semibold transition-colors hover:bg-violet-200 hidden md:block"
           >
             Location
           </TabsTrigger>
@@ -49,7 +49,7 @@ export default function TabsData({ Package }) {
             
             <div>
               <h1 className="font-bold py-2"> 🎯 {points.title}</h1>
-              {points?.details?.map((detail,index)=><p className="px-4 py-1">✅{detail}</p>)}
+              {points?.details?.map((detail,index)=><p className="px-4 py-1">✅ {detail}</p>)}
             </div>
             )}
           </div>
@@ -62,11 +62,11 @@ export default function TabsData({ Package }) {
                 value={item.title}
                 className="border border-violet-600 rounded-sm p-1 px-3 my-3 shadow-lg"
               >
-                <AccordionTrigger className="decoration-neutral-50 text-md">
+                <AccordionTrigger className="decoration-neutral-50 md:text-lg">
                   Day {index+1}: {item.title}
                 </AccordionTrigger>
                 <AccordionContent>
-                 {item.details.map((point)=><li className="ml-2 text-[15px]">{point}</li>)} 
+                 {item.details.map((point)=><li className="ml-2 md:text-[17px]">{point}</li>)} 
                 </AccordionContent>
               </AccordionItem>
             ))}

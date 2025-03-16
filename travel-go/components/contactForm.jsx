@@ -69,20 +69,12 @@ const ContactForm = () => {
     }
   };
   return (
-    <div>
-      <motion.div
-        initial={{ opacity: 0, y: 50 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.8 }}
-        className="w-full max-w-md p-6 bg-white rounded-lg shadow-lg md:w-1/2 md:max-w-lg"
-      >
-        <h2 className="text-2xl font-bold mb-4 text-center text-gray-800">
+    <div className="w-100 border p-6 rounded-xl shadow md:mr-10">
+    
+        <h2 className="text-2xl font-bold text-center text-gray-800 mb-4">
           Plan Your Dream Trip ✈️
         </h2>
-        <p className="text-center text-gray-500 mb-4">
-          Let us know your travel preferences and we'll craft the perfect
-          package for you.
-        </p>
+        
 
         {/* Form */}
         <form onSubmit={handleSubmit}>
@@ -169,7 +161,7 @@ const ContactForm = () => {
             Submit Request
           </motion.button>
         </form>
-      </motion.div>
+
     </div>
   );
 };

@@ -1,5 +1,5 @@
 "use client";
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { FiMenu, FiX } from "react-icons/fi";
 import { FaAngleDown, FaAngleUp } from "react-icons/fa";
 
@@ -59,6 +59,11 @@ const Navbar = () => {
 // Updated Dropdown Component
 const Dropdown = ({ title, isMobile = false }) => {
   const [open, setOpen] = useState(false);
+  const [height, setHeight] = useState(0);
+  const contentRef = useRef(null);
+  const dropdownRef = useRef(null);
+  const timeoutRef = useRef(null);
+  
   const destinations = {
     Destinations: [
       { name: "Ladakh", link: "/pages/Ladakh", trending: true },
@@ -66,6 +71,7 @@ const Dropdown = ({ title, isMobile = false }) => {
       { name: "Kashmir", link: "/pages/Kashmir" },
       { name: "Andaman", link: "/pages/Andaman" },
       { name: "Rajasthan", link: "/pages/Rajasthan" },
+      { name: "Himachal", link: "/pages/Himachal" },
     ],
     Themes: [
       { name: "Groups", link: "/pages/Groups" },
@@ -75,42 +81,81 @@ const Dropdown = ({ title, isMobile = false }) => {
     ],
   };
 
+  // Calculate and update height when content changes or when opened/closed
+  useEffect(() => {
+    if (contentRef.current) {
+      setHeight(open ? contentRef.current.scrollHeight : 0);
+    }
+  }, [open, destinations]);
+
+  // Clear timeout when component unmounts
+  useEffect(() => {
+    return () => {
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current);
+      }
+    };
+  }, []);
+
+  const handleMouseEnter = () => {
+    if (!isMobile) {
+      // Clear any existing timeout to prevent closing
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current);
+        timeoutRef.current = null;
+      }
+      setOpen(true);
+    }
+  };
+
+  const handleMouseLeave = () => {
+    if (!isMobile) {
+      // Use a ref to store the timeout ID so it can be cleared if needed
+      timeoutRef.current = setTimeout(() => {
+        setOpen(false);
+      }, 300);
+    }
+  };
+
   return (
     <div 
+      ref={dropdownRef}
       className="relative text-[16px]"
-      onMouseEnter={() => !isMobile && setOpen(true)}
-      onMouseLeave={() => !isMobile && setTimeout(() => setOpen(false), 400)}
+      onMouseEnter={handleMouseEnter}
+      onMouseLeave={handleMouseLeave}
     >
       <button 
-        className="hover:text-gray-300 flex items-center"
+        className="hover:text-gray-300 flex items-center transition-colors duration-300"
         onClick={() => isMobile && setOpen(!open)}
       >
-        {title} {open ? <FaAngleUp className="ml-1" />:<FaAngleDown className="ml-1" />}
+        {title} {open ? <FaAngleUp className="ml-1" /> : <FaAngleDown className="ml-1" />}
       </button>
-      {open && destinations[title] && (
-        <div 
-          className="absolute left-0 mt-2 w-60 bg-white text-black shadow-md py-2 z-50"
-          onMouseEnter={() => setOpen(true)}
-          onMouseLeave={() => setOpen(false)}
-        >
-          <div className="w-full px-2">
-            {destinations[title].map((dest) => (
-              <a
-                key={dest.name}
-                href={dest.link}
-                className="block px-4 py-2 hover:bg-violet-200 items-center text-[16px]"
-              >
-                {dest.name}
-                {dest.trending && (
-                  <span className="ml-2 bg-blue-200 text-blue-800 text-xs px-2 py-0.5 rounded-full">
-                    Trending
-                  </span>
-                )}
-              </a>
-            ))}
-          </div>
+      
+      <div 
+        className={`absolute left-0 mt-2 w-60 bg-white text-black shadow-md overflow-hidden transition-all duration-300 z-50`}
+        style={{ 
+          maxHeight: `${height}px`, 
+          opacity: height > 0 ? 1 : 0,
+          visibility: height > 0 ? 'visible' : 'hidden'
+        }}
+      >
+        <div ref={contentRef} className="w-full px-2 py-2">
+          {destinations[title] && destinations[title].map((dest) => (
+            <a
+              key={dest.name}
+              href={dest.link}
+              className="block px-4 py-2 hover:bg-violet-200 items-center text-[16px] transition-colors duration-200"
+            >
+              {dest.name}
+              {dest.trending && (
+                <span className="ml-2 bg-blue-200 text-blue-800 text-xs px-2 py-0.5 rounded-full">
+                  Trending
+                </span>
+              )}
+            </a>
+          ))}
         </div>
-      )}
+      </div>
     </div>
   );
 };

@@ -37,8 +37,8 @@ const handleChange =(value)=>{
   };
 console.log(suggestions,"suggestions")
   return (
-    <div className="relative w-full max-w-2xl mx-auto mt-[-30px]">
-      <div className="flex items-center border-4 border-violet-500 rounded-full bg-white px-4 py-2 shadow-md ">
+    <div className="relative w-full max-w-2xl mx-auto mt-[-30px] px-4">
+      <div className="flex items-center border-4 border-violet-500 rounded-full bg-white px-4 md:py-2 shadow-md ">
         <input
           type="text"
           placeholder="Search destinations 'Kashmir' "

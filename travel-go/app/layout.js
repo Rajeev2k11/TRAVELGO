@@ -1,5 +1,5 @@
 "use client"; 
-import { Inter } from "next/font/google";
+
 import "./globals.css";
 import { Roboto } from 'next/font/google'
 import Navbar from "@/components/header";
@@ -9,7 +9,7 @@ import ReduxProvider from "./redux/ReduxProvider";
 import Footer from "@/components/footer";
 
 
-const inter = Inter({ subsets: ["latin"] });
+
 
 
  

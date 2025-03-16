@@ -30,7 +30,7 @@ export default function Home() {
    
     <SearchBar />
     <section className="mt-4">
-      <div className=" container md:ml-10">
+      <div className="">
         <h2 className="text-2xl font-bold text-center p-4">
           Top Rated Destinations
         </h2>
@@ -39,8 +39,8 @@ export default function Home() {
         </section>
    
     <section className="bg-violet-100 p-4">
-      <div className=" container md:ml-10">
-        <h2 className="text-2xl font-bold text-center p-4">
+      <div className="md:ml-10">
+        <h2 className="text-2xl font-bold text-center md:p-4">
           Best Packages for You
         </h2>
           <BestPackage />
@@ -80,11 +80,11 @@ export default function Home() {
     </div>
     </section>
     <section className="mt-4  py-4 pb-10 md:h-[50vh]">
-      <div className=" container md:ml-10">
+      <div className=" ">
         <h2 className="text-2xl font-bold text-center p-4">
           In Demand Category
         </h2>
-        <div className="grid grid-cols-2 grid-rows-2 sm:h-[80vh] container md:flex md:gap-6 md:ml-[130px] p-2 ">
+        <div className="grid grid-cols-2 grid-rows-2 sm:h-[80vh] md:flex md:gap-6 p-2 justify-center">
         {categories.map((cat,index)=>
         <Card key={index} className="relative overflow-hidden rounded-2xl shadow-lg md:h-[250px] md:w-[250px] h-[170] w-[170px] my-2" >
       <CardContent className="p-0 h-full">
@@ -103,48 +103,21 @@ export default function Home() {
         </section>
     {/* Our process */}
 
-    <div className=" py-10 px-6">
+    <div className="py-10 px-6 flex justify-center">
    
-  Your browser does not support HTML video.
+  <p>Your browser does not support HTML video.</p>
 
-      {/* <div className="container mx-auto text-center">
-        <h1 className="text-4xl font-bold text-blue-600 mb-6">
-          Easy & Simple Process With Easy Travel
-        </h1>
-
-        <div className="grid md:grid-cols-1 lg:grid-cols-1 gap-6">
-          {steps.map((step) => (
-            <Card
-              key={step.step}
-              className={`bg-white p-6 flex md:flex-row md:items-center md:gap-4 md:border border-gray-300 rounded-lg shadow-lg`}
-            >
-              <div
-                className={`bg-${step.color} p-4 text-white font-bold text-3xl rounded-lg`}
-              >
-                Step #{step.step}
-              </div>
-
-              <div>
-                <h2 className="text-xl font-semibold text-gray-700">
-                  {step.title}
-                </h2>
-                <p className="text-gray-600 mt-2">{step.description}</p>
-              </div>
-            </Card>
-          ))}
-        </div>
-      </div> */}
+   
     </div>
 
     {/* Contact Form */}
     <Toaster className="size-10 p-6"/>
-    <div className="container  p-6">
-
+    <div className=" flex justify-evenly p-6 md:px-16">
+    <div className="hidden md:block">
+      <img src="/4563.jpg" alt="image" className="w-200 h-120"/>
+      </div>
     <ContactForm />
     
-    <div>
-      
-    </div>
     </div >
           
     </div>

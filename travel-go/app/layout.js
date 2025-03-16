@@ -1,7 +1,7 @@
 "use client"; 
 import { Inter } from "next/font/google";
 import "./globals.css";
-
+import { Roboto } from 'next/font/google'
 import Navbar from "@/components/header";
 
 import store from "./redux/store";
@@ -12,6 +12,11 @@ import Footer from "@/components/footer";
 const inter = Inter({ subsets: ["latin"] });
 
 
+ 
+const roboto = Roboto({
+  weight: '400',
+  subsets: ['latin'],
+})
 
 export default function RootLayout({ children }) {
  
@@ -21,7 +26,7 @@ export default function RootLayout({ children }) {
       <link rel="icon" href="/logo-sm.png" sizes="any" />
     </head>
     
-        <body className={`${inter.className}`}>
+        <body className={`${roboto.className}`}>
         <ReduxProvider store={store}>
           <Navbar />
           

@@ -130,7 +130,7 @@ const Page = () => {
               </span>
             ))}
           </div>
-          <div className="p-2 m-2 border bg-gray-50">
+          <div className="p-2 m-2 border-2 border-violet-500 rounded-xl">
             <h1 className="text-xl font-bold p-2">Overview</h1>
             <p className="p-2 text-gray-600">
               {packagefound?.package_description}
@@ -148,7 +148,7 @@ const Page = () => {
           <TabsData Package={packagefound} />
         </div>
         <div className="p-4">
-          <Card className="px-2 py-4 max-w-[400px]">
+          <Card className="px-2 py-4 max-w-[400px] ">
             <CardContent>
               <p className="text-sm font-serif mt-3 text-gray-600">
                 Starting from

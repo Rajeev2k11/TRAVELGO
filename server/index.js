@@ -1,19 +1,47 @@
-const express = require("express")
-const mongoose = require("mongoose")
+const express = require("express");
+const mongoose = require("mongoose");
 const dotenv = require("dotenv");
-const cors = require("cors")
+const cors = require("cors");
 const app = express();
 
 const destinationRoutes = require("./routes/DestinationRoute");
 const packageRoutes = require("./routes/PackageRoute");
-const formdataRoutes = require("./routes/FormData")
+const formdataRoutes = require("./routes/FormData");
 
-dotenv.config()
- 
-// Log the MongoDB URL (with password hid
-// const mongoUrl = process.env.MONGO_URL;
-// console.log('MongoDB URL:', mongoUrl.replace(/:([^@]+)@/, ':****@'));
+dotenv.config();
 
+// Define allowed origins BEFORE using them in cors configuration
+const allowedOrigins = [
+  'http://localhost:3000',         // Development
+  'https://travelgo-frontend-lemon.vercel.app', // Production
+  'http://localhost:5001'
+];
+
+// Configure CORS properly BEFORE using any other middleware
+app.use(cors({
+  origin: (origin, callback) => {
+    // Allow requests with no origin (like mobile apps, Postman, etc.)
+    if (!origin) return callback(null, true);
+    
+    if (allowedOrigins.includes(origin)) {
+      callback(null, true); // Allow the request
+    } else {
+      callback(new Error('Not allowed by CORS')); // Block other origins
+    }
+  },
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  credentials: true, // For cookies or tokens
+  allowedHeaders: ['Content-Type', 'Authorization', 'X-Requested-With']
+}));
+
+// Add explicit OPTIONS handling
+app.options('*', cors());
+
+// Other middleware
+app.use(express.json());
+app.use(express.static('public'));
+
+// MongoDB connection
 mongoose.connect(process.env.MONGO_URI)
 .then(async () => {
   console.log('Connected to MongoDB');
@@ -32,32 +60,19 @@ mongoose.connect(process.env.MONGO_URI)
   console.error('MongoDB connection error:', err);
 });
 
-app.use(express.json());
-const allowedOrigins = [
-  'http://localhost:3000',         // Development
-  'https://travelgo-frontend-lemon.vercel.app'  // Production
-];
-
-app.use(cors({
-  origin: (origin, callback) => {
-    if (allowedOrigins.includes(origin)) {
-      callback(null, true); // Allow the request
-    } else {
-      callback(new Error('Not allowed by CORS')); // Block other origins
-    }
-  },
-  methods: ['GET', 'POST', 'PUT', 'DELETE'],
-  credentials: true, // For cookies or tokens
-}));
-app.use(express.static('public'));
-
-
-
-const PORT = process.env.PORT || 5001;
-
+// Routes
 app.use("/api/locations", destinationRoutes);
-
 app.use("/api/packages", packageRoutes);
 app.use("/api/formdata", formdataRoutes);
 
+// Error handling middleware
+app.use((err, req, res, next) => {
+  console.error(err.stack);
+  res.status(500).json({ 
+    error: err.message || 'Internal Server Error',
+    stack: process.env.NODE_ENV === 'production' ? '🥞' : err.stack
+  });
+});
+
+const PORT = process.env.PORT || 5001;
 app.listen(PORT, () => console.log(`Server port: ${PORT}`));

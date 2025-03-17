@@ -2,7 +2,47 @@
 import { useEffect, useRef, useState } from "react";
 import { FiMenu, FiX } from "react-icons/fi";
 import { FaAngleDown, FaAngleUp } from "react-icons/fa";
+import {
+  Sidebar,
+  SidebarContent,
+  SidebarGroup,
+  SidebarGroupContent,
+  SidebarGroupLabel,
+  SidebarMenu,
+  SidebarMenuButton,
+  SidebarMenuItem,
+  SidebarProvider,
+} from "@/components/ui/sidebar"
+import { Calendar, Home, Inbox, Search, Settings } from "lucide-react"
 
+
+const items = [
+  {
+    title: "Home",
+    url: "#",
+    icon: Home,
+  },
+  {
+    title: "Inbox",
+    url: "#",
+    icon: Inbox,
+  },
+  {
+    title: "Calendar",
+    url: "#",
+    icon: Calendar,
+  },
+  {
+    title: "Search",
+    url: "#",
+    icon: Search,
+  },
+  {
+    title: "Settings",
+    url: "#",
+    icon: Settings,
+  },
+]
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -40,17 +80,40 @@ const Navbar = () => {
 
       {/* Mobile Menu */}
       {menuOpen && (
-        <div className="md:hidden bg-black bg-opacity-80 backdrop-blur-md absolute w-full left-0 top-16 p-4 flex flex-col space-y-4 text-white">
-          <a href="/" className="hover:text-violet-500">Home</a>
-          <Dropdown title="Destinations" isMobile />
-          <Dropdown title="Themes" isMobile />
-          <a href="/blogs" className="hover:text-violet-500">Blogs</a>
-          <a href="/trip-planner" className="relative hover:text-violet-500">
-            Trip Planner
-            <span className="ml-2 bg-red-500 text-white text-xs px-2 py-0.5 rounded-full">New</span>
-          </a>
-          <a href="/contact" className="hover:text-violet-500">Contact Us</a>
-        </div>
+        // <div className="md:hidden bg-black bg-opacity-80 backdrop-blur-md absolute w-full left-0 top-16 p-4 flex flex-col space-y-4 text-white">
+        //   <a href="/" className="hover:text-violet-500">Home</a>
+        //   <Dropdown title="Destinations" isMobile />
+        //   <Dropdown title="Themes" isMobile />
+        //   <a href="/blogs" className="hover:text-violet-500">Blogs</a>
+        //   <a href="/trip-planner" className="relative hover:text-violet-500">
+        //     Trip Planner
+        //     <span className="ml-2 bg-red-500 text-white text-xs px-2 py-0.5 rounded-full">New</span>
+        //   </a>
+        //   <a href="/contact" className="hover:text-violet-500">Contact Us</a>
+        // </div>
+        <SidebarProvider>
+        <Sidebar>
+        <SidebarContent>
+          <SidebarGroup>
+            <SidebarGroupLabel>Application</SidebarGroupLabel>
+            <SidebarGroupContent>
+              <SidebarMenu>
+                {items.map((item) => (
+                  <SidebarMenuItem key={item.title}>
+                    <SidebarMenuButton asChild>
+                      <a href={item.url}>
+                        <item.icon />
+                        <span>{item.title}</span>
+                      </a>
+                    </SidebarMenuButton>
+                  </SidebarMenuItem>
+                ))}
+              </SidebarMenu>
+            </SidebarGroupContent>
+          </SidebarGroup>
+        </SidebarContent>
+      </Sidebar>
+      </SidebarProvider>
       )}
     </nav>
   );

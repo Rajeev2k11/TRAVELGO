@@ -31,8 +31,8 @@ const TopDestination = () => {
       const response = await fetch(`${apiUrl}/api/locations`, {
         signal: controller.signal,
         headers: {
-          'Cache-Control': 'no-cache',
-          'Pragma': 'no-cache'
+          'Content-Type': 'application/json',
+        'Cache-Control': 'no-cache' // Optional
         }
       });
       

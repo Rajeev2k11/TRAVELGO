@@ -12,6 +12,7 @@ import Footer from "@/components/footer";
 
 
 
+
  
 const roboto = Roboto({
   weight: '400',
@@ -27,16 +28,18 @@ export default function RootLayout({ children }) {
     </head>
     
         <body className={`${roboto.className}`}>
+
         <ReduxProvider store={store}>
+        
           <Navbar />
-          
+        
           <main className="min-h-screen">{children}</main>
          
 
           <Footer />
           </ReduxProvider>
+   
         </body>
-        
   </html>
   );
 }

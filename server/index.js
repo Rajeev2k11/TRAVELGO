@@ -20,22 +20,27 @@ const allowedOrigins = [
 // Configure CORS properly BEFORE using any other middleware
 app.use(cors({
   origin: (origin, callback) => {
-    // Allow requests with no origin (like mobile apps, Postman, etc.)
-    if (!origin) return callback(null, true);
-    
+    if (!origin) return callback(null, true); // Allow Postman/Mobile Apps
     if (allowedOrigins.includes(origin)) {
-      callback(null, true); // Allow the request
+      callback(null, true); // Allow listed origins
     } else {
-      callback(new Error('Not allowed by CORS')); // Block other origins
+      callback(new Error('Not allowed by CORS'));
     }
   },
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   credentials: true, // For cookies or tokens
-  allowedHeaders: ['Content-Type', 'Authorization', 'X-Requested-With']
+  allowedHeaders: ['Content-Type', 'Authorization', 'X-Requested-With', 'Cache-Control'] // Add Cache-Control
 }));
 
+
 // Add explicit OPTIONS handling
-app.options('*', cors());
+app.options('*', (req, res) => {
+  res.header('Access-Control-Allow-Origin', req.get('Origin'));
+  res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
+  res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, Cache-Control');
+  res.header('Access-Control-Allow-Credentials', 'true');
+  res.sendStatus(204); // No content for preflight
+});
 
 // Other middleware
 app.use(express.json());

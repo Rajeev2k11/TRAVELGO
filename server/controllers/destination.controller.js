@@ -24,6 +24,30 @@ export class DestinationController {
     }
   }
 
+  static async findTopDestinations(req, res) {
+    try {
+      const destinations = await DestinationService.findTopDestinations();
+      return res.json(ResponseUtil.success(destinations));
+    } catch (error) {
+      return res.status(500).json(ResponseUtil.error(error.message));
+    }
+  }
+
+  static async searchByName(req, res) {
+    try {
+      const { name } = req.query;
+      if (!name) {
+        return res
+          .status(400)
+          .json(ResponseUtil.error("Please provide a search query"));
+      }
+      const destinations = await DestinationService.searchByName(name);
+      return res.json(ResponseUtil.success(destinations));
+    } catch (error) {
+      return res.status(500).json(ResponseUtil.error(error.message));
+    }
+  }
+
   static async findById(req, res) {
     try {
       const destination = await DestinationService.findById(req.params.id);

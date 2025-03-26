@@ -6,11 +6,12 @@ export class DestinationService {
   }
 
   static async findAll(query = {}) {
-    const { page = 1, limit = 10, type, search } = query;
+    const { page = 1, limit = 10, type, search, rating } = query;
     const skip = (page - 1) * limit;
 
     const filter = {};
     if (type) filter.type = type;
+    if (rating) filter.rating = { $gt: Number(rating) };
     if (search) {
       filter.$or = [
         { title: { $regex: search, $options: "i" } },
@@ -37,6 +38,16 @@ export class DestinationService {
 
   static async findById(id) {
     return await Destination.findOne({ id }).lean();
+  }
+
+  static async findTopDestinations() {
+    return await Destination.find({ rating: { $gt: 4 } }).lean();
+  }
+
+  static async searchByName(name) {
+    return await Destination.find({
+      name: { $regex: name, $options: "i" },
+    }).lean();
   }
 
   static async update(id, updateData) {

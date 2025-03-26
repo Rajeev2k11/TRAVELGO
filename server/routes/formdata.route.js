@@ -13,21 +13,21 @@ router.post("/", FormdataService.create);
  * @description Get all the formdata from the database.
  * @returns {object[]} - Returns the array of objects.
  */
-router.get("/");
+router.get("/", FormdataService.getAll);
 
 /**
  * @description Get formdata based on id.
  * @param {string} id - Accepts the formid (_id).
  * @returns {object} - Returns the formdata.
  */
-router.get(":id");
+router.get(":id", FormdataService.getByID);
 
 /**
  * @description Delete the formdata from the database.
  * @param {string} id - Accepts the id of the formdata.
  * @returns {} - Returns nothing.
  */
-router.delete(":id");
+router.delete(":id", FormdataService.delete);
 
 /**
  * @description Update the formdata in the database.
@@ -35,6 +35,6 @@ router.delete(":id");
  * @param {object} req.body - Accepts the body of the formdata to update.
  * @returns {object} - Returns the udpated Formdata.
  */
-router.put(":id");
+router.put(":id", FormdataService.update);
 
 export default router;

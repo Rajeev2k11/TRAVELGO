@@ -1,0 +1,545 @@
+[
+  {
+    "id": "MAH001",
+    "name": "Maharashtra Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Maharashtra with our specially designed tour package.",
+    "adult": 1,
+    "child": 1,
+    "dateAdded": 1743427905027,
+    "relateKey": "Maharashtra",
+    "keywords": "Maharashtra, Mumbai, Ajanta, Ellora, Western Ghats, Bollywood",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Maharashtra",
+      "Lonavala",
+      "Nashik"
+    ],
+    "tourType": "Group",
+    "activityType": "Wine Tasting",
+    "landscapeType": "Coastal, Western Ghats, and Plateau",
+    "tags": [
+      "Adventure",
+      "Guided Tour"
+    ],
+    "webPackPrice": 49000,
+    "starRating": 3,
+    "hotel": "The Oberoi Mumbai",
+    "startDate": 1744032705027,
+    "endDate": "2025-04-13T13:31:45.027Z",
+    "duration": 8,
+    "monthLevelSelect": "May",
+    "destination": "Maharashtra, Lonavala, Nashik, Aurangabad",
+    "location": "maharashtra",
+    "dayWiseDuration": 8,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "maharashtra.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "maharashtra_1.png",
+      "maharashtra_2.png"
+    ],
+    "slug": "maharashtra-discovery-tour-1",
+    "notes": "Special notes for travelers visiting Maharashtra: Light clothing recommended",
+    "departureCity": "Aurangabad",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743687105027,
+      1748525505027
+    ]
+  },
+  {
+    "id": "MAH002",
+    "name": "Maharashtra Scenic Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Maharashtra with our specially designed tour package.",
+    "adult": 1,
+    "child": 2,
+    "dateAdded": 1743427905027,
+    "relateKey": "Maharashtra",
+    "keywords": "Maharashtra, Mumbai, Ajanta, Ellora, Western Ghats, Bollywood",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Maharashtra",
+      "Nagpur",
+      "Mumbai"
+    ],
+    "tourType": "Family",
+    "activityType": "Hill Station Retreats",
+    "landscapeType": "Coastal, Western Ghats, and Plateau",
+    "tags": [
+      "Religious",
+      "Guided Tour"
+    ],
+    "webPackPrice": 14000,
+    "starRating": 3,
+    "hotel": "The Leela Mumbai",
+    "startDate": 1744205505027,
+    "endDate": "2025-04-13T13:31:45.027Z",
+    "duration": 5,
+    "monthLevelSelect": "May",
+    "destination": "Maharashtra, Nagpur, Mumbai, Pune",
+    "location": "maharashtra",
+    "dayWiseDuration": 5,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "maharashtra.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "maharashtra_1.png",
+      "maharashtra_2.png"
+    ],
+    "slug": "maharashtra-scenic-tour-2",
+    "notes": "Special notes for travelers visiting Maharashtra: Winter wear essential",
+    "departureCity": "New Delhi",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745760705027,
+      1747402305027
+    ]
+  },
+  {
+    "id": "MAH003",
+    "name": "Maharashtra Heritage Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Maharashtra with our specially designed tour package.",
+    "adult": 3,
+    "child": 0,
+    "dateAdded": 1743427905027,
+    "relateKey": "Maharashtra",
+    "keywords": "Maharashtra, Mumbai, Ajanta, Ellora, Western Ghats, Bollywood",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Maharashtra",
+      "Nashik",
+      "Lonavala"
+    ],
+    "tourType": "Group",
+    "activityType": "Heritage Exploration",
+    "landscapeType": "Coastal, Western Ghats, and Plateau",
+    "tags": [
+      "Adventure",
+      "Guided Tour"
+    ],
+    "webPackPrice": 46000,
+    "starRating": 4,
+    "hotel": "The Leela Mumbai",
+    "startDate": 1743687105027,
+    "endDate": "2025-04-05T13:31:45.027Z",
+    "duration": 10,
+    "monthLevelSelect": "July",
+    "destination": "Maharashtra, Nashik, Lonavala, Aurangabad",
+    "location": "maharashtra",
+    "dayWiseDuration": 10,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "maharashtra.png",
+    "badges": [],
+    "dataImages": [
+      "maharashtra_1.png",
+      "maharashtra_2.png"
+    ],
+    "slug": "maharashtra-heritage-tour-3",
+    "notes": "Special notes for travelers visiting Maharashtra: Rain protection advised",
+    "departureCity": "Mumbai",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744205505027,
+      1745674305027
+    ]
+  },
+  {
+    "id": "MAH004",
+    "name": "Maharashtra Cultural Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Maharashtra with our specially designed tour package.",
+    "adult": 3,
+    "child": 1,
+    "dateAdded": 1743427905027,
+    "relateKey": "Maharashtra",
+    "keywords": "Maharashtra, Mumbai, Ajanta, Ellora, Western Ghats, Bollywood",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Maharashtra",
+      "Aurangabad",
+      "Nashik"
+    ],
+    "tourType": "Family",
+    "activityType": "City Tours",
+    "landscapeType": "Coastal, Western Ghats, and Plateau",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 16000,
+    "starRating": 4,
+    "hotel": "JW Marriott Pune",
+    "startDate": 1744119105027,
+    "endDate": "2025-04-13T13:31:45.027Z",
+    "duration": 7,
+    "monthLevelSelect": "November",
+    "destination": "Maharashtra, Aurangabad, Nashik, Lonavala",
+    "location": "maharashtra",
+    "dayWiseDuration": 7,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "maharashtra.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "maharashtra_1.png",
+      "maharashtra_2.png"
+    ],
+    "slug": "maharashtra-cultural-tour-4",
+    "notes": "Special notes for travelers visiting Maharashtra: Rain protection advised",
+    "departureCity": "Aurangabad",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745242305027,
+      1744637505027
+    ]
+  },
+  {
+    "id": "MAH005",
+    "name": "Maharashtra Explorer Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Maharashtra with our specially designed tour package.",
+    "adult": 4,
+    "child": 2,
+    "dateAdded": 1743427905027,
+    "relateKey": "Maharashtra",
+    "keywords": "Maharashtra, Mumbai, Ajanta, Ellora, Western Ghats, Bollywood",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Maharashtra",
+      "Lonavala",
+      "Nashik"
+    ],
+    "tourType": "Single",
+    "activityType": "City Tours",
+    "landscapeType": "Coastal, Western Ghats, and Plateau",
+    "tags": [
+      "Adventure",
+      "Guided Tour"
+    ],
+    "webPackPrice": 23000,
+    "starRating": 5,
+    "hotel": "Conrad Pune",
+    "startDate": 1744551105027,
+    "endDate": "2025-04-14T13:31:45.027Z",
+    "duration": 7,
+    "monthLevelSelect": "September",
+    "destination": "Maharashtra, Lonavala, Nashik, Pune",
+    "location": "maharashtra",
+    "dayWiseDuration": 7,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "maharashtra.png",
+    "badges": [],
+    "dataImages": [
+      "maharashtra_1.png",
+      "maharashtra_2.png"
+    ],
+    "slug": "maharashtra-explorer-tour-5",
+    "notes": "Special notes for travelers visiting Maharashtra: Carry sunscreen",
+    "departureCity": "Aurangabad",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745933505027,
+      1748093505027
+    ]
+  },
+  {
+    "id": "MAH006",
+    "name": "Maharashtra Heritage Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Maharashtra with our specially designed tour package.",
+    "adult": 4,
+    "child": 0,
+    "dateAdded": 1743427905027,
+    "relateKey": "Maharashtra",
+    "keywords": "Maharashtra, Mumbai, Ajanta, Ellora, Western Ghats, Bollywood",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Maharashtra",
+      "Aurangabad",
+      "Lonavala"
+    ],
+    "tourType": "Group",
+    "activityType": "Hill Station Retreats",
+    "landscapeType": "Coastal, Western Ghats, and Plateau",
+    "tags": [
+      "Luxury",
+      "Guided Tour"
+    ],
+    "webPackPrice": 32000,
+    "starRating": 5,
+    "hotel": "Conrad Pune",
+    "startDate": 1745242305027,
+    "endDate": "2025-04-27T13:31:45.027Z",
+    "duration": 10,
+    "monthLevelSelect": "October",
+    "destination": "Maharashtra, Aurangabad, Lonavala, Nagpur",
+    "location": "maharashtra",
+    "dayWiseDuration": 10,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "maharashtra.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "maharashtra_1.png",
+      "maharashtra_2.png"
+    ],
+    "slug": "maharashtra-heritage-tour-6",
+    "notes": "Special notes for travelers visiting Maharashtra: Rain protection advised",
+    "departureCity": "Pune",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744378305027,
+      1745760705027
+    ]
+  },
+  {
+    "id": "MAH007",
+    "name": "Maharashtra Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Maharashtra with our specially designed tour package.",
+    "adult": 1,
+    "child": 1,
+    "dateAdded": 1743427905027,
+    "relateKey": "Maharashtra",
+    "keywords": "Maharashtra, Mumbai, Ajanta, Ellora, Western Ghats, Bollywood",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Maharashtra",
+      "Aurangabad",
+      "Lonavala"
+    ],
+    "tourType": "Family",
+    "activityType": "City Tours",
+    "landscapeType": "Coastal, Western Ghats, and Plateau",
+    "tags": [
+      "Cultural",
+      "Guided Tour"
+    ],
+    "webPackPrice": 14000,
+    "starRating": 4,
+    "hotel": "The Leela Mumbai",
+    "startDate": 1745933505027,
+    "endDate": "2025-05-01T13:31:45.027Z",
+    "duration": 3,
+    "monthLevelSelect": "June",
+    "destination": "Maharashtra, Aurangabad, Lonavala, Nagpur",
+    "location": "maharashtra",
+    "dayWiseDuration": 3,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "maharashtra.png",
+    "badges": [],
+    "dataImages": [
+      "maharashtra_1.png",
+      "maharashtra_2.png"
+    ],
+    "slug": "maharashtra-discovery-tour-7",
+    "notes": "Special notes for travelers visiting Maharashtra: Rain protection advised",
+    "departureCity": "Bangalore",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743946305027,
+      1743600705027
+    ]
+  },
+  {
+    "id": "MAH008",
+    "name": "Maharashtra Heritage Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Maharashtra with our specially designed tour package.",
+    "adult": 1,
+    "child": 2,
+    "dateAdded": 1743427905027,
+    "relateKey": "Maharashtra",
+    "keywords": "Maharashtra, Mumbai, Ajanta, Ellora, Western Ghats, Bollywood",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Maharashtra",
+      "Nashik",
+      "Aurangabad"
+    ],
+    "tourType": "Couple",
+    "activityType": "Heritage Exploration",
+    "landscapeType": "Coastal, Western Ghats, and Plateau",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 24000,
+    "starRating": 3,
+    "hotel": "The Oberoi Mumbai",
+    "startDate": 1745415105027,
+    "endDate": "2025-04-26T13:31:45.027Z",
+    "duration": 6,
+    "monthLevelSelect": "May",
+    "destination": "Maharashtra, Nashik, Aurangabad, Lonavala",
+    "location": "maharashtra",
+    "dayWiseDuration": 6,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "maharashtra.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "maharashtra_1.png",
+      "maharashtra_2.png"
+    ],
+    "slug": "maharashtra-heritage-tour-8",
+    "notes": "Special notes for travelers visiting Maharashtra: Carry sunscreen",
+    "departureCity": "Lonavala",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745242305027,
+      1745242305027
+    ]
+  },
+  {
+    "id": "MAH009",
+    "name": "Maharashtra Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Maharashtra with our specially designed tour package.",
+    "adult": 1,
+    "child": 1,
+    "dateAdded": 1743427905027,
+    "relateKey": "Maharashtra",
+    "keywords": "Maharashtra, Mumbai, Ajanta, Ellora, Western Ghats, Bollywood",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Maharashtra",
+      "Nashik",
+      "Aurangabad"
+    ],
+    "tourType": "Family",
+    "activityType": "City Tours",
+    "landscapeType": "Coastal, Western Ghats, and Plateau",
+    "tags": [
+      "Budget",
+      "Guided Tour"
+    ],
+    "webPackPrice": 33000,
+    "starRating": 3,
+    "hotel": "The Leela Mumbai",
+    "startDate": 1744464705027,
+    "endDate": "2025-04-15T13:31:45.027Z",
+    "duration": 5,
+    "monthLevelSelect": "December",
+    "destination": "Maharashtra, Nashik, Aurangabad, Mumbai",
+    "location": "maharashtra",
+    "dayWiseDuration": 5,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "maharashtra.png",
+    "badges": [],
+    "dataImages": [
+      "maharashtra_1.png",
+      "maharashtra_2.png"
+    ],
+    "slug": "maharashtra-discovery-tour-9",
+    "notes": "Special notes for travelers visiting Maharashtra: Carry sunscreen",
+    "departureCity": "Mumbai",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743946305027,
+      1744119105027
+    ]
+  },
+  {
+    "id": "MAH010",
+    "name": "Maharashtra Scenic Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Maharashtra with our specially designed tour package.",
+    "adult": 1,
+    "child": 1,
+    "dateAdded": 1743427905027,
+    "relateKey": "Maharashtra",
+    "keywords": "Maharashtra, Mumbai, Ajanta, Ellora, Western Ghats, Bollywood",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Maharashtra",
+      "Mumbai",
+      "Aurangabad"
+    ],
+    "tourType": "Couple",
+    "activityType": "Heritage Exploration",
+    "landscapeType": "Coastal, Western Ghats, and Plateau",
+    "tags": [
+      "Adventure",
+      "Guided Tour"
+    ],
+    "webPackPrice": 31000,
+    "starRating": 3,
+    "hotel": "The Taj Mahal Palace Mumbai",
+    "startDate": 1744464705027,
+    "endDate": "2025-04-13T13:31:45.027Z",
+    "duration": 8,
+    "monthLevelSelect": "January",
+    "destination": "Maharashtra, Mumbai, Aurangabad, Pune",
+    "location": "maharashtra",
+    "dayWiseDuration": 8,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "maharashtra.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "maharashtra_1.png",
+      "maharashtra_2.png"
+    ],
+    "slug": "maharashtra-scenic-tour-10",
+    "notes": "Special notes for travelers visiting Maharashtra: Light clothing recommended",
+    "departureCity": "Nashik",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743600705027,
+      1748266305027
+    ]
+  }
+]

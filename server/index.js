@@ -50,6 +50,12 @@ app.options("*", (req, res) => {
   res.sendStatus(204); // No content for preflight
 });
 
+app.get("/", (req, res) => {
+  res.json({
+    message: "Alive!",
+  });
+});
+
 app.use("/api", apiRoutes);
 // Error handling middleware
 app.use((err, req, res, next) => {

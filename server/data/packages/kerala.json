@@ -1,0 +1,541 @@
+[
+  {
+    "id": "KER001",
+    "name": "Kerala Heritage Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Kerala with our specially designed tour package.",
+    "adult": 3,
+    "child": 2,
+    "dateAdded": 1743427905025,
+    "relateKey": "Kerala",
+    "keywords": "Kerala, Backwaters, Ayurveda, Tea Gardens, Kathakali, God's Own Country",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Kerala",
+      "Kochi",
+      "Munnar"
+    ],
+    "tourType": "Couple",
+    "activityType": "Beach Relaxation",
+    "landscapeType": "Coastal and Western Ghats",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 18000,
+    "starRating": 5,
+    "hotel": "Kumarakom Lake Resort",
+    "startDate": 1744464705025,
+    "endDate": "2025-04-13T13:31:45.025Z",
+    "duration": 7,
+    "monthLevelSelect": "October",
+    "destination": "Kerala, Kochi, Munnar, Kozhikode",
+    "location": "kerala",
+    "dayWiseDuration": 7,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "kerala.png",
+    "badges": [],
+    "dataImages": [
+      "kerala_1.png",
+      "kerala_2.png"
+    ],
+    "slug": "kerala-heritage-tour-1",
+    "notes": "Special notes for travelers visiting Kerala: Light clothing recommended",
+    "departureCity": "New Delhi",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743514305025,
+      1743687105025
+    ]
+  },
+  {
+    "id": "KER002",
+    "name": "Kerala Scenic Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Kerala with our specially designed tour package.",
+    "adult": 4,
+    "child": 0,
+    "dateAdded": 1743427905025,
+    "relateKey": "Kerala",
+    "keywords": "Kerala, Backwaters, Ayurveda, Tea Gardens, Kathakali, God's Own Country",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Kerala",
+      "Thiruvananthapuram",
+      "Kochi"
+    ],
+    "tourType": "Couple",
+    "activityType": "Beach Relaxation",
+    "landscapeType": "Coastal and Western Ghats",
+    "tags": [
+      "Adventure",
+      "Guided Tour"
+    ],
+    "webPackPrice": 47000,
+    "starRating": 3,
+    "hotel": "Taj Malabar Kochi",
+    "startDate": 1743946305025,
+    "endDate": "2025-04-07T13:31:45.025Z",
+    "duration": 8,
+    "monthLevelSelect": "January",
+    "destination": "Kerala, Thiruvananthapuram, Kochi, Kozhikode",
+    "location": "kerala",
+    "dayWiseDuration": 8,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "kerala.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "kerala_1.png",
+      "kerala_2.png"
+    ],
+    "slug": "kerala-scenic-tour-2",
+    "notes": "Special notes for travelers visiting Kerala: Winter wear essential",
+    "departureCity": "Thiruvananthapuram",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744551105025,
+      1743687105025
+    ]
+  },
+  {
+    "id": "KER003",
+    "name": "Kerala Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Kerala with our specially designed tour package.",
+    "adult": 3,
+    "child": 0,
+    "dateAdded": 1743427905025,
+    "relateKey": "Kerala",
+    "keywords": "Kerala, Backwaters, Ayurveda, Tea Gardens, Kathakali, God's Own Country",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Kerala",
+      "Thrissur",
+      "Alleppey"
+    ],
+    "tourType": "Family",
+    "activityType": "Tea Estate Tours",
+    "landscapeType": "Coastal and Western Ghats",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 27000,
+    "starRating": 4,
+    "hotel": "The Leela Kovalam",
+    "startDate": 1743600705025,
+    "endDate": "2025-04-05T13:31:45.025Z",
+    "duration": 7,
+    "monthLevelSelect": "November",
+    "destination": "Kerala, Thrissur, Alleppey, Munnar",
+    "location": "kerala",
+    "dayWiseDuration": 7,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "kerala.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "kerala_1.png",
+      "kerala_2.png"
+    ],
+    "slug": "kerala-discovery-tour-3",
+    "notes": "Special notes for travelers visiting Kerala: Rain protection advised",
+    "departureCity": "Kozhikode",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744378305025,
+      1744205505025
+    ]
+  },
+  {
+    "id": "KER004",
+    "name": "Kerala Heritage Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Kerala with our specially designed tour package.",
+    "adult": 2,
+    "child": 0,
+    "dateAdded": 1743427905025,
+    "relateKey": "Kerala",
+    "keywords": "Kerala, Backwaters, Ayurveda, Tea Gardens, Kathakali, God's Own Country",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Kerala",
+      "Thiruvananthapuram",
+      "Alleppey"
+    ],
+    "tourType": "Couple",
+    "activityType": "Tea Estate Tours",
+    "landscapeType": "Coastal and Western Ghats",
+    "tags": [
+      "Cultural",
+      "Guided Tour"
+    ],
+    "webPackPrice": 35000,
+    "starRating": 5,
+    "hotel": "Spice Village Thekkady",
+    "startDate": 1744464705025,
+    "endDate": "2025-04-17T13:31:45.025Z",
+    "duration": 2,
+    "monthLevelSelect": "May",
+    "destination": "Kerala, Thiruvananthapuram, Alleppey, Kozhikode",
+    "location": "kerala",
+    "dayWiseDuration": 2,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "kerala.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "kerala_1.png",
+      "kerala_2.png"
+    ],
+    "slug": "kerala-heritage-tour-4",
+    "notes": "Special notes for travelers visiting Kerala: Winter wear essential",
+    "departureCity": "Alleppey",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744032705025,
+      1748179905025
+    ]
+  },
+  {
+    "id": "KER005",
+    "name": "Kerala Cultural Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Kerala with our specially designed tour package.",
+    "adult": 2,
+    "child": 2,
+    "dateAdded": 1743427905025,
+    "relateKey": "Kerala",
+    "keywords": "Kerala, Backwaters, Ayurveda, Tea Gardens, Kathakali, God's Own Country",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Kerala",
+      "Kochi",
+      "Munnar"
+    ],
+    "tourType": "Couple",
+    "activityType": "Ayurvedic Treatments",
+    "landscapeType": "Coastal and Western Ghats",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 20000,
+    "starRating": 3,
+    "hotel": "Taj Malabar Kochi",
+    "startDate": 1744723905025,
+    "endDate": "2025-04-17T13:31:45.025Z",
+    "duration": 10,
+    "monthLevelSelect": "October",
+    "destination": "Kerala, Kochi, Munnar, Thiruvananthapuram",
+    "location": "kerala",
+    "dayWiseDuration": 10,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "kerala.png",
+    "badges": [],
+    "dataImages": [
+      "kerala_1.png",
+      "kerala_2.png"
+    ],
+    "slug": "kerala-cultural-tour-5",
+    "notes": "Special notes for travelers visiting Kerala: Winter wear essential",
+    "departureCity": "Mumbai",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744378305025,
+      1745328705025
+    ]
+  },
+  {
+    "id": "KER006",
+    "name": "Kerala Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Kerala with our specially designed tour package.",
+    "adult": 3,
+    "child": 1,
+    "dateAdded": 1743427905025,
+    "relateKey": "Kerala",
+    "keywords": "Kerala, Backwaters, Ayurveda, Tea Gardens, Kathakali, God's Own Country",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Kerala",
+      "Kozhikode",
+      "Alleppey"
+    ],
+    "tourType": "Group",
+    "activityType": "Cultural Performances",
+    "landscapeType": "Coastal and Western Ghats",
+    "tags": [
+      "Adventure",
+      "Guided Tour"
+    ],
+    "webPackPrice": 46000,
+    "starRating": 4,
+    "hotel": "The Leela Kovalam",
+    "startDate": 1745933505025,
+    "endDate": "2025-05-05T13:31:45.025Z",
+    "duration": 4,
+    "monthLevelSelect": "December",
+    "destination": "Kerala, Kozhikode, Alleppey, Thrissur",
+    "location": "kerala",
+    "dayWiseDuration": 4,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "kerala.png",
+    "badges": [],
+    "dataImages": [
+      "kerala_1.png",
+      "kerala_2.png"
+    ],
+    "slug": "kerala-discovery-tour-6",
+    "notes": "Special notes for travelers visiting Kerala: Rain protection advised",
+    "departureCity": "Munnar",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745069505025,
+      1747834305025
+    ]
+  },
+  {
+    "id": "KER007",
+    "name": "Kerala Heritage Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Kerala with our specially designed tour package.",
+    "adult": 1,
+    "child": 0,
+    "dateAdded": 1743427905025,
+    "relateKey": "Kerala",
+    "keywords": "Kerala, Backwaters, Ayurveda, Tea Gardens, Kathakali, God's Own Country",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Kerala",
+      "Alleppey",
+      "Kochi"
+    ],
+    "tourType": "Single",
+    "activityType": "Beach Relaxation",
+    "landscapeType": "Coastal and Western Ghats",
+    "tags": [
+      "Luxury",
+      "Guided Tour"
+    ],
+    "webPackPrice": 10000,
+    "starRating": 4,
+    "hotel": "Kumarakom Lake Resort",
+    "startDate": 1745242305025,
+    "endDate": "2025-04-27T13:31:45.025Z",
+    "duration": 4,
+    "monthLevelSelect": "January",
+    "destination": "Kerala, Alleppey, Kochi, Thrissur",
+    "location": "kerala",
+    "dayWiseDuration": 4,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "kerala.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "kerala_1.png",
+      "kerala_2.png"
+    ],
+    "slug": "kerala-heritage-tour-7",
+    "notes": "Special notes for travelers visiting Kerala: Carry sunscreen",
+    "departureCity": "Thiruvananthapuram",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744983105025,
+      1745933505025
+    ]
+  },
+  {
+    "id": "KER008",
+    "name": "Kerala Explorer Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Kerala with our specially designed tour package.",
+    "adult": 2,
+    "child": 2,
+    "dateAdded": 1743427905025,
+    "relateKey": "Kerala",
+    "keywords": "Kerala, Backwaters, Ayurveda, Tea Gardens, Kathakali, God's Own Country",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Kerala",
+      "Munnar",
+      "Alleppey"
+    ],
+    "tourType": "Family",
+    "activityType": "Ayurvedic Treatments",
+    "landscapeType": "Coastal and Western Ghats",
+    "tags": [
+      "Religious",
+      "Guided Tour"
+    ],
+    "webPackPrice": 24000,
+    "starRating": 4,
+    "hotel": "Kumarakom Lake Resort",
+    "startDate": 1744464705025,
+    "endDate": "2025-04-15T13:31:45.025Z",
+    "duration": 4,
+    "monthLevelSelect": "June",
+    "destination": "Kerala, Munnar, Alleppey, Kochi",
+    "location": "kerala",
+    "dayWiseDuration": 4,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "kerala.png",
+    "badges": [],
+    "dataImages": [
+      "kerala_1.png",
+      "kerala_2.png"
+    ],
+    "slug": "kerala-explorer-tour-8",
+    "notes": "Special notes for travelers visiting Kerala: Light clothing recommended",
+    "departureCity": "Munnar",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744205505025,
+      1748093505025
+    ]
+  },
+  {
+    "id": "KER009",
+    "name": "Kerala Heritage Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Kerala with our specially designed tour package.",
+    "adult": 1,
+    "child": 0,
+    "dateAdded": 1743427905025,
+    "relateKey": "Kerala",
+    "keywords": "Kerala, Backwaters, Ayurveda, Tea Gardens, Kathakali, God's Own Country",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Kerala",
+      "Thrissur",
+      "Kochi"
+    ],
+    "tourType": "Family",
+    "activityType": "Houseboat Cruises",
+    "landscapeType": "Coastal and Western Ghats",
+    "tags": [
+      "Luxury",
+      "Guided Tour"
+    ],
+    "webPackPrice": 29000,
+    "starRating": 5,
+    "hotel": "The Leela Kovalam",
+    "startDate": 1745933505025,
+    "endDate": "2025-05-01T13:31:45.025Z",
+    "duration": 2,
+    "monthLevelSelect": "May",
+    "destination": "Kerala, Thrissur, Kochi, Alleppey",
+    "location": "kerala",
+    "dayWiseDuration": 2,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "kerala.png",
+    "badges": [],
+    "dataImages": [
+      "kerala_1.png",
+      "kerala_2.png"
+    ],
+    "slug": "kerala-heritage-tour-9",
+    "notes": "Special notes for travelers visiting Kerala: Rain protection advised",
+    "departureCity": "Mumbai",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745069505025,
+      1745242305025
+    ]
+  },
+  {
+    "id": "KER010",
+    "name": "Kerala Cultural Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Kerala with our specially designed tour package.",
+    "adult": 3,
+    "child": 2,
+    "dateAdded": 1743427905025,
+    "relateKey": "Kerala",
+    "keywords": "Kerala, Backwaters, Ayurveda, Tea Gardens, Kathakali, God's Own Country",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Kerala",
+      "Thrissur",
+      "Kochi"
+    ],
+    "tourType": "Single",
+    "activityType": "Beach Relaxation",
+    "landscapeType": "Coastal and Western Ghats",
+    "tags": [
+      "Religious",
+      "Guided Tour"
+    ],
+    "webPackPrice": 18000,
+    "starRating": 5,
+    "hotel": "Kumarakom Lake Resort",
+    "startDate": 1743946305025,
+    "endDate": "2025-04-08T13:31:45.025Z",
+    "duration": 9,
+    "monthLevelSelect": "April",
+    "destination": "Kerala, Thrissur, Kochi, Alleppey",
+    "location": "kerala",
+    "dayWiseDuration": 9,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "kerala.png",
+    "badges": [],
+    "dataImages": [
+      "kerala_1.png",
+      "kerala_2.png"
+    ],
+    "slug": "kerala-cultural-tour-10",
+    "notes": "Special notes for travelers visiting Kerala: Carry sunscreen",
+    "departureCity": "Kolkata",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745069505025,
+      1745069505025
+    ]
+  }
+]

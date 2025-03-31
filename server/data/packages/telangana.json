@@ -1,0 +1,550 @@
+[
+  {
+    "id": "TEL001",
+    "name": "Telangana Scenic Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Telangana with our specially designed tour package.",
+    "adult": 3,
+    "child": 2,
+    "dateAdded": 1743427905040,
+    "relateKey": "Telangana",
+    "keywords": "Telangana, Hyderabad, Charminar, Biryani, Technology, Nizams",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Telangana",
+      "Khammam",
+      "Karimnagar"
+    ],
+    "tourType": "Couple",
+    "activityType": "Film City Tours",
+    "landscapeType": "Deccan Plateau",
+    "tags": [
+      "Budget",
+      "Guided Tour"
+    ],
+    "webPackPrice": 34000,
+    "starRating": 5,
+    "hotel": "Trident Hyderabad",
+    "startDate": 1743687105040,
+    "endDate": "2025-04-06T13:31:45.040Z",
+    "duration": 10,
+    "monthLevelSelect": "January",
+    "destination": "Telangana, Khammam, Karimnagar, Hyderabad",
+    "location": "telangana",
+    "dayWiseDuration": 10,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "telangana.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "telangana_1.png",
+      "telangana_2.png"
+    ],
+    "slug": "telangana-scenic-tour-1",
+    "notes": "Special notes for travelers visiting Telangana: Light clothing recommended",
+    "departureCity": "Nizamabad",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745155905040,
+      1744810305040
+    ]
+  },
+  {
+    "id": "TEL002",
+    "name": "Telangana Adventure Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Telangana with our specially designed tour package.",
+    "adult": 1,
+    "child": 1,
+    "dateAdded": 1743427905040,
+    "relateKey": "Telangana",
+    "keywords": "Telangana, Hyderabad, Charminar, Biryani, Technology, Nizams",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Telangana",
+      "Secunderabad",
+      "Karimnagar"
+    ],
+    "tourType": "Family",
+    "activityType": "Lake Activities",
+    "landscapeType": "Deccan Plateau",
+    "tags": [
+      "Religious",
+      "Guided Tour"
+    ],
+    "webPackPrice": 19000,
+    "starRating": 5,
+    "hotel": "Taj Falaknuma Palace",
+    "startDate": 1743427905040,
+    "endDate": "2025-04-01T13:31:45.040Z",
+    "duration": 7,
+    "monthLevelSelect": "December",
+    "destination": "Telangana, Secunderabad, Karimnagar, Nizamabad",
+    "location": "telangana",
+    "dayWiseDuration": 7,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "telangana.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "telangana_1.png",
+      "telangana_2.png"
+    ],
+    "slug": "telangana-adventure-tour-2",
+    "notes": "Special notes for travelers visiting Telangana: Rain protection advised",
+    "departureCity": "Karimnagar",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743427905040,
+      1748525505040
+    ]
+  },
+  {
+    "id": "TEL003",
+    "name": "Telangana Heritage Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Telangana with our specially designed tour package.",
+    "adult": 3,
+    "child": 0,
+    "dateAdded": 1743427905040,
+    "relateKey": "Telangana",
+    "keywords": "Telangana, Hyderabad, Charminar, Biryani, Technology, Nizams",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Telangana",
+      "Secunderabad",
+      "Karimnagar"
+    ],
+    "tourType": "Single",
+    "activityType": "Heritage Tours",
+    "landscapeType": "Deccan Plateau",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 34000,
+    "starRating": 3,
+    "hotel": "Taj Falaknuma Palace",
+    "startDate": 1743427905040,
+    "endDate": "2025-04-03T13:31:45.040Z",
+    "duration": 7,
+    "monthLevelSelect": "October",
+    "destination": "Telangana, Secunderabad, Karimnagar, Nizamabad",
+    "location": "telangana",
+    "dayWiseDuration": 7,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "telangana.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "telangana_1.png",
+      "telangana_2.png"
+    ],
+    "slug": "telangana-heritage-tour-3",
+    "notes": "Special notes for travelers visiting Telangana: Winter wear essential",
+    "departureCity": "New Delhi",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744119105040,
+      1744810305040
+    ]
+  },
+  {
+    "id": "TEL004",
+    "name": "Telangana Heritage Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Telangana with our specially designed tour package.",
+    "adult": 4,
+    "child": 2,
+    "dateAdded": 1743427905040,
+    "relateKey": "Telangana",
+    "keywords": "Telangana, Hyderabad, Charminar, Biryani, Technology, Nizams",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Telangana",
+      "Khammam",
+      "Hyderabad"
+    ],
+    "tourType": "Single",
+    "activityType": "Heritage Tours",
+    "landscapeType": "Deccan Plateau",
+    "tags": [
+      "Luxury",
+      "Guided Tour"
+    ],
+    "webPackPrice": 23000,
+    "starRating": 5,
+    "hotel": "Trident Hyderabad",
+    "startDate": 1743859905040,
+    "endDate": "2025-04-06T13:31:45.040Z",
+    "duration": 8,
+    "monthLevelSelect": "December",
+    "destination": "Telangana, Khammam, Hyderabad, Warangal",
+    "location": "telangana",
+    "dayWiseDuration": 8,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "telangana.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "telangana_1.png",
+      "telangana_2.png"
+    ],
+    "slug": "telangana-heritage-tour-4",
+    "notes": "Special notes for travelers visiting Telangana: Light clothing recommended",
+    "departureCity": "New Delhi",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744205505040,
+      1746365505040
+    ]
+  },
+  {
+    "id": "TEL005",
+    "name": "Telangana Scenic Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Telangana with our specially designed tour package.",
+    "adult": 1,
+    "child": 2,
+    "dateAdded": 1743427905040,
+    "relateKey": "Telangana",
+    "keywords": "Telangana, Hyderabad, Charminar, Biryani, Technology, Nizams",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Telangana",
+      "Khammam",
+      "Nizamabad"
+    ],
+    "tourType": "Single",
+    "activityType": "Film City Tours",
+    "landscapeType": "Deccan Plateau",
+    "tags": [
+      "Religious",
+      "Guided Tour"
+    ],
+    "webPackPrice": 30000,
+    "starRating": 3,
+    "hotel": "Trident Hyderabad",
+    "startDate": 1744119105040,
+    "endDate": "2025-04-14T13:31:45.040Z",
+    "duration": 5,
+    "monthLevelSelect": "June",
+    "destination": "Telangana, Khammam, Nizamabad, Warangal",
+    "location": "telangana",
+    "dayWiseDuration": 5,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "telangana.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "telangana_1.png",
+      "telangana_2.png"
+    ],
+    "slug": "telangana-scenic-tour-5",
+    "notes": "Special notes for travelers visiting Telangana: Light clothing recommended",
+    "departureCity": "Mumbai",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743946305040,
+      1745242305040
+    ]
+  },
+  {
+    "id": "TEL006",
+    "name": "Telangana Heritage Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Telangana with our specially designed tour package.",
+    "adult": 1,
+    "child": 0,
+    "dateAdded": 1743427905040,
+    "relateKey": "Telangana",
+    "keywords": "Telangana, Hyderabad, Charminar, Biryani, Technology, Nizams",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Telangana",
+      "Hyderabad",
+      "Karimnagar"
+    ],
+    "tourType": "Family",
+    "activityType": "Lake Activities",
+    "landscapeType": "Deccan Plateau",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 21000,
+    "starRating": 4,
+    "hotel": "Novotel Hyderabad",
+    "startDate": 1745501505040,
+    "endDate": "2025-04-26T13:31:45.040Z",
+    "duration": 10,
+    "monthLevelSelect": "March",
+    "destination": "Telangana, Hyderabad, Karimnagar, Nizamabad",
+    "location": "telangana",
+    "dayWiseDuration": 10,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "telangana.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "telangana_1.png",
+      "telangana_2.png"
+    ],
+    "slug": "telangana-heritage-tour-6",
+    "notes": "Special notes for travelers visiting Telangana: Winter wear essential",
+    "departureCity": "Bangalore",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743514305040,
+      1744205505040
+    ]
+  },
+  {
+    "id": "TEL007",
+    "name": "Telangana Scenic Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Telangana with our specially designed tour package.",
+    "adult": 1,
+    "child": 0,
+    "dateAdded": 1743427905040,
+    "relateKey": "Telangana",
+    "keywords": "Telangana, Hyderabad, Charminar, Biryani, Technology, Nizams",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Telangana",
+      "Nizamabad",
+      "Warangal"
+    ],
+    "tourType": "Single",
+    "activityType": "Food Trails",
+    "landscapeType": "Deccan Plateau",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 12000,
+    "starRating": 4,
+    "hotel": "Taj Falaknuma Palace",
+    "startDate": 1744464705040,
+    "endDate": "2025-04-19T13:31:45.040Z",
+    "duration": 5,
+    "monthLevelSelect": "October",
+    "destination": "Telangana, Nizamabad, Warangal, Secunderabad",
+    "location": "telangana",
+    "dayWiseDuration": 5,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "telangana.png",
+    "badges": [],
+    "dataImages": [
+      "telangana_1.png",
+      "telangana_2.png"
+    ],
+    "slug": "telangana-scenic-tour-7",
+    "notes": "Special notes for travelers visiting Telangana: Light clothing recommended",
+    "departureCity": "Warangal",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744983105040,
+      1747661505040
+    ]
+  },
+  {
+    "id": "TEL008",
+    "name": "Telangana Explorer Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Telangana with our specially designed tour package.",
+    "adult": 3,
+    "child": 1,
+    "dateAdded": 1743427905040,
+    "relateKey": "Telangana",
+    "keywords": "Telangana, Hyderabad, Charminar, Biryani, Technology, Nizams",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Telangana",
+      "Secunderabad",
+      "Hyderabad"
+    ],
+    "tourType": "Family",
+    "activityType": "Shopping",
+    "landscapeType": "Deccan Plateau",
+    "tags": [
+      "Cultural",
+      "Guided Tour"
+    ],
+    "webPackPrice": 25000,
+    "starRating": 5,
+    "hotel": "Novotel Hyderabad",
+    "startDate": 1744723905040,
+    "endDate": "2025-04-20T13:31:45.040Z",
+    "duration": 9,
+    "monthLevelSelect": "May",
+    "destination": "Telangana, Secunderabad, Hyderabad, Khammam",
+    "location": "telangana",
+    "dayWiseDuration": 9,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "telangana.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "telangana_1.png",
+      "telangana_2.png"
+    ],
+    "slug": "telangana-explorer-tour-8",
+    "notes": "Special notes for travelers visiting Telangana: Winter wear essential",
+    "departureCity": "Khammam",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744378305040,
+      1746279105040
+    ]
+  },
+  {
+    "id": "TEL009",
+    "name": "Telangana Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Telangana with our specially designed tour package.",
+    "adult": 4,
+    "child": 1,
+    "dateAdded": 1743427905040,
+    "relateKey": "Telangana",
+    "keywords": "Telangana, Hyderabad, Charminar, Biryani, Technology, Nizams",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Telangana",
+      "Secunderabad",
+      "Hyderabad"
+    ],
+    "tourType": "Couple",
+    "activityType": "Lake Activities",
+    "landscapeType": "Deccan Plateau",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 42000,
+    "starRating": 4,
+    "hotel": "Trident Hyderabad",
+    "startDate": 1743687105040,
+    "endDate": "2025-04-05T13:31:45.040Z",
+    "duration": 4,
+    "monthLevelSelect": "October",
+    "destination": "Telangana, Secunderabad, Hyderabad, Khammam",
+    "location": "telangana",
+    "dayWiseDuration": 4,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "telangana.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "telangana_1.png",
+      "telangana_2.png"
+    ],
+    "slug": "telangana-discovery-tour-9",
+    "notes": "Special notes for travelers visiting Telangana: Light clothing recommended",
+    "departureCity": "New Delhi",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743427905040,
+      1747402305040
+    ]
+  },
+  {
+    "id": "TEL010",
+    "name": "Telangana Heritage Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Telangana with our specially designed tour package.",
+    "adult": 4,
+    "child": 2,
+    "dateAdded": 1743427905040,
+    "relateKey": "Telangana",
+    "keywords": "Telangana, Hyderabad, Charminar, Biryani, Technology, Nizams",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Telangana",
+      "Nizamabad",
+      "Secunderabad"
+    ],
+    "tourType": "Single",
+    "activityType": "Shopping",
+    "landscapeType": "Deccan Plateau",
+    "tags": [
+      "Religious",
+      "Guided Tour"
+    ],
+    "webPackPrice": 26000,
+    "starRating": 4,
+    "hotel": "Taj Falaknuma Palace",
+    "startDate": 1745760705040,
+    "endDate": "2025-05-03T13:31:45.040Z",
+    "duration": 3,
+    "monthLevelSelect": "January",
+    "destination": "Telangana, Nizamabad, Secunderabad, Karimnagar",
+    "location": "telangana",
+    "dayWiseDuration": 3,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "telangana.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "telangana_1.png",
+      "telangana_2.png"
+    ],
+    "slug": "telangana-heritage-tour-10",
+    "notes": "Special notes for travelers visiting Telangana: Winter wear essential",
+    "departureCity": "Nizamabad",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743946305040,
+      1746970305040
+    ]
+  }
+]

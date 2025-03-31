@@ -1,0 +1,541 @@
+[
+  {
+    "id": "WES001",
+    "name": "West Bengal Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of West Bengal with our specially designed tour package.",
+    "adult": 2,
+    "child": 1,
+    "dateAdded": 1743427905046,
+    "relateKey": "West Bengal",
+    "keywords": "West Bengal, Kolkata, Darjeeling, Tea, Royal Bengal Tiger, Durga Puja",
+    "destinationType": "India",
+    "destinationSearch": [
+      "West Bengal",
+      "Kharagpur",
+      "Asansol"
+    ],
+    "tourType": "Group",
+    "activityType": "Heritage Walks",
+    "landscapeType": "Gangetic Plains and Eastern Himalayas",
+    "tags": [
+      "Adventure",
+      "Guided Tour"
+    ],
+    "webPackPrice": 17000,
+    "starRating": 3,
+    "hotel": "Taj Bengal",
+    "startDate": 1745242305046,
+    "endDate": "2025-04-28T13:31:45.046Z",
+    "duration": 3,
+    "monthLevelSelect": "December",
+    "destination": "West Bengal, Kharagpur, Asansol, Durgapur",
+    "location": "west_bengal",
+    "dayWiseDuration": 3,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "west_bengal.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "west_bengal_1.png",
+      "west_bengal_2.png"
+    ],
+    "slug": "west-bengal-discovery-tour-1",
+    "notes": "Special notes for travelers visiting West Bengal: Rain protection advised",
+    "departureCity": "Durgapur",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743687105046,
+      1747143105046
+    ]
+  },
+  {
+    "id": "WES002",
+    "name": "West Bengal Cultural Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of West Bengal with our specially designed tour package.",
+    "adult": 4,
+    "child": 0,
+    "dateAdded": 1743427905046,
+    "relateKey": "West Bengal",
+    "keywords": "West Bengal, Kolkata, Darjeeling, Tea, Royal Bengal Tiger, Durga Puja",
+    "destinationType": "India",
+    "destinationSearch": [
+      "West Bengal",
+      "Darjeeling",
+      "Kolkata"
+    ],
+    "tourType": "Couple",
+    "activityType": "Tiger Safaris",
+    "landscapeType": "Gangetic Plains and Eastern Himalayas",
+    "tags": [
+      "Cultural",
+      "Guided Tour"
+    ],
+    "webPackPrice": 45000,
+    "starRating": 4,
+    "hotel": "Glenburn Tea Estate",
+    "startDate": 1745415105046,
+    "endDate": "2025-04-24T13:31:45.046Z",
+    "duration": 4,
+    "monthLevelSelect": "July",
+    "destination": "West Bengal, Darjeeling, Kolkata, Siliguri",
+    "location": "west_bengal",
+    "dayWiseDuration": 4,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "west_bengal.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "west_bengal_1.png",
+      "west_bengal_2.png"
+    ],
+    "slug": "west-bengal-cultural-tour-2",
+    "notes": "Special notes for travelers visiting West Bengal: Winter wear essential",
+    "departureCity": "Durgapur",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744723905046,
+      1743514305046
+    ]
+  },
+  {
+    "id": "WES003",
+    "name": "West Bengal Scenic Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of West Bengal with our specially designed tour package.",
+    "adult": 2,
+    "child": 1,
+    "dateAdded": 1743427905046,
+    "relateKey": "West Bengal",
+    "keywords": "West Bengal, Kolkata, Darjeeling, Tea, Royal Bengal Tiger, Durga Puja",
+    "destinationType": "India",
+    "destinationSearch": [
+      "West Bengal",
+      "Asansol",
+      "Darjeeling"
+    ],
+    "tourType": "Family",
+    "activityType": "River Cruises",
+    "landscapeType": "Gangetic Plains and Eastern Himalayas",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 25000,
+    "starRating": 3,
+    "hotel": "Taj Bengal",
+    "startDate": 1743514305046,
+    "endDate": "2025-04-04T13:31:45.046Z",
+    "duration": 7,
+    "monthLevelSelect": "February",
+    "destination": "West Bengal, Asansol, Darjeeling, Kolkata",
+    "location": "west_bengal",
+    "dayWiseDuration": 7,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "west_bengal.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "west_bengal_1.png",
+      "west_bengal_2.png"
+    ],
+    "slug": "west-bengal-scenic-tour-3",
+    "notes": "Special notes for travelers visiting West Bengal: Carry sunscreen",
+    "departureCity": "Durgapur",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745155905046,
+      1746624705046
+    ]
+  },
+  {
+    "id": "WES004",
+    "name": "West Bengal Heritage Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of West Bengal with our specially designed tour package.",
+    "adult": 3,
+    "child": 1,
+    "dateAdded": 1743427905046,
+    "relateKey": "West Bengal",
+    "keywords": "West Bengal, Kolkata, Darjeeling, Tea, Royal Bengal Tiger, Durga Puja",
+    "destinationType": "India",
+    "destinationSearch": [
+      "West Bengal",
+      "Siliguri",
+      "Kolkata"
+    ],
+    "tourType": "Couple",
+    "activityType": "River Cruises",
+    "landscapeType": "Gangetic Plains and Eastern Himalayas",
+    "tags": [
+      "Cultural",
+      "Guided Tour"
+    ],
+    "webPackPrice": 33000,
+    "starRating": 3,
+    "hotel": "Taj Bengal",
+    "startDate": 1745415105046,
+    "endDate": "2025-04-30T13:31:45.046Z",
+    "duration": 7,
+    "monthLevelSelect": "June",
+    "destination": "West Bengal, Siliguri, Kolkata, Durgapur",
+    "location": "west_bengal",
+    "dayWiseDuration": 7,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "west_bengal.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "west_bengal_1.png",
+      "west_bengal_2.png"
+    ],
+    "slug": "west-bengal-heritage-tour-4",
+    "notes": "Special notes for travelers visiting West Bengal: Light clothing recommended",
+    "departureCity": "Kolkata",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745674305046,
+      1748179905046
+    ]
+  },
+  {
+    "id": "WES005",
+    "name": "West Bengal Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of West Bengal with our specially designed tour package.",
+    "adult": 2,
+    "child": 1,
+    "dateAdded": 1743427905046,
+    "relateKey": "West Bengal",
+    "keywords": "West Bengal, Kolkata, Darjeeling, Tea, Royal Bengal Tiger, Durga Puja",
+    "destinationType": "India",
+    "destinationSearch": [
+      "West Bengal",
+      "Kharagpur",
+      "Durgapur"
+    ],
+    "tourType": "Family",
+    "activityType": "Cultural Tours",
+    "landscapeType": "Gangetic Plains and Eastern Himalayas",
+    "tags": [
+      "Budget",
+      "Guided Tour"
+    ],
+    "webPackPrice": 23000,
+    "starRating": 5,
+    "hotel": "Glenburn Tea Estate",
+    "startDate": 1744378305046,
+    "endDate": "2025-04-15T13:31:45.046Z",
+    "duration": 8,
+    "monthLevelSelect": "February",
+    "destination": "West Bengal, Kharagpur, Durgapur, Darjeeling",
+    "location": "west_bengal",
+    "dayWiseDuration": 8,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "west_bengal.png",
+    "badges": [],
+    "dataImages": [
+      "west_bengal_1.png",
+      "west_bengal_2.png"
+    ],
+    "slug": "west-bengal-discovery-tour-5",
+    "notes": "Special notes for travelers visiting West Bengal: Light clothing recommended",
+    "departureCity": "Siliguri",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743859905046,
+      1744983105046
+    ]
+  },
+  {
+    "id": "WES006",
+    "name": "West Bengal Cultural Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of West Bengal with our specially designed tour package.",
+    "adult": 2,
+    "child": 1,
+    "dateAdded": 1743427905046,
+    "relateKey": "West Bengal",
+    "keywords": "West Bengal, Kolkata, Darjeeling, Tea, Royal Bengal Tiger, Durga Puja",
+    "destinationType": "India",
+    "destinationSearch": [
+      "West Bengal",
+      "Kharagpur",
+      "Darjeeling"
+    ],
+    "tourType": "Group",
+    "activityType": "River Cruises",
+    "landscapeType": "Gangetic Plains and Eastern Himalayas",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 10000,
+    "starRating": 3,
+    "hotel": "Glenburn Tea Estate",
+    "startDate": 1744983105046,
+    "endDate": "2025-04-21T13:31:45.046Z",
+    "duration": 5,
+    "monthLevelSelect": "March",
+    "destination": "West Bengal, Kharagpur, Darjeeling, Siliguri",
+    "location": "west_bengal",
+    "dayWiseDuration": 5,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "west_bengal.png",
+    "badges": [],
+    "dataImages": [
+      "west_bengal_1.png",
+      "west_bengal_2.png"
+    ],
+    "slug": "west-bengal-cultural-tour-6",
+    "notes": "Special notes for travelers visiting West Bengal: Light clothing recommended",
+    "departureCity": "Bangalore",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744810305046,
+      1746883905046
+    ]
+  },
+  {
+    "id": "WES007",
+    "name": "West Bengal Scenic Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of West Bengal with our specially designed tour package.",
+    "adult": 2,
+    "child": 1,
+    "dateAdded": 1743427905046,
+    "relateKey": "West Bengal",
+    "keywords": "West Bengal, Kolkata, Darjeeling, Tea, Royal Bengal Tiger, Durga Puja",
+    "destinationType": "India",
+    "destinationSearch": [
+      "West Bengal",
+      "Durgapur",
+      "Kolkata"
+    ],
+    "tourType": "Single",
+    "activityType": "Heritage Walks",
+    "landscapeType": "Gangetic Plains and Eastern Himalayas",
+    "tags": [
+      "Luxury",
+      "Guided Tour"
+    ],
+    "webPackPrice": 40000,
+    "starRating": 3,
+    "hotel": "Mayfair Darjeeling",
+    "startDate": 1743687105046,
+    "endDate": "2025-04-07T13:31:45.046Z",
+    "duration": 9,
+    "monthLevelSelect": "November",
+    "destination": "West Bengal, Durgapur, Kolkata, Asansol",
+    "location": "west_bengal",
+    "dayWiseDuration": 9,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "west_bengal.png",
+    "badges": [],
+    "dataImages": [
+      "west_bengal_1.png",
+      "west_bengal_2.png"
+    ],
+    "slug": "west-bengal-scenic-tour-7",
+    "notes": "Special notes for travelers visiting West Bengal: Rain protection advised",
+    "departureCity": "Kolkata",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745155905046,
+      1746365505046
+    ]
+  },
+  {
+    "id": "WES008",
+    "name": "West Bengal Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of West Bengal with our specially designed tour package.",
+    "adult": 1,
+    "child": 1,
+    "dateAdded": 1743427905046,
+    "relateKey": "West Bengal",
+    "keywords": "West Bengal, Kolkata, Darjeeling, Tea, Royal Bengal Tiger, Durga Puja",
+    "destinationType": "India",
+    "destinationSearch": [
+      "West Bengal",
+      "Kharagpur",
+      "Durgapur"
+    ],
+    "tourType": "Couple",
+    "activityType": "Tiger Safaris",
+    "landscapeType": "Gangetic Plains and Eastern Himalayas",
+    "tags": [
+      "Luxury",
+      "Guided Tour"
+    ],
+    "webPackPrice": 11000,
+    "starRating": 5,
+    "hotel": "Taj Bengal",
+    "startDate": 1744810305046,
+    "endDate": "2025-04-20T13:31:45.046Z",
+    "duration": 5,
+    "monthLevelSelect": "January",
+    "destination": "West Bengal, Kharagpur, Durgapur, Kolkata",
+    "location": "west_bengal",
+    "dayWiseDuration": 5,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "west_bengal.png",
+    "badges": [],
+    "dataImages": [
+      "west_bengal_1.png",
+      "west_bengal_2.png"
+    ],
+    "slug": "west-bengal-discovery-tour-8",
+    "notes": "Special notes for travelers visiting West Bengal: Carry sunscreen",
+    "departureCity": "Kolkata",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745933505046,
+      1743427905046
+    ]
+  },
+  {
+    "id": "WES009",
+    "name": "West Bengal Scenic Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of West Bengal with our specially designed tour package.",
+    "adult": 3,
+    "child": 0,
+    "dateAdded": 1743427905046,
+    "relateKey": "West Bengal",
+    "keywords": "West Bengal, Kolkata, Darjeeling, Tea, Royal Bengal Tiger, Durga Puja",
+    "destinationType": "India",
+    "destinationSearch": [
+      "West Bengal",
+      "Asansol",
+      "Darjeeling"
+    ],
+    "tourType": "Group",
+    "activityType": "Cultural Tours",
+    "landscapeType": "Gangetic Plains and Eastern Himalayas",
+    "tags": [
+      "Luxury",
+      "Guided Tour"
+    ],
+    "webPackPrice": 29000,
+    "starRating": 4,
+    "hotel": "Taj Bengal",
+    "startDate": 1743946305046,
+    "endDate": "2025-04-10T13:31:45.046Z",
+    "duration": 9,
+    "monthLevelSelect": "March",
+    "destination": "West Bengal, Asansol, Darjeeling, Kharagpur",
+    "location": "west_bengal",
+    "dayWiseDuration": 9,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "west_bengal.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "west_bengal_1.png",
+      "west_bengal_2.png"
+    ],
+    "slug": "west-bengal-scenic-tour-9",
+    "notes": "Special notes for travelers visiting West Bengal: Carry sunscreen",
+    "departureCity": "Bangalore",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745587905046,
+      1744983105046
+    ]
+  },
+  {
+    "id": "WES010",
+    "name": "West Bengal Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of West Bengal with our specially designed tour package.",
+    "adult": 4,
+    "child": 2,
+    "dateAdded": 1743427905046,
+    "relateKey": "West Bengal",
+    "keywords": "West Bengal, Kolkata, Darjeeling, Tea, Royal Bengal Tiger, Durga Puja",
+    "destinationType": "India",
+    "destinationSearch": [
+      "West Bengal",
+      "Asansol",
+      "Durgapur"
+    ],
+    "tourType": "Couple",
+    "activityType": "Heritage Walks",
+    "landscapeType": "Gangetic Plains and Eastern Himalayas",
+    "tags": [
+      "Luxury",
+      "Guided Tour"
+    ],
+    "webPackPrice": 32000,
+    "starRating": 3,
+    "hotel": "Taj Bengal",
+    "startDate": 1745847105046,
+    "endDate": "2025-05-01T13:31:45.046Z",
+    "duration": 2,
+    "monthLevelSelect": "February",
+    "destination": "West Bengal, Asansol, Durgapur, Siliguri",
+    "location": "west_bengal",
+    "dayWiseDuration": 2,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "west_bengal.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "west_bengal_1.png",
+      "west_bengal_2.png"
+    ],
+    "slug": "west-bengal-discovery-tour-10",
+    "notes": "Special notes for travelers visiting West Bengal: Rain protection advised",
+    "departureCity": "Mumbai",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744983105046,
+      1747056705046
+    ]
+  }
+]

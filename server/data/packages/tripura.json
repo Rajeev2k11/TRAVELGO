@@ -1,0 +1,545 @@
+[
+  {
+    "id": "TRI001",
+    "name": "Tripura Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Tripura with our specially designed tour package.",
+    "adult": 3,
+    "child": 1,
+    "dateAdded": 1743427905041,
+    "relateKey": "Tripura",
+    "keywords": "Tripura, Agartala, Northeast, Palace, Rock Carvings, Bengali",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Tripura",
+      "Agartala",
+      "Udaipur"
+    ],
+    "tourType": "Family",
+    "activityType": "Hill Visits",
+    "landscapeType": "Hills and Plains",
+    "tags": [
+      "Religious",
+      "Guided Tour"
+    ],
+    "webPackPrice": 49000,
+    "starRating": 3,
+    "hotel": "Sonar Tori Resort",
+    "startDate": 1744378305041,
+    "endDate": "2025-04-17T13:31:45.041Z",
+    "duration": 4,
+    "monthLevelSelect": "August",
+    "destination": "Tripura, Agartala, Udaipur, Ambassa",
+    "location": "tripura",
+    "dayWiseDuration": 4,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "tripura.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "tripura_1.png",
+      "tripura_2.png"
+    ],
+    "slug": "tripura-discovery-tour-1",
+    "notes": "Special notes for travelers visiting Tripura: Carry sunscreen",
+    "departureCity": "Dharmanagar",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744723905041,
+      1745155905041
+    ]
+  },
+  {
+    "id": "TRI002",
+    "name": "Tripura Heritage Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Tripura with our specially designed tour package.",
+    "adult": 1,
+    "child": 0,
+    "dateAdded": 1743427905041,
+    "relateKey": "Tripura",
+    "keywords": "Tripura, Agartala, Northeast, Palace, Rock Carvings, Bengali",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Tripura",
+      "Agartala",
+      "Dharmanagar"
+    ],
+    "tourType": "Group",
+    "activityType": "Handicraft Shopping",
+    "landscapeType": "Hills and Plains",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 22000,
+    "starRating": 4,
+    "hotel": "Hotel Welcome Palace",
+    "startDate": 1744032705041,
+    "endDate": "2025-04-09T13:31:45.041Z",
+    "duration": 7,
+    "monthLevelSelect": "March",
+    "destination": "Tripura, Agartala, Dharmanagar, Udaipur",
+    "location": "tripura",
+    "dayWiseDuration": 7,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "tripura.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "tripura_1.png",
+      "tripura_2.png"
+    ],
+    "slug": "tripura-heritage-tour-2",
+    "notes": "Special notes for travelers visiting Tripura: Carry sunscreen",
+    "departureCity": "Kolkata",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745415105041,
+      1744291905041
+    ]
+  },
+  {
+    "id": "TRI003",
+    "name": "Tripura Explorer Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Tripura with our specially designed tour package.",
+    "adult": 3,
+    "child": 1,
+    "dateAdded": 1743427905041,
+    "relateKey": "Tripura",
+    "keywords": "Tripura, Agartala, Northeast, Palace, Rock Carvings, Bengali",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Tripura",
+      "Agartala",
+      "Dharmanagar"
+    ],
+    "tourType": "Family",
+    "activityType": "Archaeological Explorations",
+    "landscapeType": "Hills and Plains",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 32000,
+    "starRating": 4,
+    "hotel": "Parkline Hotel",
+    "startDate": 1744896705041,
+    "endDate": "2025-04-23T13:31:45.041Z",
+    "duration": 2,
+    "monthLevelSelect": "October",
+    "destination": "Tripura, Agartala, Dharmanagar, Udaipur",
+    "location": "tripura",
+    "dayWiseDuration": 2,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "tripura.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "tripura_1.png",
+      "tripura_2.png"
+    ],
+    "slug": "tripura-explorer-tour-3",
+    "notes": "Special notes for travelers visiting Tripura: Winter wear essential",
+    "departureCity": "New Delhi",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745328705042,
+      1746279105042
+    ]
+  },
+  {
+    "id": "TRI004",
+    "name": "Tripura Cultural Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Tripura with our specially designed tour package.",
+    "adult": 3,
+    "child": 0,
+    "dateAdded": 1743427905042,
+    "relateKey": "Tripura",
+    "keywords": "Tripura, Agartala, Northeast, Palace, Rock Carvings, Bengali",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Tripura",
+      "Udaipur",
+      "Dharmanagar"
+    ],
+    "tourType": "Group",
+    "activityType": "Wildlife Viewing",
+    "landscapeType": "Hills and Plains",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 12000,
+    "starRating": 4,
+    "hotel": "Ginger Agartala",
+    "startDate": 1744551105042,
+    "endDate": "2025-04-18T13:31:45.042Z",
+    "duration": 2,
+    "monthLevelSelect": "January",
+    "destination": "Tripura, Udaipur, Dharmanagar, Ambassa",
+    "location": "tripura",
+    "dayWiseDuration": 2,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "tripura.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "tripura_1.png",
+      "tripura_2.png"
+    ],
+    "slug": "tripura-cultural-tour-4",
+    "notes": "Special notes for travelers visiting Tripura: Carry sunscreen",
+    "departureCity": "Udaipur",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744205505042,
+      1744291905042
+    ]
+  },
+  {
+    "id": "TRI005",
+    "name": "Tripura Adventure Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Tripura with our specially designed tour package.",
+    "adult": 3,
+    "child": 2,
+    "dateAdded": 1743427905042,
+    "relateKey": "Tripura",
+    "keywords": "Tripura, Agartala, Northeast, Palace, Rock Carvings, Bengali",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Tripura",
+      "Belonia",
+      "Kailashahar"
+    ],
+    "tourType": "Couple",
+    "activityType": "Palace Tours",
+    "landscapeType": "Hills and Plains",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 42000,
+    "starRating": 4,
+    "hotel": "Hotel Welcome Palace",
+    "startDate": 1743687105042,
+    "endDate": "2025-04-04T13:31:45.042Z",
+    "duration": 2,
+    "monthLevelSelect": "November",
+    "destination": "Tripura, Belonia, Kailashahar, Ambassa",
+    "location": "tripura",
+    "dayWiseDuration": 2,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "tripura.png",
+    "badges": [],
+    "dataImages": [
+      "tripura_1.png",
+      "tripura_2.png"
+    ],
+    "slug": "tripura-adventure-tour-5",
+    "notes": "Special notes for travelers visiting Tripura: Light clothing recommended",
+    "departureCity": "Mumbai",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744119105042,
+      1745933505042
+    ]
+  },
+  {
+    "id": "TRI006",
+    "name": "Tripura Cultural Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Tripura with our specially designed tour package.",
+    "adult": 2,
+    "child": 2,
+    "dateAdded": 1743427905042,
+    "relateKey": "Tripura",
+    "keywords": "Tripura, Agartala, Northeast, Palace, Rock Carvings, Bengali",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Tripura",
+      "Udaipur",
+      "Agartala"
+    ],
+    "tourType": "Group",
+    "activityType": "Handicraft Shopping",
+    "landscapeType": "Hills and Plains",
+    "tags": [
+      "Budget",
+      "Guided Tour"
+    ],
+    "webPackPrice": 35000,
+    "starRating": 5,
+    "hotel": "Ginger Agartala",
+    "startDate": 1743859905042,
+    "endDate": "2025-04-10T13:31:45.042Z",
+    "duration": 8,
+    "monthLevelSelect": "March",
+    "destination": "Tripura, Udaipur, Agartala, Belonia",
+    "location": "tripura",
+    "dayWiseDuration": 8,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "tripura.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "tripura_1.png",
+      "tripura_2.png"
+    ],
+    "slug": "tripura-cultural-tour-6",
+    "notes": "Special notes for travelers visiting Tripura: Light clothing recommended",
+    "departureCity": "Kailashahar",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744551105042,
+      1743859905042
+    ]
+  },
+  {
+    "id": "TRI007",
+    "name": "Tripura Adventure Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Tripura with our specially designed tour package.",
+    "adult": 3,
+    "child": 0,
+    "dateAdded": 1743427905042,
+    "relateKey": "Tripura",
+    "keywords": "Tripura, Agartala, Northeast, Palace, Rock Carvings, Bengali",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Tripura",
+      "Udaipur",
+      "Belonia"
+    ],
+    "tourType": "Group",
+    "activityType": "Handicraft Shopping",
+    "landscapeType": "Hills and Plains",
+    "tags": [
+      "Religious",
+      "Guided Tour"
+    ],
+    "webPackPrice": 36000,
+    "starRating": 4,
+    "hotel": "Sonar Tori Resort",
+    "startDate": 1743773505042,
+    "endDate": "2025-04-08T13:31:45.042Z",
+    "duration": 2,
+    "monthLevelSelect": "January",
+    "destination": "Tripura, Udaipur, Belonia, Agartala",
+    "location": "tripura",
+    "dayWiseDuration": 2,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "tripura.png",
+    "badges": [],
+    "dataImages": [
+      "tripura_1.png",
+      "tripura_2.png"
+    ],
+    "slug": "tripura-adventure-tour-7",
+    "notes": "Special notes for travelers visiting Tripura: Winter wear essential",
+    "departureCity": "Dharmanagar",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744637505042,
+      1748179905042
+    ]
+  },
+  {
+    "id": "TRI008",
+    "name": "Tripura Scenic Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Tripura with our specially designed tour package.",
+    "adult": 2,
+    "child": 2,
+    "dateAdded": 1743427905042,
+    "relateKey": "Tripura",
+    "keywords": "Tripura, Agartala, Northeast, Palace, Rock Carvings, Bengali",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Tripura",
+      "Ambassa",
+      "Dharmanagar"
+    ],
+    "tourType": "Couple",
+    "activityType": "Archaeological Explorations",
+    "landscapeType": "Hills and Plains",
+    "tags": [
+      "Adventure",
+      "Guided Tour"
+    ],
+    "webPackPrice": 35000,
+    "starRating": 3,
+    "hotel": "Parkline Hotel",
+    "startDate": 1744464705042,
+    "endDate": "2025-04-13T13:31:45.042Z",
+    "duration": 8,
+    "monthLevelSelect": "April",
+    "destination": "Tripura, Ambassa, Dharmanagar, Kailashahar",
+    "location": "tripura",
+    "dayWiseDuration": 8,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "tripura.png",
+    "badges": [],
+    "dataImages": [
+      "tripura_1.png",
+      "tripura_2.png"
+    ],
+    "slug": "tripura-scenic-tour-8",
+    "notes": "Special notes for travelers visiting Tripura: Winter wear essential",
+    "departureCity": "Ambassa",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745933505042,
+      1748266305042
+    ]
+  },
+  {
+    "id": "TRI009",
+    "name": "Tripura Cultural Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Tripura with our specially designed tour package.",
+    "adult": 1,
+    "child": 1,
+    "dateAdded": 1743427905042,
+    "relateKey": "Tripura",
+    "keywords": "Tripura, Agartala, Northeast, Palace, Rock Carvings, Bengali",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Tripura",
+      "Dharmanagar",
+      "Ambassa"
+    ],
+    "tourType": "Group",
+    "activityType": "Hill Visits",
+    "landscapeType": "Hills and Plains",
+    "tags": [
+      "Budget",
+      "Guided Tour"
+    ],
+    "webPackPrice": 45000,
+    "starRating": 5,
+    "hotel": "Sonar Tori Resort",
+    "startDate": 1744032705042,
+    "endDate": "2025-04-10T13:31:45.042Z",
+    "duration": 2,
+    "monthLevelSelect": "January",
+    "destination": "Tripura, Dharmanagar, Ambassa, Agartala",
+    "location": "tripura",
+    "dayWiseDuration": 2,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "tripura.png",
+    "badges": [],
+    "dataImages": [
+      "tripura_1.png",
+      "tripura_2.png"
+    ],
+    "slug": "tripura-cultural-tour-9",
+    "notes": "Special notes for travelers visiting Tripura: Winter wear essential",
+    "departureCity": "Belonia",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743859905042,
+      1743687105042
+    ]
+  },
+  {
+    "id": "TRI010",
+    "name": "Tripura Heritage Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Tripura with our specially designed tour package.",
+    "adult": 4,
+    "child": 1,
+    "dateAdded": 1743427905042,
+    "relateKey": "Tripura",
+    "keywords": "Tripura, Agartala, Northeast, Palace, Rock Carvings, Bengali",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Tripura",
+      "Dharmanagar",
+      "Ambassa"
+    ],
+    "tourType": "Group",
+    "activityType": "Hill Visits",
+    "landscapeType": "Hills and Plains",
+    "tags": [
+      "Cultural",
+      "Guided Tour"
+    ],
+    "webPackPrice": 50000,
+    "starRating": 5,
+    "hotel": "Hotel Polo Towers",
+    "startDate": 1745242305042,
+    "endDate": "2025-04-25T13:31:45.042Z",
+    "duration": 6,
+    "monthLevelSelect": "December",
+    "destination": "Tripura, Dharmanagar, Ambassa, Agartala",
+    "location": "tripura",
+    "dayWiseDuration": 6,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "tripura.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "tripura_1.png",
+      "tripura_2.png"
+    ],
+    "slug": "tripura-heritage-tour-10",
+    "notes": "Special notes for travelers visiting Tripura: Light clothing recommended",
+    "departureCity": "New Delhi",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744464705042,
+      1745328705042
+    ]
+  }
+]

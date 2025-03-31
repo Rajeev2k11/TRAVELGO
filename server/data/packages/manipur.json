@@ -1,0 +1,540 @@
+[
+  {
+    "id": "MAN001",
+    "name": "Manipur Explorer Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Manipur with our specially designed tour package.",
+    "adult": 4,
+    "child": 0,
+    "dateAdded": 1743427905028,
+    "relateKey": "Manipur",
+    "keywords": "Manipur, Loktak Lake, Imphal, Northeast, Phumdis, Martial Arts",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Manipur",
+      "Ukhrul",
+      "Imphal"
+    ],
+    "tourType": "Group",
+    "activityType": "Historical Tours",
+    "landscapeType": "Valley and Hills",
+    "tags": [
+      "Adventure",
+      "Guided Tour"
+    ],
+    "webPackPrice": 43000,
+    "starRating": 3,
+    "hotel": "Royal Palace Imphal",
+    "startDate": 1745760705028,
+    "endDate": "2025-04-30T13:31:45.028Z",
+    "duration": 3,
+    "monthLevelSelect": "July",
+    "destination": "Manipur, Ukhrul, Imphal, Thoubal",
+    "location": "manipur",
+    "dayWiseDuration": 3,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "manipur.png",
+    "badges": [],
+    "dataImages": [
+      "manipur_1.png",
+      "manipur_2.png"
+    ],
+    "slug": "manipur-explorer-tour-1",
+    "notes": "Special notes for travelers visiting Manipur: Winter wear essential",
+    "departureCity": "Ukhrul",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745760705028,
+      1743600705028
+    ]
+  },
+  {
+    "id": "MAN002",
+    "name": "Manipur Heritage Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Manipur with our specially designed tour package.",
+    "adult": 4,
+    "child": 0,
+    "dateAdded": 1743427905028,
+    "relateKey": "Manipur",
+    "keywords": "Manipur, Loktak Lake, Imphal, Northeast, Phumdis, Martial Arts",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Manipur",
+      "Imphal",
+      "Bishnupur"
+    ],
+    "tourType": "Single",
+    "activityType": "Traditional Sports",
+    "landscapeType": "Valley and Hills",
+    "tags": [
+      "Religious",
+      "Guided Tour"
+    ],
+    "webPackPrice": 18000,
+    "starRating": 5,
+    "hotel": "Hotel Imphal by The Classic",
+    "startDate": 1743773505028,
+    "endDate": "2025-04-08T13:31:45.028Z",
+    "duration": 2,
+    "monthLevelSelect": "November",
+    "destination": "Manipur, Imphal, Bishnupur, Churachandpur",
+    "location": "manipur",
+    "dayWiseDuration": 2,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "manipur.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "manipur_1.png",
+      "manipur_2.png"
+    ],
+    "slug": "manipur-heritage-tour-2",
+    "notes": "Special notes for travelers visiting Manipur: Rain protection advised",
+    "departureCity": "Imphal",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744637505028,
+      1745760705028
+    ]
+  },
+  {
+    "id": "MAN003",
+    "name": "Manipur Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Manipur with our specially designed tour package.",
+    "adult": 2,
+    "child": 1,
+    "dateAdded": 1743427905028,
+    "relateKey": "Manipur",
+    "keywords": "Manipur, Loktak Lake, Imphal, Northeast, Phumdis, Martial Arts",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Manipur",
+      "Senapati",
+      "Ukhrul"
+    ],
+    "tourType": "Couple",
+    "activityType": "Traditional Sports",
+    "landscapeType": "Valley and Hills",
+    "tags": [
+      "Adventure",
+      "Guided Tour"
+    ],
+    "webPackPrice": 20000,
+    "starRating": 3,
+    "hotel": "Hotel Imphal by The Classic",
+    "startDate": 1744551105028,
+    "endDate": "2025-04-18T13:31:45.028Z",
+    "duration": 4,
+    "monthLevelSelect": "April",
+    "destination": "Manipur, Senapati, Ukhrul, Thoubal",
+    "location": "manipur",
+    "dayWiseDuration": 4,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "manipur.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "manipur_1.png",
+      "manipur_2.png"
+    ],
+    "slug": "manipur-discovery-tour-3",
+    "notes": "Special notes for travelers visiting Manipur: Winter wear essential",
+    "departureCity": "Thoubal",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744464705028,
+      1744205505028
+    ]
+  },
+  {
+    "id": "MAN004",
+    "name": "Manipur Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Manipur with our specially designed tour package.",
+    "adult": 3,
+    "child": 2,
+    "dateAdded": 1743427905028,
+    "relateKey": "Manipur",
+    "keywords": "Manipur, Loktak Lake, Imphal, Northeast, Phumdis, Martial Arts",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Manipur",
+      "Bishnupur",
+      "Churachandpur"
+    ],
+    "tourType": "Group",
+    "activityType": "Cultural Shows",
+    "landscapeType": "Valley and Hills",
+    "tags": [
+      "Adventure",
+      "Guided Tour"
+    ],
+    "webPackPrice": 45000,
+    "starRating": 5,
+    "hotel": "Classic Hotel Imphal",
+    "startDate": 1744551105028,
+    "endDate": "2025-04-20T13:31:45.028Z",
+    "duration": 10,
+    "monthLevelSelect": "November",
+    "destination": "Manipur, Bishnupur, Churachandpur, Thoubal",
+    "location": "manipur",
+    "dayWiseDuration": 10,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "manipur.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "manipur_1.png",
+      "manipur_2.png"
+    ],
+    "slug": "manipur-discovery-tour-4",
+    "notes": "Special notes for travelers visiting Manipur: Light clothing recommended",
+    "departureCity": "Thoubal",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744119105029,
+      1744983105029
+    ]
+  },
+  {
+    "id": "MAN005",
+    "name": "Manipur Explorer Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Manipur with our specially designed tour package.",
+    "adult": 3,
+    "child": 0,
+    "dateAdded": 1743427905029,
+    "relateKey": "Manipur",
+    "keywords": "Manipur, Loktak Lake, Imphal, Northeast, Phumdis, Martial Arts",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Manipur",
+      "Thoubal",
+      "Bishnupur"
+    ],
+    "tourType": "Couple",
+    "activityType": "Cultural Shows",
+    "landscapeType": "Valley and Hills",
+    "tags": [
+      "Budget",
+      "Guided Tour"
+    ],
+    "webPackPrice": 26000,
+    "starRating": 5,
+    "hotel": "Sangai Continental",
+    "startDate": 1745674305029,
+    "endDate": "2025-04-27T13:31:45.029Z",
+    "duration": 7,
+    "monthLevelSelect": "July",
+    "destination": "Manipur, Thoubal, Bishnupur, Imphal",
+    "location": "manipur",
+    "dayWiseDuration": 7,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "manipur.png",
+    "badges": [],
+    "dataImages": [
+      "manipur_1.png",
+      "manipur_2.png"
+    ],
+    "slug": "manipur-explorer-tour-5",
+    "notes": "Special notes for travelers visiting Manipur: Rain protection advised",
+    "departureCity": "Ukhrul",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743600705029,
+      1748007105029
+    ]
+  },
+  {
+    "id": "MAN006",
+    "name": "Manipur Scenic Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Manipur with our specially designed tour package.",
+    "adult": 1,
+    "child": 1,
+    "dateAdded": 1743427905029,
+    "relateKey": "Manipur",
+    "keywords": "Manipur, Loktak Lake, Imphal, Northeast, Phumdis, Martial Arts",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Manipur",
+      "Thoubal",
+      "Ukhrul"
+    ],
+    "tourType": "Group",
+    "activityType": "Historical Tours",
+    "landscapeType": "Valley and Hills",
+    "tags": [
+      "Budget",
+      "Guided Tour"
+    ],
+    "webPackPrice": 42000,
+    "starRating": 3,
+    "hotel": "Royal Palace Imphal",
+    "startDate": 1743514305029,
+    "endDate": "2025-04-03T13:31:45.029Z",
+    "duration": 9,
+    "monthLevelSelect": "April",
+    "destination": "Manipur, Thoubal, Ukhrul, Bishnupur",
+    "location": "manipur",
+    "dayWiseDuration": 9,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "manipur.png",
+    "badges": [],
+    "dataImages": [
+      "manipur_1.png",
+      "manipur_2.png"
+    ],
+    "slug": "manipur-scenic-tour-6",
+    "notes": "Special notes for travelers visiting Manipur: Carry sunscreen",
+    "departureCity": "Kolkata",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745069505029,
+      1744637505029
+    ]
+  },
+  {
+    "id": "MAN007",
+    "name": "Manipur Cultural Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Manipur with our specially designed tour package.",
+    "adult": 4,
+    "child": 1,
+    "dateAdded": 1743427905029,
+    "relateKey": "Manipur",
+    "keywords": "Manipur, Loktak Lake, Imphal, Northeast, Phumdis, Martial Arts",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Manipur",
+      "Senapati",
+      "Imphal"
+    ],
+    "tourType": "Group",
+    "activityType": "Traditional Sports",
+    "landscapeType": "Valley and Hills",
+    "tags": [
+      "Luxury",
+      "Guided Tour"
+    ],
+    "webPackPrice": 25000,
+    "starRating": 3,
+    "hotel": "Hotel Imphal by The Classic",
+    "startDate": 1745760705029,
+    "endDate": "2025-04-30T13:31:45.029Z",
+    "duration": 2,
+    "monthLevelSelect": "November",
+    "destination": "Manipur, Senapati, Imphal, Bishnupur",
+    "location": "manipur",
+    "dayWiseDuration": 2,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "manipur.png",
+    "badges": [],
+    "dataImages": [
+      "manipur_1.png",
+      "manipur_2.png"
+    ],
+    "slug": "manipur-cultural-tour-7",
+    "notes": "Special notes for travelers visiting Manipur: Carry sunscreen",
+    "departureCity": "Ukhrul",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745847105029,
+      1745933505029
+    ]
+  },
+  {
+    "id": "MAN008",
+    "name": "Manipur Scenic Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Manipur with our specially designed tour package.",
+    "adult": 3,
+    "child": 2,
+    "dateAdded": 1743427905029,
+    "relateKey": "Manipur",
+    "keywords": "Manipur, Loktak Lake, Imphal, Northeast, Phumdis, Martial Arts",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Manipur",
+      "Ukhrul",
+      "Bishnupur"
+    ],
+    "tourType": "Couple",
+    "activityType": "Boat Rides",
+    "landscapeType": "Valley and Hills",
+    "tags": [
+      "Luxury",
+      "Guided Tour"
+    ],
+    "webPackPrice": 21000,
+    "starRating": 3,
+    "hotel": "Hotel Imphal by The Classic",
+    "startDate": 1745587905029,
+    "endDate": "2025-04-30T13:31:45.029Z",
+    "duration": 7,
+    "monthLevelSelect": "September",
+    "destination": "Manipur, Ukhrul, Bishnupur, Thoubal",
+    "location": "manipur",
+    "dayWiseDuration": 7,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "manipur.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "manipur_1.png",
+      "manipur_2.png"
+    ],
+    "slug": "manipur-scenic-tour-8",
+    "notes": "Special notes for travelers visiting Manipur: Light clothing recommended",
+    "departureCity": "Imphal",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744983105029,
+      1747229505029
+    ]
+  },
+  {
+    "id": "MAN009",
+    "name": "Manipur Heritage Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Manipur with our specially designed tour package.",
+    "adult": 4,
+    "child": 0,
+    "dateAdded": 1743427905029,
+    "relateKey": "Manipur",
+    "keywords": "Manipur, Loktak Lake, Imphal, Northeast, Phumdis, Martial Arts",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Manipur",
+      "Thoubal",
+      "Bishnupur"
+    ],
+    "tourType": "Couple",
+    "activityType": "Wildlife Viewing",
+    "landscapeType": "Valley and Hills",
+    "tags": [
+      "Luxury",
+      "Guided Tour"
+    ],
+    "webPackPrice": 48000,
+    "starRating": 3,
+    "hotel": "Royal Palace Imphal",
+    "startDate": 1743514305029,
+    "endDate": "2025-04-06T13:31:45.029Z",
+    "duration": 10,
+    "monthLevelSelect": "March",
+    "destination": "Manipur, Thoubal, Bishnupur, Imphal",
+    "location": "manipur",
+    "dayWiseDuration": 10,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "manipur.png",
+    "badges": [],
+    "dataImages": [
+      "manipur_1.png",
+      "manipur_2.png"
+    ],
+    "slug": "manipur-heritage-tour-9",
+    "notes": "Special notes for travelers visiting Manipur: Carry sunscreen",
+    "departureCity": "Kolkata",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743514305029,
+      1747488705029
+    ]
+  },
+  {
+    "id": "MAN010",
+    "name": "Manipur Cultural Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Manipur with our specially designed tour package.",
+    "adult": 1,
+    "child": 0,
+    "dateAdded": 1743427905029,
+    "relateKey": "Manipur",
+    "keywords": "Manipur, Loktak Lake, Imphal, Northeast, Phumdis, Martial Arts",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Manipur",
+      "Imphal",
+      "Churachandpur"
+    ],
+    "tourType": "Group",
+    "activityType": "Traditional Sports",
+    "landscapeType": "Valley and Hills",
+    "tags": [
+      "Luxury",
+      "Guided Tour"
+    ],
+    "webPackPrice": 36000,
+    "starRating": 4,
+    "hotel": "Classic Hotel Imphal",
+    "startDate": 1744378305029,
+    "endDate": "2025-04-13T13:31:45.029Z",
+    "duration": 8,
+    "monthLevelSelect": "August",
+    "destination": "Manipur, Imphal, Churachandpur, Ukhrul",
+    "location": "manipur",
+    "dayWiseDuration": 8,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "manipur.png",
+    "badges": [],
+    "dataImages": [
+      "manipur_1.png",
+      "manipur_2.png"
+    ],
+    "slug": "manipur-cultural-tour-10",
+    "notes": "Special notes for travelers visiting Manipur: Carry sunscreen",
+    "departureCity": "Imphal",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744378305029,
+      1743773505029
+    ]
+  }
+]

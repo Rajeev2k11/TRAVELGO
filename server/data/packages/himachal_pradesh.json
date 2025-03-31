@@ -1,0 +1,550 @@
+[
+  {
+    "id": "HIM001",
+    "name": "Himachal Pradesh Adventure Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Himachal Pradesh with our specially designed tour package.",
+    "adult": 1,
+    "child": 2,
+    "dateAdded": 1743427905021,
+    "relateKey": "Himachal Pradesh",
+    "keywords": "Himachal Pradesh, Shimla, Manali, Hiking, Mountain, Snow, Adventure",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Himachal Pradesh",
+      "Kullu",
+      "Dharamshala"
+    ],
+    "tourType": "Couple",
+    "activityType": "River Rafting",
+    "landscapeType": "Mountainous Himalayan",
+    "tags": [
+      "Adventure",
+      "Guided Tour"
+    ],
+    "webPackPrice": 42000,
+    "starRating": 5,
+    "hotel": "The Himalayan Kasauli",
+    "startDate": 1744983105021,
+    "endDate": "2025-04-25T13:31:45.021Z",
+    "duration": 6,
+    "monthLevelSelect": "May",
+    "destination": "Himachal Pradesh, Kullu, Dharamshala, Solan",
+    "location": "himachal_pradesh",
+    "dayWiseDuration": 6,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "himachal_pradesh.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "himachal_pradesh_1.png",
+      "himachal_pradesh_2.png"
+    ],
+    "slug": "himachal-pradesh-adventure-tour-1",
+    "notes": "Special notes for travelers visiting Himachal Pradesh: Rain protection advised",
+    "departureCity": "Mumbai",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744464705021,
+      1746279105021
+    ]
+  },
+  {
+    "id": "HIM002",
+    "name": "Himachal Pradesh Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Himachal Pradesh with our specially designed tour package.",
+    "adult": 2,
+    "child": 0,
+    "dateAdded": 1743427905021,
+    "relateKey": "Himachal Pradesh",
+    "keywords": "Himachal Pradesh, Shimla, Manali, Hiking, Mountain, Snow, Adventure",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Himachal Pradesh",
+      "Solan",
+      "Kullu"
+    ],
+    "tourType": "Group",
+    "activityType": "Mountain Biking",
+    "landscapeType": "Mountainous Himalayan",
+    "tags": [
+      "Adventure",
+      "Guided Tour"
+    ],
+    "webPackPrice": 20000,
+    "starRating": 5,
+    "hotel": "The Oberoi Cecil Shimla",
+    "startDate": 1745069505021,
+    "endDate": "2025-04-22T13:31:45.021Z",
+    "duration": 2,
+    "monthLevelSelect": "September",
+    "destination": "Himachal Pradesh, Solan, Kullu, McLeod Ganj",
+    "location": "himachal_pradesh",
+    "dayWiseDuration": 2,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "himachal_pradesh.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "himachal_pradesh_1.png",
+      "himachal_pradesh_2.png"
+    ],
+    "slug": "himachal-pradesh-discovery-tour-2",
+    "notes": "Special notes for travelers visiting Himachal Pradesh: Carry sunscreen",
+    "departureCity": "Dharamshala",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744896705021,
+      1748525505021
+    ]
+  },
+  {
+    "id": "HIM003",
+    "name": "Himachal Pradesh Scenic Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Himachal Pradesh with our specially designed tour package.",
+    "adult": 2,
+    "child": 0,
+    "dateAdded": 1743427905021,
+    "relateKey": "Himachal Pradesh",
+    "keywords": "Himachal Pradesh, Shimla, Manali, Hiking, Mountain, Snow, Adventure",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Himachal Pradesh",
+      "Shimla",
+      "Manali"
+    ],
+    "tourType": "Family",
+    "activityType": "River Rafting",
+    "landscapeType": "Mountainous Himalayan",
+    "tags": [
+      "Luxury",
+      "Guided Tour"
+    ],
+    "webPackPrice": 33000,
+    "starRating": 3,
+    "hotel": "Club Mahindra Kandaghat",
+    "startDate": 1743427905021,
+    "endDate": "2025-04-03T13:31:45.021Z",
+    "duration": 10,
+    "monthLevelSelect": "April",
+    "destination": "Himachal Pradesh, Shimla, Manali, Solan",
+    "location": "himachal_pradesh",
+    "dayWiseDuration": 10,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "himachal_pradesh.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "himachal_pradesh_1.png",
+      "himachal_pradesh_2.png"
+    ],
+    "slug": "himachal-pradesh-scenic-tour-3",
+    "notes": "Special notes for travelers visiting Himachal Pradesh: Light clothing recommended",
+    "departureCity": "Manali",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744205505021,
+      1743946305021
+    ]
+  },
+  {
+    "id": "HIM004",
+    "name": "Himachal Pradesh Adventure Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Himachal Pradesh with our specially designed tour package.",
+    "adult": 3,
+    "child": 1,
+    "dateAdded": 1743427905021,
+    "relateKey": "Himachal Pradesh",
+    "keywords": "Himachal Pradesh, Shimla, Manali, Hiking, Mountain, Snow, Adventure",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Himachal Pradesh",
+      "Solan",
+      "Manali"
+    ],
+    "tourType": "Single",
+    "activityType": "Mountain Biking",
+    "landscapeType": "Mountainous Himalayan",
+    "tags": [
+      "Adventure",
+      "Guided Tour"
+    ],
+    "webPackPrice": 16000,
+    "starRating": 3,
+    "hotel": "The Oberoi Cecil Shimla",
+    "startDate": 1745933505021,
+    "endDate": "2025-05-01T13:31:45.021Z",
+    "duration": 9,
+    "monthLevelSelect": "May",
+    "destination": "Himachal Pradesh, Solan, Manali, Shimla",
+    "location": "himachal_pradesh",
+    "dayWiseDuration": 9,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "himachal_pradesh.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "himachal_pradesh_1.png",
+      "himachal_pradesh_2.png"
+    ],
+    "slug": "himachal-pradesh-adventure-tour-4",
+    "notes": "Special notes for travelers visiting Himachal Pradesh: Carry sunscreen",
+    "departureCity": "McLeod Ganj",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745155905021,
+      1744896705021
+    ]
+  },
+  {
+    "id": "HIM005",
+    "name": "Himachal Pradesh Cultural Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Himachal Pradesh with our specially designed tour package.",
+    "adult": 3,
+    "child": 2,
+    "dateAdded": 1743427905021,
+    "relateKey": "Himachal Pradesh",
+    "keywords": "Himachal Pradesh, Shimla, Manali, Hiking, Mountain, Snow, Adventure",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Himachal Pradesh",
+      "McLeod Ganj",
+      "Solan"
+    ],
+    "tourType": "Single",
+    "activityType": "Mountain Biking",
+    "landscapeType": "Mountainous Himalayan",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 14000,
+    "starRating": 5,
+    "hotel": "Fortune Resort Ridge Dalhousie",
+    "startDate": 1744896705021,
+    "endDate": "2025-04-20T13:31:45.021Z",
+    "duration": 3,
+    "monthLevelSelect": "December",
+    "destination": "Himachal Pradesh, McLeod Ganj, Solan, Manali",
+    "location": "himachal_pradesh",
+    "dayWiseDuration": 3,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "himachal_pradesh.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "himachal_pradesh_1.png",
+      "himachal_pradesh_2.png"
+    ],
+    "slug": "himachal-pradesh-cultural-tour-5",
+    "notes": "Special notes for travelers visiting Himachal Pradesh: Carry sunscreen",
+    "departureCity": "Shimla",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743600705021,
+      1745674305021
+    ]
+  },
+  {
+    "id": "HIM006",
+    "name": "Himachal Pradesh Scenic Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Himachal Pradesh with our specially designed tour package.",
+    "adult": 2,
+    "child": 2,
+    "dateAdded": 1743427905021,
+    "relateKey": "Himachal Pradesh",
+    "keywords": "Himachal Pradesh, Shimla, Manali, Hiking, Mountain, Snow, Adventure",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Himachal Pradesh",
+      "Manali",
+      "Kullu"
+    ],
+    "tourType": "Group",
+    "activityType": "Trekking",
+    "landscapeType": "Mountainous Himalayan",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 16000,
+    "starRating": 5,
+    "hotel": "Club Mahindra Kandaghat",
+    "startDate": 1743600705021,
+    "endDate": "2025-04-03T13:31:45.021Z",
+    "duration": 2,
+    "monthLevelSelect": "January",
+    "destination": "Himachal Pradesh, Manali, Kullu, Shimla",
+    "location": "himachal_pradesh",
+    "dayWiseDuration": 2,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "himachal_pradesh.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "himachal_pradesh_1.png",
+      "himachal_pradesh_2.png"
+    ],
+    "slug": "himachal-pradesh-scenic-tour-6",
+    "notes": "Special notes for travelers visiting Himachal Pradesh: Winter wear essential",
+    "departureCity": "Mumbai",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744983105021,
+      1743687105021
+    ]
+  },
+  {
+    "id": "HIM007",
+    "name": "Himachal Pradesh Cultural Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Himachal Pradesh with our specially designed tour package.",
+    "adult": 4,
+    "child": 2,
+    "dateAdded": 1743427905021,
+    "relateKey": "Himachal Pradesh",
+    "keywords": "Himachal Pradesh, Shimla, Manali, Hiking, Mountain, Snow, Adventure",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Himachal Pradesh",
+      "Solan",
+      "Shimla"
+    ],
+    "tourType": "Group",
+    "activityType": "Paragliding",
+    "landscapeType": "Mountainous Himalayan",
+    "tags": [
+      "Cultural",
+      "Guided Tour"
+    ],
+    "webPackPrice": 47000,
+    "starRating": 4,
+    "hotel": "Span Resort Manali",
+    "startDate": 1745415105021,
+    "endDate": "2025-04-26T13:31:45.021Z",
+    "duration": 9,
+    "monthLevelSelect": "August",
+    "destination": "Himachal Pradesh, Solan, Shimla, McLeod Ganj",
+    "location": "himachal_pradesh",
+    "dayWiseDuration": 9,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "himachal_pradesh.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "himachal_pradesh_1.png",
+      "himachal_pradesh_2.png"
+    ],
+    "slug": "himachal-pradesh-cultural-tour-7",
+    "notes": "Special notes for travelers visiting Himachal Pradesh: Rain protection advised",
+    "departureCity": "Solan",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745155905021,
+      1744637505021
+    ]
+  },
+  {
+    "id": "HIM008",
+    "name": "Himachal Pradesh Heritage Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Himachal Pradesh with our specially designed tour package.",
+    "adult": 2,
+    "child": 1,
+    "dateAdded": 1743427905021,
+    "relateKey": "Himachal Pradesh",
+    "keywords": "Himachal Pradesh, Shimla, Manali, Hiking, Mountain, Snow, Adventure",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Himachal Pradesh",
+      "Shimla",
+      "Dharamshala"
+    ],
+    "tourType": "Family",
+    "activityType": "Paragliding",
+    "landscapeType": "Mountainous Himalayan",
+    "tags": [
+      "Luxury",
+      "Guided Tour"
+    ],
+    "webPackPrice": 32000,
+    "starRating": 5,
+    "hotel": "Fortune Resort Ridge Dalhousie",
+    "startDate": 1744464705021,
+    "endDate": "2025-04-19T13:31:45.021Z",
+    "duration": 3,
+    "monthLevelSelect": "October",
+    "destination": "Himachal Pradesh, Shimla, Dharamshala, McLeod Ganj",
+    "location": "himachal_pradesh",
+    "dayWiseDuration": 3,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "himachal_pradesh.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "himachal_pradesh_1.png",
+      "himachal_pradesh_2.png"
+    ],
+    "slug": "himachal-pradesh-heritage-tour-8",
+    "notes": "Special notes for travelers visiting Himachal Pradesh: Winter wear essential",
+    "departureCity": "New Delhi",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745155905021,
+      1743946305021
+    ]
+  },
+  {
+    "id": "HIM009",
+    "name": "Himachal Pradesh Cultural Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Himachal Pradesh with our specially designed tour package.",
+    "adult": 2,
+    "child": 2,
+    "dateAdded": 1743427905021,
+    "relateKey": "Himachal Pradesh",
+    "keywords": "Himachal Pradesh, Shimla, Manali, Hiking, Mountain, Snow, Adventure",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Himachal Pradesh",
+      "Kullu",
+      "Shimla"
+    ],
+    "tourType": "Couple",
+    "activityType": "Skiing",
+    "landscapeType": "Mountainous Himalayan",
+    "tags": [
+      "Cultural",
+      "Guided Tour"
+    ],
+    "webPackPrice": 42000,
+    "starRating": 5,
+    "hotel": "Fortune Resort Ridge Dalhousie",
+    "startDate": 1743773505021,
+    "endDate": "2025-04-06T13:31:45.021Z",
+    "duration": 8,
+    "monthLevelSelect": "January",
+    "destination": "Himachal Pradesh, Kullu, Shimla, Dharamshala",
+    "location": "himachal_pradesh",
+    "dayWiseDuration": 8,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "himachal_pradesh.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "himachal_pradesh_1.png",
+      "himachal_pradesh_2.png"
+    ],
+    "slug": "himachal-pradesh-cultural-tour-9",
+    "notes": "Special notes for travelers visiting Himachal Pradesh: Carry sunscreen",
+    "departureCity": "Manali",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744983105021,
+      1746711105021
+    ]
+  },
+  {
+    "id": "HIM010",
+    "name": "Himachal Pradesh Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Himachal Pradesh with our specially designed tour package.",
+    "adult": 2,
+    "child": 2,
+    "dateAdded": 1743427905021,
+    "relateKey": "Himachal Pradesh",
+    "keywords": "Himachal Pradesh, Shimla, Manali, Hiking, Mountain, Snow, Adventure",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Himachal Pradesh",
+      "Kullu",
+      "Shimla"
+    ],
+    "tourType": "Single",
+    "activityType": "Skiing",
+    "landscapeType": "Mountainous Himalayan",
+    "tags": [
+      "Luxury",
+      "Guided Tour"
+    ],
+    "webPackPrice": 34000,
+    "starRating": 4,
+    "hotel": "The Oberoi Cecil Shimla",
+    "startDate": 1745847105021,
+    "endDate": "2025-05-01T13:31:45.021Z",
+    "duration": 8,
+    "monthLevelSelect": "October",
+    "destination": "Himachal Pradesh, Kullu, Shimla, McLeod Ganj",
+    "location": "himachal_pradesh",
+    "dayWiseDuration": 8,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "himachal_pradesh.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "himachal_pradesh_1.png",
+      "himachal_pradesh_2.png"
+    ],
+    "slug": "himachal-pradesh-discovery-tour-10",
+    "notes": "Special notes for travelers visiting Himachal Pradesh: Carry sunscreen",
+    "departureCity": "Manali",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744810305021,
+      1745674305021
+    ]
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "RAJ001",
+    "name": "Rajasthan Explorer Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Rajasthan with our specially designed tour package.",
+    "adult": 4,
+    "child": 0,
+    "dateAdded": 1743427905037,
+    "relateKey": "Rajasthan",
+    "keywords": "Rajasthan, Jaipur, Udaipur, Desert, Marwari, Palaces, Forts, Royal",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Rajasthan",
+      "Jodhpur",
+      "Udaipur"
+    ],
+    "tourType": "Couple",
+    "activityType": "Folk Music and Dance",
+    "landscapeType": "Desert and Aravalli Range",
+    "tags": [
+      "Luxury",
+      "Guided Tour"
+    ],
+    "webPackPrice": 12000,
+    "starRating": 3,
+    "hotel": "Suryagarh Jaisalmer",
+    "startDate": 1745847105037,
+    "endDate": "2025-04-30T13:31:45.037Z",
+    "duration": 9,
+    "monthLevelSelect": "December",
+    "destination": "Rajasthan, Jodhpur, Udaipur, Jaipur",
+    "location": "rajasthan",
+    "dayWiseDuration": 9,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "rajasthan.png",
+    "badges": [],
+    "dataImages": [
+      "rajasthan_1.png",
+      "rajasthan_2.png"
+    ],
+    "slug": "rajasthan-explorer-tour-1",
+    "notes": "Special notes for travelers visiting Rajasthan: Rain protection advised",
+    "departureCity": "Ajmer",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744205505037,
+      1747575105037
+    ]
+  },
+  {
+    "id": "RAJ002",
+    "name": "Rajasthan Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Rajasthan with our specially designed tour package.",
+    "adult": 3,
+    "child": 2,
+    "dateAdded": 1743427905037,
+    "relateKey": "Rajasthan",
+    "keywords": "Rajasthan, Jaipur, Udaipur, Desert, Marwari, Palaces, Forts, Royal",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Rajasthan",
+      "Jaisalmer",
+      "Bikaner"
+    ],
+    "tourType": "Single",
+    "activityType": "Desert Safari",
+    "landscapeType": "Desert and Aravalli Range",
+    "tags": [
+      "Religious",
+      "Guided Tour"
+    ],
+    "webPackPrice": 43000,
+    "starRating": 5,
+    "hotel": "RAAS Jodhpur",
+    "startDate": 1743773505037,
+    "endDate": "2025-04-08T13:31:45.037Z",
+    "duration": 3,
+    "monthLevelSelect": "June",
+    "destination": "Rajasthan, Jaisalmer, Bikaner, Jodhpur",
+    "location": "rajasthan",
+    "dayWiseDuration": 3,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "rajasthan.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "rajasthan_1.png",
+      "rajasthan_2.png"
+    ],
+    "slug": "rajasthan-discovery-tour-2",
+    "notes": "Special notes for travelers visiting Rajasthan: Winter wear essential",
+    "departureCity": "Mumbai",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745069505037,
+      1744464705037
+    ]
+  },
+  {
+    "id": "RAJ003",
+    "name": "Rajasthan Adventure Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Rajasthan with our specially designed tour package.",
+    "adult": 3,
+    "child": 0,
+    "dateAdded": 1743427905037,
+    "relateKey": "Rajasthan",
+    "keywords": "Rajasthan, Jaipur, Udaipur, Desert, Marwari, Palaces, Forts, Royal",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Rajasthan",
+      "Bikaner",
+      "Jaisalmer"
+    ],
+    "tourType": "Group",
+    "activityType": "Heritage Walks",
+    "landscapeType": "Desert and Aravalli Range",
+    "tags": [
+      "Religious",
+      "Guided Tour"
+    ],
+    "webPackPrice": 46000,
+    "starRating": 5,
+    "hotel": "Umaid Bhawan Palace",
+    "startDate": 1744464705037,
+    "endDate": "2025-04-18T13:31:45.037Z",
+    "duration": 8,
+    "monthLevelSelect": "February",
+    "destination": "Rajasthan, Bikaner, Jaisalmer, Pushkar",
+    "location": "rajasthan",
+    "dayWiseDuration": 8,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "rajasthan.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "rajasthan_1.png",
+      "rajasthan_2.png"
+    ],
+    "slug": "rajasthan-adventure-tour-3",
+    "notes": "Special notes for travelers visiting Rajasthan: Carry sunscreen",
+    "departureCity": "Pushkar",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744896705037,
+      1744896705037
+    ]
+  },
+  {
+    "id": "RAJ004",
+    "name": "Rajasthan Adventure Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Rajasthan with our specially designed tour package.",
+    "adult": 3,
+    "child": 2,
+    "dateAdded": 1743427905037,
+    "relateKey": "Rajasthan",
+    "keywords": "Rajasthan, Jaipur, Udaipur, Desert, Marwari, Palaces, Forts, Royal",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Rajasthan",
+      "Ajmer",
+      "Bikaner"
+    ],
+    "tourType": "Family",
+    "activityType": "Palace Tours",
+    "landscapeType": "Desert and Aravalli Range",
+    "tags": [
+      "Budget",
+      "Guided Tour"
+    ],
+    "webPackPrice": 40000,
+    "starRating": 4,
+    "hotel": "The Oberoi Udaivilas",
+    "startDate": 1744032705037,
+    "endDate": "2025-04-10T13:31:45.037Z",
+    "duration": 3,
+    "monthLevelSelect": "July",
+    "destination": "Rajasthan, Ajmer, Bikaner, Jaisalmer",
+    "location": "rajasthan",
+    "dayWiseDuration": 3,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "rajasthan.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "rajasthan_1.png",
+      "rajasthan_2.png"
+    ],
+    "slug": "rajasthan-adventure-tour-4",
+    "notes": "Special notes for travelers visiting Rajasthan: Carry sunscreen",
+    "departureCity": "Udaipur",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743427905037,
+      1747143105037
+    ]
+  },
+  {
+    "id": "RAJ005",
+    "name": "Rajasthan Explorer Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Rajasthan with our specially designed tour package.",
+    "adult": 1,
+    "child": 2,
+    "dateAdded": 1743427905037,
+    "relateKey": "Rajasthan",
+    "keywords": "Rajasthan, Jaipur, Udaipur, Desert, Marwari, Palaces, Forts, Royal",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Rajasthan",
+      "Pushkar",
+      "Jaipur"
+    ],
+    "tourType": "Family",
+    "activityType": "Village Experiences",
+    "landscapeType": "Desert and Aravalli Range",
+    "tags": [
+      "Adventure",
+      "Guided Tour"
+    ],
+    "webPackPrice": 25000,
+    "starRating": 3,
+    "hotel": "The Oberoi Udaivilas",
+    "startDate": 1744378305037,
+    "endDate": "2025-04-14T13:31:45.037Z",
+    "duration": 5,
+    "monthLevelSelect": "July",
+    "destination": "Rajasthan, Pushkar, Jaipur, Ajmer",
+    "location": "rajasthan",
+    "dayWiseDuration": 5,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "rajasthan.png",
+    "badges": [],
+    "dataImages": [
+      "rajasthan_1.png",
+      "rajasthan_2.png"
+    ],
+    "slug": "rajasthan-explorer-tour-5",
+    "notes": "Special notes for travelers visiting Rajasthan: Carry sunscreen",
+    "departureCity": "Bangalore",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743859905037,
+      1747315905037
+    ]
+  },
+  {
+    "id": "RAJ006",
+    "name": "Rajasthan Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Rajasthan with our specially designed tour package.",
+    "adult": 3,
+    "child": 1,
+    "dateAdded": 1743427905037,
+    "relateKey": "Rajasthan",
+    "keywords": "Rajasthan, Jaipur, Udaipur, Desert, Marwari, Palaces, Forts, Royal",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Rajasthan",
+      "Udaipur",
+      "Pushkar"
+    ],
+    "tourType": "Family",
+    "activityType": "Village Experiences",
+    "landscapeType": "Desert and Aravalli Range",
+    "tags": [
+      "Religious",
+      "Guided Tour"
+    ],
+    "webPackPrice": 38000,
+    "starRating": 4,
+    "hotel": "Rambagh Palace",
+    "startDate": 1745328705037,
+    "endDate": "2025-04-27T13:31:45.037Z",
+    "duration": 2,
+    "monthLevelSelect": "January",
+    "destination": "Rajasthan, Udaipur, Pushkar, Jaipur",
+    "location": "rajasthan",
+    "dayWiseDuration": 2,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "rajasthan.png",
+    "badges": [],
+    "dataImages": [
+      "rajasthan_1.png",
+      "rajasthan_2.png"
+    ],
+    "slug": "rajasthan-discovery-tour-6",
+    "notes": "Special notes for travelers visiting Rajasthan: Winter wear essential",
+    "departureCity": "Jaipur",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743514305037,
+      1747143105037
+    ]
+  },
+  {
+    "id": "RAJ007",
+    "name": "Rajasthan Heritage Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Rajasthan with our specially designed tour package.",
+    "adult": 2,
+    "child": 1,
+    "dateAdded": 1743427905037,
+    "relateKey": "Rajasthan",
+    "keywords": "Rajasthan, Jaipur, Udaipur, Desert, Marwari, Palaces, Forts, Royal",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Rajasthan",
+      "Jaisalmer",
+      "Ajmer"
+    ],
+    "tourType": "Group",
+    "activityType": "Palace Tours",
+    "landscapeType": "Desert and Aravalli Range",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 37000,
+    "starRating": 3,
+    "hotel": "Taj Lake Palace",
+    "startDate": 1744032705037,
+    "endDate": "2025-04-14T13:31:45.037Z",
+    "duration": 10,
+    "monthLevelSelect": "April",
+    "destination": "Rajasthan, Jaisalmer, Ajmer, Bikaner",
+    "location": "rajasthan",
+    "dayWiseDuration": 10,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "rajasthan.png",
+    "badges": [],
+    "dataImages": [
+      "rajasthan_1.png",
+      "rajasthan_2.png"
+    ],
+    "slug": "rajasthan-heritage-tour-7",
+    "notes": "Special notes for travelers visiting Rajasthan: Rain protection advised",
+    "departureCity": "Mumbai",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745847105037,
+      1745587905037
+    ]
+  },
+  {
+    "id": "RAJ008",
+    "name": "Rajasthan Adventure Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Rajasthan with our specially designed tour package.",
+    "adult": 4,
+    "child": 0,
+    "dateAdded": 1743427905037,
+    "relateKey": "Rajasthan",
+    "keywords": "Rajasthan, Jaipur, Udaipur, Desert, Marwari, Palaces, Forts, Royal",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Rajasthan",
+      "Pushkar",
+      "Ajmer"
+    ],
+    "tourType": "Family",
+    "activityType": "Palace Tours",
+    "landscapeType": "Desert and Aravalli Range",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 10000,
+    "starRating": 3,
+    "hotel": "Taj Lake Palace",
+    "startDate": 1744810305037,
+    "endDate": "2025-04-21T13:31:45.037Z",
+    "duration": 5,
+    "monthLevelSelect": "April",
+    "destination": "Rajasthan, Pushkar, Ajmer, Jodhpur",
+    "location": "rajasthan",
+    "dayWiseDuration": 5,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "rajasthan.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "rajasthan_1.png",
+      "rajasthan_2.png"
+    ],
+    "slug": "rajasthan-adventure-tour-8",
+    "notes": "Special notes for travelers visiting Rajasthan: Light clothing recommended",
+    "departureCity": "Jaisalmer",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745587905037,
+      1747229505037
+    ]
+  },
+  {
+    "id": "RAJ009",
+    "name": "Rajasthan Explorer Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Rajasthan with our specially designed tour package.",
+    "adult": 3,
+    "child": 0,
+    "dateAdded": 1743427905037,
+    "relateKey": "Rajasthan",
+    "keywords": "Rajasthan, Jaipur, Udaipur, Desert, Marwari, Palaces, Forts, Royal",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Rajasthan",
+      "Jodhpur",
+      "Udaipur"
+    ],
+    "tourType": "Family",
+    "activityType": "Village Experiences",
+    "landscapeType": "Desert and Aravalli Range",
+    "tags": [
+      "Adventure",
+      "Guided Tour"
+    ],
+    "webPackPrice": 31000,
+    "starRating": 3,
+    "hotel": "Taj Lake Palace",
+    "startDate": 1744205505037,
+    "endDate": "2025-04-14T13:31:45.037Z",
+    "duration": 2,
+    "monthLevelSelect": "May",
+    "destination": "Rajasthan, Jodhpur, Udaipur, Ajmer",
+    "location": "rajasthan",
+    "dayWiseDuration": 2,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "rajasthan.png",
+    "badges": [],
+    "dataImages": [
+      "rajasthan_1.png",
+      "rajasthan_2.png"
+    ],
+    "slug": "rajasthan-explorer-tour-9",
+    "notes": "Special notes for travelers visiting Rajasthan: Rain protection advised",
+    "departureCity": "Udaipur",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745587905037,
+      1745155905037
+    ]
+  },
+  {
+    "id": "RAJ010",
+    "name": "Rajasthan Cultural Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Rajasthan with our specially designed tour package.",
+    "adult": 1,
+    "child": 0,
+    "dateAdded": 1743427905037,
+    "relateKey": "Rajasthan",
+    "keywords": "Rajasthan, Jaipur, Udaipur, Desert, Marwari, Palaces, Forts, Royal",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Rajasthan",
+      "Bikaner",
+      "Jodhpur"
+    ],
+    "tourType": "Single",
+    "activityType": "Heritage Walks",
+    "landscapeType": "Desert and Aravalli Range",
+    "tags": [
+      "Religious",
+      "Guided Tour"
+    ],
+    "webPackPrice": 25000,
+    "starRating": 5,
+    "hotel": "The Oberoi Udaivilas",
+    "startDate": 1745415105037,
+    "endDate": "2025-04-25T13:31:45.037Z",
+    "duration": 7,
+    "monthLevelSelect": "November",
+    "destination": "Rajasthan, Bikaner, Jodhpur, Udaipur",
+    "location": "rajasthan",
+    "dayWiseDuration": 7,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "rajasthan.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "rajasthan_1.png",
+      "rajasthan_2.png"
+    ],
+    "slug": "rajasthan-cultural-tour-10",
+    "notes": "Special notes for travelers visiting Rajasthan: Winter wear essential",
+    "departureCity": "Bikaner",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744896705037,
+      1747056705037
+    ]
+  }
+]

@@ -1,0 +1,548 @@
+[
+  {
+    "id": "ASS001",
+    "name": "Assam Explorer Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Assam with our specially designed tour package.",
+    "adult": 3,
+    "child": 0,
+    "dateAdded": 1743427905016,
+    "relateKey": "Assam",
+    "keywords": "Assam, Kaziranga, Guwahati, Tea Gardens, Brahmaputra, One-horned Rhino",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Assam",
+      "Dibrugarh",
+      "Tezpur"
+    ],
+    "tourType": "Family",
+    "activityType": "Tea Garden Tours",
+    "landscapeType": "Brahmaputra Valley and Hills",
+    "tags": [
+      "Luxury",
+      "Guided Tour"
+    ],
+    "webPackPrice": 40000,
+    "starRating": 5,
+    "hotel": "Kaziranga Resort",
+    "startDate": 1743687105016,
+    "endDate": "2025-04-09T13:31:45.016Z",
+    "duration": 2,
+    "monthLevelSelect": "January",
+    "destination": "Assam, Dibrugarh, Tezpur, Silchar",
+    "location": "assam",
+    "dayWiseDuration": 2,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "assam.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "assam_1.png",
+      "assam_2.png"
+    ],
+    "slug": "assam-explorer-tour-1",
+    "notes": "Special notes for travelers visiting Assam: Carry sunscreen",
+    "departureCity": "New Delhi",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743600705016,
+      1743600705016
+    ]
+  },
+  {
+    "id": "ASS002",
+    "name": "Assam Cultural Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Assam with our specially designed tour package.",
+    "adult": 1,
+    "child": 0,
+    "dateAdded": 1743427905016,
+    "relateKey": "Assam",
+    "keywords": "Assam, Kaziranga, Guwahati, Tea Gardens, Brahmaputra, One-horned Rhino",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Assam",
+      "Guwahati",
+      "Nagaon"
+    ],
+    "tourType": "Couple",
+    "activityType": "Tea Garden Tours",
+    "landscapeType": "Brahmaputra Valley and Hills",
+    "tags": [
+      "Cultural",
+      "Guided Tour"
+    ],
+    "webPackPrice": 15000,
+    "starRating": 3,
+    "hotel": "Jorhat Tea Bungalow",
+    "startDate": 1744205505016,
+    "endDate": "2025-04-11T13:31:45.016Z",
+    "duration": 4,
+    "monthLevelSelect": "July",
+    "destination": "Assam, Guwahati, Nagaon, Silchar",
+    "location": "assam",
+    "dayWiseDuration": 4,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "assam.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "assam_1.png",
+      "assam_2.png"
+    ],
+    "slug": "assam-cultural-tour-2",
+    "notes": "Special notes for travelers visiting Assam: Rain protection advised",
+    "departureCity": "Dibrugarh",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744983105016,
+      1744810305016
+    ]
+  },
+  {
+    "id": "ASS003",
+    "name": "Assam Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Assam with our specially designed tour package.",
+    "adult": 2,
+    "child": 0,
+    "dateAdded": 1743427905016,
+    "relateKey": "Assam",
+    "keywords": "Assam, Kaziranga, Guwahati, Tea Gardens, Brahmaputra, One-horned Rhino",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Assam",
+      "Jorhat",
+      "Nagaon"
+    ],
+    "tourType": "Single",
+    "activityType": "Cultural Festivals",
+    "landscapeType": "Brahmaputra Valley and Hills",
+    "tags": [
+      "Luxury",
+      "Guided Tour"
+    ],
+    "webPackPrice": 24000,
+    "starRating": 3,
+    "hotel": "Kaziranga Resort",
+    "startDate": 1745674305016,
+    "endDate": "2025-04-27T13:31:45.016Z",
+    "duration": 7,
+    "monthLevelSelect": "September",
+    "destination": "Assam, Jorhat, Nagaon, Dibrugarh",
+    "location": "assam",
+    "dayWiseDuration": 7,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "assam.png",
+    "badges": [],
+    "dataImages": [
+      "assam_1.png",
+      "assam_2.png"
+    ],
+    "slug": "assam-discovery-tour-3",
+    "notes": "Special notes for travelers visiting Assam: Carry sunscreen",
+    "departureCity": "Kolkata",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744205505016,
+      1748093505016
+    ]
+  },
+  {
+    "id": "ASS004",
+    "name": "Assam Cultural Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Assam with our specially designed tour package.",
+    "adult": 4,
+    "child": 1,
+    "dateAdded": 1743427905016,
+    "relateKey": "Assam",
+    "keywords": "Assam, Kaziranga, Guwahati, Tea Gardens, Brahmaputra, One-horned Rhino",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Assam",
+      "Dibrugarh",
+      "Nagaon"
+    ],
+    "tourType": "Group",
+    "activityType": "Tea Garden Tours",
+    "landscapeType": "Brahmaputra Valley and Hills",
+    "tags": [
+      "Religious",
+      "Guided Tour"
+    ],
+    "webPackPrice": 45000,
+    "starRating": 5,
+    "hotel": "Jorhat Tea Bungalow",
+    "startDate": 1745155905016,
+    "endDate": "2025-04-24T13:31:45.016Z",
+    "duration": 4,
+    "monthLevelSelect": "February",
+    "destination": "Assam, Dibrugarh, Nagaon, Guwahati",
+    "location": "assam",
+    "dayWiseDuration": 4,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "assam.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "assam_1.png",
+      "assam_2.png"
+    ],
+    "slug": "assam-cultural-tour-4",
+    "notes": "Special notes for travelers visiting Assam: Light clothing recommended",
+    "departureCity": "Tezpur",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744378305016,
+      1746711105016
+    ]
+  },
+  {
+    "id": "ASS005",
+    "name": "Assam Cultural Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Assam with our specially designed tour package.",
+    "adult": 3,
+    "child": 0,
+    "dateAdded": 1743427905016,
+    "relateKey": "Assam",
+    "keywords": "Assam, Kaziranga, Guwahati, Tea Gardens, Brahmaputra, One-horned Rhino",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Assam",
+      "Nagaon",
+      "Dibrugarh"
+    ],
+    "tourType": "Single",
+    "activityType": "River Cruises",
+    "landscapeType": "Brahmaputra Valley and Hills",
+    "tags": [
+      "Cultural",
+      "Guided Tour"
+    ],
+    "webPackPrice": 48000,
+    "starRating": 4,
+    "hotel": "Kaziranga Resort",
+    "startDate": 1744551105016,
+    "endDate": "2025-04-19T13:31:45.016Z",
+    "duration": 3,
+    "monthLevelSelect": "August",
+    "destination": "Assam, Nagaon, Dibrugarh, Jorhat",
+    "location": "assam",
+    "dayWiseDuration": 3,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "assam.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "assam_1.png",
+      "assam_2.png"
+    ],
+    "slug": "assam-cultural-tour-5",
+    "notes": "Special notes for travelers visiting Assam: Winter wear essential",
+    "departureCity": "Silchar",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744291905016,
+      1745328705016
+    ]
+  },
+  {
+    "id": "ASS006",
+    "name": "Assam Scenic Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Assam with our specially designed tour package.",
+    "adult": 4,
+    "child": 0,
+    "dateAdded": 1743427905016,
+    "relateKey": "Assam",
+    "keywords": "Assam, Kaziranga, Guwahati, Tea Gardens, Brahmaputra, One-horned Rhino",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Assam",
+      "Dibrugarh",
+      "Tezpur"
+    ],
+    "tourType": "Family",
+    "activityType": "Wildlife Safari",
+    "landscapeType": "Brahmaputra Valley and Hills",
+    "tags": [
+      "Adventure",
+      "Guided Tour"
+    ],
+    "webPackPrice": 10000,
+    "starRating": 5,
+    "hotel": "Radisson Blu Guwahati",
+    "startDate": 1743946305016,
+    "endDate": "2025-04-09T13:31:45.016Z",
+    "duration": 6,
+    "monthLevelSelect": "April",
+    "destination": "Assam, Dibrugarh, Tezpur, Nagaon",
+    "location": "assam",
+    "dayWiseDuration": 6,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "assam.png",
+    "badges": [],
+    "dataImages": [
+      "assam_1.png",
+      "assam_2.png"
+    ],
+    "slug": "assam-scenic-tour-6",
+    "notes": "Special notes for travelers visiting Assam: Carry sunscreen",
+    "departureCity": "Tezpur",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743427905016,
+      1743600705016
+    ]
+  },
+  {
+    "id": "ASS007",
+    "name": "Assam Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Assam with our specially designed tour package.",
+    "adult": 4,
+    "child": 0,
+    "dateAdded": 1743427905016,
+    "relateKey": "Assam",
+    "keywords": "Assam, Kaziranga, Guwahati, Tea Gardens, Brahmaputra, One-horned Rhino",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Assam",
+      "Guwahati",
+      "Dibrugarh"
+    ],
+    "tourType": "Single",
+    "activityType": "Bihu Dance",
+    "landscapeType": "Brahmaputra Valley and Hills",
+    "tags": [
+      "Religious",
+      "Guided Tour"
+    ],
+    "webPackPrice": 12000,
+    "starRating": 3,
+    "hotel": "Jorhat Tea Bungalow",
+    "startDate": 1745328705016,
+    "endDate": "2025-04-26T13:31:45.016Z",
+    "duration": 4,
+    "monthLevelSelect": "May",
+    "destination": "Assam, Guwahati, Dibrugarh, Silchar",
+    "location": "assam",
+    "dayWiseDuration": 4,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "assam.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "assam_1.png",
+      "assam_2.png"
+    ],
+    "slug": "assam-discovery-tour-7",
+    "notes": "Special notes for travelers visiting Assam: Carry sunscreen",
+    "departureCity": "Guwahati",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744810305016,
+      1746538305016
+    ]
+  },
+  {
+    "id": "ASS008",
+    "name": "Assam Heritage Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Assam with our specially designed tour package.",
+    "adult": 1,
+    "child": 2,
+    "dateAdded": 1743427905016,
+    "relateKey": "Assam",
+    "keywords": "Assam, Kaziranga, Guwahati, Tea Gardens, Brahmaputra, One-horned Rhino",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Assam",
+      "Jorhat",
+      "Guwahati"
+    ],
+    "tourType": "Couple",
+    "activityType": "Wildlife Safari",
+    "landscapeType": "Brahmaputra Valley and Hills",
+    "tags": [
+      "Adventure",
+      "Guided Tour"
+    ],
+    "webPackPrice": 32000,
+    "starRating": 4,
+    "hotel": "Jorhat Tea Bungalow",
+    "startDate": 1745674305016,
+    "endDate": "2025-05-01T13:31:45.016Z",
+    "duration": 10,
+    "monthLevelSelect": "January",
+    "destination": "Assam, Jorhat, Guwahati, Silchar",
+    "location": "assam",
+    "dayWiseDuration": 10,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "assam.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "assam_1.png",
+      "assam_2.png"
+    ],
+    "slug": "assam-heritage-tour-8",
+    "notes": "Special notes for travelers visiting Assam: Light clothing recommended",
+    "departureCity": "Jorhat",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743773505016,
+      1743773505016
+    ]
+  },
+  {
+    "id": "ASS009",
+    "name": "Assam Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Assam with our specially designed tour package.",
+    "adult": 2,
+    "child": 2,
+    "dateAdded": 1743427905016,
+    "relateKey": "Assam",
+    "keywords": "Assam, Kaziranga, Guwahati, Tea Gardens, Brahmaputra, One-horned Rhino",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Assam",
+      "Tezpur",
+      "Silchar"
+    ],
+    "tourType": "Family",
+    "activityType": "Tea Garden Tours",
+    "landscapeType": "Brahmaputra Valley and Hills",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 11000,
+    "starRating": 3,
+    "hotel": "Brahmaputra Jungle Resort",
+    "startDate": 1743427905016,
+    "endDate": "2025-04-01T13:31:45.016Z",
+    "duration": 2,
+    "monthLevelSelect": "September",
+    "destination": "Assam, Tezpur, Silchar, Guwahati",
+    "location": "assam",
+    "dayWiseDuration": 2,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "assam.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "assam_1.png",
+      "assam_2.png"
+    ],
+    "slug": "assam-discovery-tour-9",
+    "notes": "Special notes for travelers visiting Assam: Light clothing recommended",
+    "departureCity": "Nagaon",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745242305016,
+      1747747905016
+    ]
+  },
+  {
+    "id": "ASS010",
+    "name": "Assam Adventure Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Assam with our specially designed tour package.",
+    "adult": 3,
+    "child": 1,
+    "dateAdded": 1743427905016,
+    "relateKey": "Assam",
+    "keywords": "Assam, Kaziranga, Guwahati, Tea Gardens, Brahmaputra, One-horned Rhino",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Assam",
+      "Dibrugarh",
+      "Jorhat"
+    ],
+    "tourType": "Group",
+    "activityType": "River Cruises",
+    "landscapeType": "Brahmaputra Valley and Hills",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 22000,
+    "starRating": 5,
+    "hotel": "Jorhat Tea Bungalow",
+    "startDate": 1744723905016,
+    "endDate": "2025-04-19T13:31:45.016Z",
+    "duration": 10,
+    "monthLevelSelect": "February",
+    "destination": "Assam, Dibrugarh, Jorhat, Nagaon",
+    "location": "assam",
+    "dayWiseDuration": 10,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "assam.png",
+    "badges": [],
+    "dataImages": [
+      "assam_1.png",
+      "assam_2.png"
+    ],
+    "slug": "assam-adventure-tour-10",
+    "notes": "Special notes for travelers visiting Assam: Light clothing recommended",
+    "departureCity": "New Delhi",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743946305016,
+      1747315905016
+    ]
+  }
+]

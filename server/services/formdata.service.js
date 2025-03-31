@@ -1,4 +1,4 @@
-import { Formdata } from "../models";
+import { Formdata } from "../models/index.js";
 
 export class FormdataService {
   static async create(data) {

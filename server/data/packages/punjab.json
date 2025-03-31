@@ -1,0 +1,546 @@
+[
+  {
+    "id": "PUN001",
+    "name": "Punjab Scenic Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Punjab with our specially designed tour package.",
+    "adult": 3,
+    "child": 2,
+    "dateAdded": 1743427905035,
+    "relateKey": "Punjab",
+    "keywords": "Punjab, Amritsar, Golden Temple, Sikhs, Agricultural, Bhangra",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Punjab",
+      "Chandigarh",
+      "Ludhiana"
+    ],
+    "tourType": "Group",
+    "activityType": "Border Ceremonies",
+    "landscapeType": "Plains",
+    "tags": [
+      "Adventure",
+      "Guided Tour"
+    ],
+    "webPackPrice": 25000,
+    "starRating": 3,
+    "hotel": "JW Marriott Chandigarh",
+    "startDate": 1744032705035,
+    "endDate": "2025-04-10T13:31:45.035Z",
+    "duration": 5,
+    "monthLevelSelect": "June",
+    "destination": "Punjab, Chandigarh, Ludhiana, Amritsar",
+    "location": "punjab",
+    "dayWiseDuration": 5,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "punjab.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "punjab_1.png",
+      "punjab_2.png"
+    ],
+    "slug": "punjab-scenic-tour-1",
+    "notes": "Special notes for travelers visiting Punjab: Carry sunscreen",
+    "departureCity": "Jalandhar",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743773505035,
+      1745847105035
+    ]
+  },
+  {
+    "id": "PUN002",
+    "name": "Punjab Explorer Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Punjab with our specially designed tour package.",
+    "adult": 2,
+    "child": 2,
+    "dateAdded": 1743427905035,
+    "relateKey": "Punjab",
+    "keywords": "Punjab, Amritsar, Golden Temple, Sikhs, Agricultural, Bhangra",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Punjab",
+      "Chandigarh",
+      "Ludhiana"
+    ],
+    "tourType": "Family",
+    "activityType": "Farm Tourism",
+    "landscapeType": "Plains",
+    "tags": [
+      "Cultural",
+      "Guided Tour"
+    ],
+    "webPackPrice": 26000,
+    "starRating": 4,
+    "hotel": "Welcom Hotel Amritsar",
+    "startDate": 1743946305035,
+    "endDate": "2025-04-08T13:31:45.035Z",
+    "duration": 10,
+    "monthLevelSelect": "June",
+    "destination": "Punjab, Chandigarh, Ludhiana, Amritsar",
+    "location": "punjab",
+    "dayWiseDuration": 10,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "punjab.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "punjab_1.png",
+      "punjab_2.png"
+    ],
+    "slug": "punjab-explorer-tour-2",
+    "notes": "Special notes for travelers visiting Punjab: Light clothing recommended",
+    "departureCity": "Ludhiana",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745760705035,
+      1748525505035
+    ]
+  },
+  {
+    "id": "PUN003",
+    "name": "Punjab Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Punjab with our specially designed tour package.",
+    "adult": 3,
+    "child": 0,
+    "dateAdded": 1743427905035,
+    "relateKey": "Punjab",
+    "keywords": "Punjab, Amritsar, Golden Temple, Sikhs, Agricultural, Bhangra",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Punjab",
+      "Patiala",
+      "Jalandhar"
+    ],
+    "tourType": "Group",
+    "activityType": "Border Ceremonies",
+    "landscapeType": "Plains",
+    "tags": [
+      "Cultural",
+      "Guided Tour"
+    ],
+    "webPackPrice": 12000,
+    "starRating": 3,
+    "hotel": "Hyatt Regency Ludhiana",
+    "startDate": 1745069505035,
+    "endDate": "2025-04-26T13:31:45.035Z",
+    "duration": 5,
+    "monthLevelSelect": "February",
+    "destination": "Punjab, Patiala, Jalandhar, Chandigarh",
+    "location": "punjab",
+    "dayWiseDuration": 5,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "punjab.png",
+    "badges": [],
+    "dataImages": [
+      "punjab_1.png",
+      "punjab_2.png"
+    ],
+    "slug": "punjab-discovery-tour-3",
+    "notes": "Special notes for travelers visiting Punjab: Light clothing recommended",
+    "departureCity": "Kolkata",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743773505035,
+      1744205505035
+    ]
+  },
+  {
+    "id": "PUN004",
+    "name": "Punjab Adventure Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Punjab with our specially designed tour package.",
+    "adult": 2,
+    "child": 2,
+    "dateAdded": 1743427905035,
+    "relateKey": "Punjab",
+    "keywords": "Punjab, Amritsar, Golden Temple, Sikhs, Agricultural, Bhangra",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Punjab",
+      "Patiala",
+      "Chandigarh"
+    ],
+    "tourType": "Group",
+    "activityType": "Historical Sites",
+    "landscapeType": "Plains",
+    "tags": [
+      "Religious",
+      "Guided Tour"
+    ],
+    "webPackPrice": 47000,
+    "starRating": 5,
+    "hotel": "Hyatt Regency Ludhiana",
+    "startDate": 1743514305035,
+    "endDate": "2025-04-08T13:31:45.035Z",
+    "duration": 3,
+    "monthLevelSelect": "March",
+    "destination": "Punjab, Patiala, Chandigarh, Amritsar",
+    "location": "punjab",
+    "dayWiseDuration": 3,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "punjab.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "punjab_1.png",
+      "punjab_2.png"
+    ],
+    "slug": "punjab-adventure-tour-4",
+    "notes": "Special notes for travelers visiting Punjab: Rain protection advised",
+    "departureCity": "Patiala",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745415105035,
+      1745760705035
+    ]
+  },
+  {
+    "id": "PUN005",
+    "name": "Punjab Scenic Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Punjab with our specially designed tour package.",
+    "adult": 3,
+    "child": 1,
+    "dateAdded": 1743427905035,
+    "relateKey": "Punjab",
+    "keywords": "Punjab, Amritsar, Golden Temple, Sikhs, Agricultural, Bhangra",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Punjab",
+      "Chandigarh",
+      "Bathinda"
+    ],
+    "tourType": "Group",
+    "activityType": "Farm Tourism",
+    "landscapeType": "Plains",
+    "tags": [
+      "Adventure",
+      "Guided Tour"
+    ],
+    "webPackPrice": 44000,
+    "starRating": 3,
+    "hotel": "JW Marriott Chandigarh",
+    "startDate": 1744378305035,
+    "endDate": "2025-04-15T13:31:45.035Z",
+    "duration": 3,
+    "monthLevelSelect": "March",
+    "destination": "Punjab, Chandigarh, Bathinda, Ludhiana",
+    "location": "punjab",
+    "dayWiseDuration": 3,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "punjab.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "punjab_1.png",
+      "punjab_2.png"
+    ],
+    "slug": "punjab-scenic-tour-5",
+    "notes": "Special notes for travelers visiting Punjab: Light clothing recommended",
+    "departureCity": "Ludhiana",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743687105035,
+      1746106305035
+    ]
+  },
+  {
+    "id": "PUN006",
+    "name": "Punjab Cultural Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Punjab with our specially designed tour package.",
+    "adult": 2,
+    "child": 2,
+    "dateAdded": 1743427905035,
+    "relateKey": "Punjab",
+    "keywords": "Punjab, Amritsar, Golden Temple, Sikhs, Agricultural, Bhangra",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Punjab",
+      "Ludhiana",
+      "Bathinda"
+    ],
+    "tourType": "Couple",
+    "activityType": "Food Tours",
+    "landscapeType": "Plains",
+    "tags": [
+      "Religious",
+      "Guided Tour"
+    ],
+    "webPackPrice": 16000,
+    "starRating": 3,
+    "hotel": "Welcom Hotel Amritsar",
+    "startDate": 1743687105035,
+    "endDate": "2025-04-09T13:31:45.035Z",
+    "duration": 10,
+    "monthLevelSelect": "February",
+    "destination": "Punjab, Ludhiana, Bathinda, Patiala",
+    "location": "punjab",
+    "dayWiseDuration": 10,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "punjab.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "punjab_1.png",
+      "punjab_2.png"
+    ],
+    "slug": "punjab-cultural-tour-6",
+    "notes": "Special notes for travelers visiting Punjab: Carry sunscreen",
+    "departureCity": "Bangalore",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744983105035,
+      1747661505035
+    ]
+  },
+  {
+    "id": "PUN007",
+    "name": "Punjab Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Punjab with our specially designed tour package.",
+    "adult": 2,
+    "child": 2,
+    "dateAdded": 1743427905035,
+    "relateKey": "Punjab",
+    "keywords": "Punjab, Amritsar, Golden Temple, Sikhs, Agricultural, Bhangra",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Punjab",
+      "Amritsar",
+      "Ludhiana"
+    ],
+    "tourType": "Group",
+    "activityType": "Food Tours",
+    "landscapeType": "Plains",
+    "tags": [
+      "Luxury",
+      "Guided Tour"
+    ],
+    "webPackPrice": 30000,
+    "starRating": 4,
+    "hotel": "Radisson Blu Amritsar",
+    "startDate": 1744205505035,
+    "endDate": "2025-04-12T13:31:45.035Z",
+    "duration": 2,
+    "monthLevelSelect": "July",
+    "destination": "Punjab, Amritsar, Ludhiana, Chandigarh",
+    "location": "punjab",
+    "dayWiseDuration": 2,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "punjab.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "punjab_1.png",
+      "punjab_2.png"
+    ],
+    "slug": "punjab-discovery-tour-7",
+    "notes": "Special notes for travelers visiting Punjab: Carry sunscreen",
+    "departureCity": "Jalandhar",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744983105035,
+      1746797505035
+    ]
+  },
+  {
+    "id": "PUN008",
+    "name": "Punjab Explorer Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Punjab with our specially designed tour package.",
+    "adult": 3,
+    "child": 1,
+    "dateAdded": 1743427905035,
+    "relateKey": "Punjab",
+    "keywords": "Punjab, Amritsar, Golden Temple, Sikhs, Agricultural, Bhangra",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Punjab",
+      "Amritsar",
+      "Jalandhar"
+    ],
+    "tourType": "Family",
+    "activityType": "Historical Sites",
+    "landscapeType": "Plains",
+    "tags": [
+      "Cultural",
+      "Guided Tour"
+    ],
+    "webPackPrice": 24000,
+    "starRating": 4,
+    "hotel": "Taj Swarna Amritsar",
+    "startDate": 1745242305035,
+    "endDate": "2025-04-25T13:31:45.035Z",
+    "duration": 8,
+    "monthLevelSelect": "April",
+    "destination": "Punjab, Amritsar, Jalandhar, Patiala",
+    "location": "punjab",
+    "dayWiseDuration": 8,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "punjab.png",
+    "badges": [],
+    "dataImages": [
+      "punjab_1.png",
+      "punjab_2.png"
+    ],
+    "slug": "punjab-explorer-tour-8",
+    "notes": "Special notes for travelers visiting Punjab: Winter wear essential",
+    "departureCity": "Amritsar",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744119105035,
+      1748007105035
+    ]
+  },
+  {
+    "id": "PUN009",
+    "name": "Punjab Explorer Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Punjab with our specially designed tour package.",
+    "adult": 4,
+    "child": 1,
+    "dateAdded": 1743427905035,
+    "relateKey": "Punjab",
+    "keywords": "Punjab, Amritsar, Golden Temple, Sikhs, Agricultural, Bhangra",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Punjab",
+      "Ludhiana",
+      "Bathinda"
+    ],
+    "tourType": "Couple",
+    "activityType": "Food Tours",
+    "landscapeType": "Plains",
+    "tags": [
+      "Budget",
+      "Guided Tour"
+    ],
+    "webPackPrice": 42000,
+    "starRating": 5,
+    "hotel": "Radisson Blu Amritsar",
+    "startDate": 1745242305035,
+    "endDate": "2025-04-25T13:31:45.035Z",
+    "duration": 5,
+    "monthLevelSelect": "August",
+    "destination": "Punjab, Ludhiana, Bathinda, Patiala",
+    "location": "punjab",
+    "dayWiseDuration": 5,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "punjab.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "punjab_1.png",
+      "punjab_2.png"
+    ],
+    "slug": "punjab-explorer-tour-9",
+    "notes": "Special notes for travelers visiting Punjab: Light clothing recommended",
+    "departureCity": "Bangalore",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745155905035,
+      1745415105035
+    ]
+  },
+  {
+    "id": "PUN010",
+    "name": "Punjab Scenic Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Punjab with our specially designed tour package.",
+    "adult": 3,
+    "child": 0,
+    "dateAdded": 1743427905035,
+    "relateKey": "Punjab",
+    "keywords": "Punjab, Amritsar, Golden Temple, Sikhs, Agricultural, Bhangra",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Punjab",
+      "Ludhiana",
+      "Bathinda"
+    ],
+    "tourType": "Family",
+    "activityType": "Border Ceremonies",
+    "landscapeType": "Plains",
+    "tags": [
+      "Religious",
+      "Guided Tour"
+    ],
+    "webPackPrice": 47000,
+    "starRating": 4,
+    "hotel": "JW Marriott Chandigarh",
+    "startDate": 1744551105035,
+    "endDate": "2025-04-15T13:31:45.035Z",
+    "duration": 4,
+    "monthLevelSelect": "May",
+    "destination": "Punjab, Ludhiana, Bathinda, Patiala",
+    "location": "punjab",
+    "dayWiseDuration": 4,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "punjab.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "punjab_1.png",
+      "punjab_2.png"
+    ],
+    "slug": "punjab-scenic-tour-10",
+    "notes": "Special notes for travelers visiting Punjab: Carry sunscreen",
+    "departureCity": "Bangalore",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744723905035,
+      1743946305035
+    ]
+  }
+]

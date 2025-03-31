@@ -1,0 +1,539 @@
+[
+  {
+    "id": "MIZ001",
+    "name": "Mizoram Heritage Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Mizoram with our specially designed tour package.",
+    "adult": 4,
+    "child": 0,
+    "dateAdded": 1743427905032,
+    "relateKey": "Mizoram",
+    "keywords": "Mizoram, Aizawl, Northeast, Tribal, Mountains, Blue Mountain",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Mizoram",
+      "Lawngtlai",
+      "Aizawl"
+    ],
+    "tourType": "Group",
+    "activityType": "Bamboo Crafts",
+    "landscapeType": "Mountainous",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 49000,
+    "starRating": 5,
+    "hotel": "Riah International",
+    "startDate": 1744896705032,
+    "endDate": "2025-04-19T13:31:45.032Z",
+    "duration": 6,
+    "monthLevelSelect": "November",
+    "destination": "Mizoram, Lawngtlai, Aizawl, Lunglei",
+    "location": "mizoram",
+    "dayWiseDuration": 6,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "mizoram.png",
+    "badges": [],
+    "dataImages": [
+      "mizoram_1.png",
+      "mizoram_2.png"
+    ],
+    "slug": "mizoram-heritage-tour-1",
+    "notes": "Special notes for travelers visiting Mizoram: Light clothing recommended",
+    "departureCity": "Lawngtlai",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745501505032,
+      1745415105032
+    ]
+  },
+  {
+    "id": "MIZ002",
+    "name": "Mizoram Heritage Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Mizoram with our specially designed tour package.",
+    "adult": 4,
+    "child": 1,
+    "dateAdded": 1743427905032,
+    "relateKey": "Mizoram",
+    "keywords": "Mizoram, Aizawl, Northeast, Tribal, Mountains, Blue Mountain",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Mizoram",
+      "Aizawl",
+      "Lunglei"
+    ],
+    "tourType": "Group",
+    "activityType": "Wildlife Exploration",
+    "landscapeType": "Mountainous",
+    "tags": [
+      "Religious",
+      "Guided Tour"
+    ],
+    "webPackPrice": 35000,
+    "starRating": 3,
+    "hotel": "Hotel Chief",
+    "startDate": 1745328705032,
+    "endDate": "2025-04-26T13:31:45.032Z",
+    "duration": 6,
+    "monthLevelSelect": "September",
+    "destination": "Mizoram, Aizawl, Lunglei, Serchhip",
+    "location": "mizoram",
+    "dayWiseDuration": 6,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "mizoram.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "mizoram_1.png",
+      "mizoram_2.png"
+    ],
+    "slug": "mizoram-heritage-tour-2",
+    "notes": "Special notes for travelers visiting Mizoram: Light clothing recommended",
+    "departureCity": "Mumbai",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1745415105032,
+      1747747905032
+    ]
+  },
+  {
+    "id": "MIZ003",
+    "name": "Mizoram Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Mizoram with our specially designed tour package.",
+    "adult": 2,
+    "child": 0,
+    "dateAdded": 1743427905032,
+    "relateKey": "Mizoram",
+    "keywords": "Mizoram, Aizawl, Northeast, Tribal, Mountains, Blue Mountain",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Mizoram",
+      "Lunglei",
+      "Serchhip"
+    ],
+    "tourType": "Couple",
+    "activityType": "Cultural Tours",
+    "landscapeType": "Mountainous",
+    "tags": [
+      "Cultural",
+      "Guided Tour"
+    ],
+    "webPackPrice": 42000,
+    "starRating": 5,
+    "hotel": "Aizawl Club",
+    "startDate": 1745674305032,
+    "endDate": "2025-04-30T13:31:45.032Z",
+    "duration": 2,
+    "monthLevelSelect": "July",
+    "destination": "Mizoram, Lunglei, Serchhip, Lawngtlai",
+    "location": "mizoram",
+    "dayWiseDuration": 2,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "mizoram.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "mizoram_1.png",
+      "mizoram_2.png"
+    ],
+    "slug": "mizoram-discovery-tour-3",
+    "notes": "Special notes for travelers visiting Mizoram: Rain protection advised",
+    "departureCity": "Bangalore",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744983105032,
+      1747661505032
+    ]
+  },
+  {
+    "id": "MIZ004",
+    "name": "Mizoram Adventure Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Mizoram with our specially designed tour package.",
+    "adult": 1,
+    "child": 1,
+    "dateAdded": 1743427905032,
+    "relateKey": "Mizoram",
+    "keywords": "Mizoram, Aizawl, Northeast, Tribal, Mountains, Blue Mountain",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Mizoram",
+      "Lunglei",
+      "Kolasib"
+    ],
+    "tourType": "Single",
+    "activityType": "Cultural Tours",
+    "landscapeType": "Mountainous",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 40000,
+    "starRating": 3,
+    "hotel": "Aizawl Club",
+    "startDate": 1744723905032,
+    "endDate": "2025-04-18T13:31:45.032Z",
+    "duration": 7,
+    "monthLevelSelect": "July",
+    "destination": "Mizoram, Lunglei, Kolasib, Champhai",
+    "location": "mizoram",
+    "dayWiseDuration": 7,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "mizoram.png",
+    "badges": [],
+    "dataImages": [
+      "mizoram_1.png",
+      "mizoram_2.png"
+    ],
+    "slug": "mizoram-adventure-tour-4",
+    "notes": "Special notes for travelers visiting Mizoram: Rain protection advised",
+    "departureCity": "Champhai",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744551105032,
+      1743946305032
+    ]
+  },
+  {
+    "id": "MIZ005",
+    "name": "Mizoram Explorer Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Mizoram with our specially designed tour package.",
+    "adult": 2,
+    "child": 2,
+    "dateAdded": 1743427905032,
+    "relateKey": "Mizoram",
+    "keywords": "Mizoram, Aizawl, Northeast, Tribal, Mountains, Blue Mountain",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Mizoram",
+      "Lawngtlai",
+      "Champhai"
+    ],
+    "tourType": "Couple",
+    "activityType": "Wildlife Exploration",
+    "landscapeType": "Mountainous",
+    "tags": [
+      "Wildlife",
+      "Guided Tour"
+    ],
+    "webPackPrice": 40000,
+    "starRating": 5,
+    "hotel": "Riah International",
+    "startDate": 1745933505032,
+    "endDate": "2025-05-01T13:31:45.032Z",
+    "duration": 4,
+    "monthLevelSelect": "March",
+    "destination": "Mizoram, Lawngtlai, Champhai, Kolasib",
+    "location": "mizoram",
+    "dayWiseDuration": 4,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "mizoram.png",
+    "badges": [
+      "Best Seller"
+    ],
+    "dataImages": [
+      "mizoram_1.png",
+      "mizoram_2.png"
+    ],
+    "slug": "mizoram-explorer-tour-5",
+    "notes": "Special notes for travelers visiting Mizoram: Rain protection advised",
+    "departureCity": "Champhai",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743600705032,
+      1746797505032
+    ]
+  },
+  {
+    "id": "MIZ006",
+    "name": "Mizoram Scenic Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Mizoram with our specially designed tour package.",
+    "adult": 2,
+    "child": 1,
+    "dateAdded": 1743427905032,
+    "relateKey": "Mizoram",
+    "keywords": "Mizoram, Aizawl, Northeast, Tribal, Mountains, Blue Mountain",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Mizoram",
+      "Serchhip",
+      "Champhai"
+    ],
+    "tourType": "Single",
+    "activityType": "Hiking",
+    "landscapeType": "Mountainous",
+    "tags": [
+      "Religious",
+      "Guided Tour"
+    ],
+    "webPackPrice": 22000,
+    "starRating": 4,
+    "hotel": "Tourist Lodge Aizawl",
+    "startDate": 1744205505032,
+    "endDate": "2025-04-12T13:31:45.032Z",
+    "duration": 8,
+    "monthLevelSelect": "September",
+    "destination": "Mizoram, Serchhip, Champhai, Aizawl",
+    "location": "mizoram",
+    "dayWiseDuration": 8,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "mizoram.png",
+    "badges": [],
+    "dataImages": [
+      "mizoram_1.png",
+      "mizoram_2.png"
+    ],
+    "slug": "mizoram-scenic-tour-6",
+    "notes": "Special notes for travelers visiting Mizoram: Carry sunscreen",
+    "departureCity": "Kolasib",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744119105032,
+      1746797505032
+    ]
+  },
+  {
+    "id": "MIZ007",
+    "name": "Mizoram Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Mizoram with our specially designed tour package.",
+    "adult": 2,
+    "child": 1,
+    "dateAdded": 1743427905032,
+    "relateKey": "Mizoram",
+    "keywords": "Mizoram, Aizawl, Northeast, Tribal, Mountains, Blue Mountain",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Mizoram",
+      "Kolasib",
+      "Serchhip"
+    ],
+    "tourType": "Family",
+    "activityType": "Hiking",
+    "landscapeType": "Mountainous",
+    "tags": [
+      "Religious",
+      "Guided Tour"
+    ],
+    "webPackPrice": 10000,
+    "starRating": 5,
+    "hotel": "Aizawl Club",
+    "startDate": 1744464705032,
+    "endDate": "2025-04-16T13:31:45.032Z",
+    "duration": 3,
+    "monthLevelSelect": "June",
+    "destination": "Mizoram, Kolasib, Serchhip, Lawngtlai",
+    "location": "mizoram",
+    "dayWiseDuration": 3,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "luxuryPackage": "Standard",
+    "coverImage": "mizoram.png",
+    "badges": [],
+    "dataImages": [
+      "mizoram_1.png",
+      "mizoram_2.png"
+    ],
+    "slug": "mizoram-discovery-tour-7",
+    "notes": "Special notes for travelers visiting Mizoram: Light clothing recommended",
+    "departureCity": "Bangalore",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744378305032,
+      1743946305032
+    ]
+  },
+  {
+    "id": "MIZ008",
+    "name": "Mizoram Discovery Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Mizoram with our specially designed tour package.",
+    "adult": 1,
+    "child": 0,
+    "dateAdded": 1743427905032,
+    "relateKey": "Mizoram",
+    "keywords": "Mizoram, Aizawl, Northeast, Tribal, Mountains, Blue Mountain",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Mizoram",
+      "Aizawl",
+      "Lawngtlai"
+    ],
+    "tourType": "Couple",
+    "activityType": "Village Visits",
+    "landscapeType": "Mountainous",
+    "tags": [
+      "Religious",
+      "Guided Tour"
+    ],
+    "webPackPrice": 13000,
+    "starRating": 5,
+    "hotel": "Aizawl Club",
+    "startDate": 1745415105032,
+    "endDate": "2025-04-30T13:31:45.032Z",
+    "duration": 4,
+    "monthLevelSelect": "September",
+    "destination": "Mizoram, Aizawl, Lawngtlai, Champhai",
+    "location": "mizoram",
+    "dayWiseDuration": 4,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Luxury",
+    "coverImage": "mizoram.png",
+    "badges": [],
+    "dataImages": [
+      "mizoram_1.png",
+      "mizoram_2.png"
+    ],
+    "slug": "mizoram-discovery-tour-8",
+    "notes": "Special notes for travelers visiting Mizoram: Rain protection advised",
+    "departureCity": "Kolasib",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744723905032,
+      1746279105032
+    ]
+  },
+  {
+    "id": "MIZ009",
+    "name": "Mizoram Cultural Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Mizoram with our specially designed tour package.",
+    "adult": 4,
+    "child": 2,
+    "dateAdded": 1743427905032,
+    "relateKey": "Mizoram",
+    "keywords": "Mizoram, Aizawl, Northeast, Tribal, Mountains, Blue Mountain",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Mizoram",
+      "Aizawl",
+      "Serchhip"
+    ],
+    "tourType": "Single",
+    "activityType": "Cultural Tours",
+    "landscapeType": "Mountainous",
+    "tags": [
+      "Adventure",
+      "Guided Tour"
+    ],
+    "webPackPrice": 23000,
+    "starRating": 5,
+    "hotel": "Hotel Chief",
+    "startDate": 1745501505032,
+    "endDate": "2025-04-25T13:31:45.032Z",
+    "duration": 6,
+    "monthLevelSelect": "January",
+    "destination": "Mizoram, Aizawl, Serchhip, Lawngtlai",
+    "location": "mizoram",
+    "dayWiseDuration": 6,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast",
+      "Dinner"
+    ],
+    "luxuryPackage": "Premium",
+    "coverImage": "mizoram.png",
+    "badges": [],
+    "dataImages": [
+      "mizoram_1.png",
+      "mizoram_2.png"
+    ],
+    "slug": "mizoram-cultural-tour-9",
+    "notes": "Special notes for travelers visiting Mizoram: Winter wear essential",
+    "departureCity": "Bangalore",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1744983105032,
+      1748266305032
+    ]
+  },
+  {
+    "id": "MIZ010",
+    "name": "Mizoram Cultural Tour",
+    "description": "Explore the beautiful landscapes and rich cultural heritage of Mizoram with our specially designed tour package.",
+    "adult": 1,
+    "child": 2,
+    "dateAdded": 1743427905032,
+    "relateKey": "Mizoram",
+    "keywords": "Mizoram, Aizawl, Northeast, Tribal, Mountains, Blue Mountain",
+    "destinationType": "India",
+    "destinationSearch": [
+      "Mizoram",
+      "Aizawl",
+      "Serchhip"
+    ],
+    "tourType": "Group",
+    "activityType": "Bamboo Crafts",
+    "landscapeType": "Mountainous",
+    "tags": [
+      "Adventure",
+      "Guided Tour"
+    ],
+    "webPackPrice": 11000,
+    "starRating": 5,
+    "hotel": "Aizawl Club",
+    "startDate": 1743773505032,
+    "endDate": "2025-04-05T13:31:45.032Z",
+    "duration": 3,
+    "monthLevelSelect": "February",
+    "destination": "Mizoram, Aizawl, Serchhip, Lawngtlai",
+    "location": "mizoram",
+    "dayWiseDuration": 3,
+    "hotelFacility": [
+      "Wifi",
+      "Breakfast"
+    ],
+    "luxuryPackage": "Ultra Luxury",
+    "coverImage": "mizoram.png",
+    "badges": [
+      "Top Rated"
+    ],
+    "dataImages": [
+      "mizoram_1.png",
+      "mizoram_2.png"
+    ],
+    "slug": "mizoram-cultural-tour-10",
+    "notes": "Special notes for travelers visiting Mizoram: Carry sunscreen",
+    "departureCity": "New Delhi",
+    "onArrivalVisa": "Required",
+    "groupDates": [
+      1743427905032,
+      1745242305032
+    ]
+  }
+]

@@ -8,38 +8,40 @@ const destinationSchema = new mongoose.Schema(
       required: true,
       unique: true,
     },
-    type: {
-      type: String,
-      required: true,
-    },
     title: {
       type: String,
       required: true,
     },
-    metatitle: String,
-    idealTime: {
+    image: {
       type: String,
-      default: null,
     },
-    idealDuration: {
-      type: String,
-      default: null,
+
+    shortInfo: {
+      metatitle: {
+        type: String,
+      },
+      idealTime: {
+        type: String,
+      },
+      idealDuration: {
+        type: String,
+      },
+      topAttraction: {
+        type: String,
+      },
+      averagePrice: {
+        type: String, // Let's make this string for now.
+      },
     },
-    priceStarts: {
-      type: String,
-      default: null,
-    },
-    bestAttraction: {
-      type: String,
-      default: null,
-    },
+
+    // For knowing more about the destination package
+    keywords: [String],
     description: {
       type: String,
       required: true,
     },
-    keywords: [String],
     shortPackageDesc: String,
-    longPackageDesc: String,
+    longPackageDesc: String, // Need to know how they're storing everything here
     faqs: [
       {
         question: String,
@@ -50,13 +52,19 @@ const destinationSchema = new mongoose.Schema(
       type: Number,
       default: 1,
     },
-    insertDate: {
-      type: Date,
-      default: Date.now,
+
+    // For Seo
+    ogUrl: {
+      type: String,
     },
-    updateDate: {
-      type: Date,
-      default: Date.now,
+    ogTitle: {
+      type: String,
+    },
+    ogDescription: {
+      type: String,
+    },
+    ogImageUrl: {
+      type: String,
     },
   },
   {

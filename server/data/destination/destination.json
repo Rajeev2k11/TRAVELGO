@@ -1,0 +1,674 @@
+[
+  {
+    "id": "00D1",
+    "type": "State",
+    "title": "Andhra Pradesh",
+    "idealTime": "September",
+    "priceStarts": "230300",
+    "bestAttraction": "Amaravati Stupa, Vijayawada",
+    "description": "Explore the beautiful state of Andhra Pradesh with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Andhra Pradesh in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Andhra Pradesh. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Hyderabad, Visakhapatnam, Tirupati, Vijayawada, Rajahmundry, Kakinada to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Andhra Pradesh?",
+        "answer": "The ideal time to visit Andhra Pradesh is during November to November when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Andhra Pradesh?",
+        "answer": "Andhra Pradesh is famous for Tirupati Temple, Araku Valley, Visakhapatnam Beach, Lepakshi Temple, Amaravati Stupa and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "00D2",
+    "type": "State",
+    "title": "Arunachal Pradesh",
+    "idealTime": "October",
+    "priceStarts": "150800",
+    "bestAttraction": "Sela Pass, Ziro",
+    "description": "Explore the beautiful state of Arunachal Pradesh with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Arunachal Pradesh in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Arunachal Pradesh. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Itanagar, Tawang, Ziro, Bomdila, Pasighat, Tezu to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Arunachal Pradesh?",
+        "answer": "The ideal time to visit Arunachal Pradesh is during July to April when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Arunachal Pradesh?",
+        "answer": "Arunachal Pradesh is famous for Tawang Monastery, Ziro Valley, Namdapha National Park, Sela Pass, Talley Valley and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "00D3",
+    "type": "State",
+    "title": "Assam",
+    "idealTime": "October",
+    "priceStarts": "426500",
+    "bestAttraction": "Kamakhya Temple, Tezpur",
+    "description": "Explore the beautiful state of Assam with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Assam in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Assam. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Guwahati, Jorhat, Dibrugarh, Tezpur, Silchar, Nagaon to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Assam?",
+        "answer": "The ideal time to visit Assam is during October to August when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Assam?",
+        "answer": "Assam is famous for Kaziranga National Park, Kamakhya Temple, Majuli Island, Manas National Park, Dibru-Saikhowa and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "00D4",
+    "type": "State",
+    "title": "Bihar",
+    "idealTime": "February",
+    "priceStarts": "220600",
+    "bestAttraction": "Golghar, Bodh Gaya",
+    "description": "Explore the beautiful state of Bihar with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Bihar in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Bihar. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Patna, Gaya, Bodh Gaya, Rajgir, Nalanda, Muzaffarpur to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Bihar?",
+        "answer": "The ideal time to visit Bihar is during December to January when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Bihar?",
+        "answer": "Bihar is famous for Mahabodhi Temple, Nalanda Ruins, Golghar, Patna Museum, Bodhi Tree and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "00D5",
+    "type": "State",
+    "title": "Chhattisgarh",
+    "idealTime": "June",
+    "priceStarts": "179700",
+    "bestAttraction": "Barnawapara Wildlife Sanctuary, Bhilai",
+    "description": "Explore the beautiful state of Chhattisgarh with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Chhattisgarh in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Chhattisgarh. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Raipur, Bilaspur, Jagdalpur, Bhilai, Korba, Durg to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Chhattisgarh?",
+        "answer": "The ideal time to visit Chhattisgarh is during December to January when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Chhattisgarh?",
+        "answer": "Chhattisgarh is famous for Chitrakote Falls, Barnawapara Wildlife Sanctuary, Bastar Tribal Art, Tirathgarh Falls, Kanger Valley and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "00D6",
+    "type": "State",
+    "title": "Goa",
+    "idealTime": "September",
+    "priceStarts": "366200",
+    "bestAttraction": "Dudhsagar Falls, Vasco da Gama",
+    "description": "Explore the beautiful state of Goa with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Goa in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Goa. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Panaji, Margao, Vasco da Gama, Mapusa, Calangute, Candolim to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Goa?",
+        "answer": "The ideal time to visit Goa is during July to November when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Goa?",
+        "answer": "Goa is famous for Calangute Beach, Fort Aguada, Basilica of Bom Jesus, Dudhsagar Falls, Anjuna Flea Market and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "00D7",
+    "type": "State",
+    "title": "Gujarat",
+    "idealTime": "April",
+    "priceStarts": "271300",
+    "bestAttraction": "Gir National Park, Gandhinagar",
+    "description": "Explore the beautiful state of Gujarat with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Gujarat in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Gujarat. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Ahmedabad, Vadodara, Surat, Rajkot, Gandhinagar, Bhuj to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Gujarat?",
+        "answer": "The ideal time to visit Gujarat is during May to December when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Gujarat?",
+        "answer": "Gujarat is famous for Rann of Kutch, Gir National Park, Sabarmati Ashram, Somnath Temple, Statue of Unity and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "00D8",
+    "type": "State",
+    "title": "Haryana",
+    "idealTime": "May",
+    "priceStarts": "107200",
+    "bestAttraction": "Kingdom of Dreams, Hisar",
+    "description": "Explore the beautiful state of Haryana with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Haryana in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Haryana. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Gurugram, Faridabad, Hisar, Panipat, Ambala, Karnal to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Haryana?",
+        "answer": "The ideal time to visit Haryana is during November to May when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Haryana?",
+        "answer": "Haryana is famous for Kingdom of Dreams, Surajkund Lake, Sultanpur Bird Sanctuary, Kurukshetra, Pinjore Gardens and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "00D9",
+    "type": "State",
+    "title": "Himachal Pradesh",
+    "idealTime": "March",
+    "priceStarts": "361500",
+    "bestAttraction": "Shimla, McLeod Ganj",
+    "description": "Explore the beautiful state of Himachal Pradesh with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Himachal Pradesh in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Himachal Pradesh. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Shimla, Manali, Dharamshala, Kullu, McLeod Ganj, Solan to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Himachal Pradesh?",
+        "answer": "The ideal time to visit Himachal Pradesh is during May to August when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Himachal Pradesh?",
+        "answer": "Himachal Pradesh is famous for Shimla, Manali, Dharamshala, Dalhousie, Spiti Valley and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "0D10",
+    "type": "State",
+    "title": "Jharkhand",
+    "idealTime": "October",
+    "priceStarts": "499300",
+    "bestAttraction": "Jamshedpur, Dhanbad",
+    "description": "Explore the beautiful state of Jharkhand with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Jharkhand in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Jharkhand. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Ranchi, Jamshedpur, Dhanbad, Bokaro, Hazaribagh, Deoghar to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Jharkhand?",
+        "answer": "The ideal time to visit Jharkhand is during September to June when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Jharkhand?",
+        "answer": "Jharkhand is famous for Netarhat, Betla National Park, Hundru Falls, Jamshedpur, Dassam Falls and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "0D11",
+    "type": "State",
+    "title": "Karnataka",
+    "idealTime": "January",
+    "priceStarts": "474300",
+    "bestAttraction": "Gokarna Beach, Mangalore",
+    "description": "Explore the beautiful state of Karnataka with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Karnataka in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Karnataka. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Bangalore, Mysore, Hampi, Mangalore, Coorg, Belgaum to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Karnataka?",
+        "answer": "The ideal time to visit Karnataka is during July to June when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Karnataka?",
+        "answer": "Karnataka is famous for Mysore Palace, Hampi Ruins, Coorg Hills, Jog Falls, Gokarna Beach and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "0D12",
+    "type": "State",
+    "title": "Kerala",
+    "idealTime": "October",
+    "priceStarts": "341700",
+    "bestAttraction": "Munnar Tea Gardens, Kochi",
+    "description": "Explore the beautiful state of Kerala with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Kerala in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Kerala. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Kochi, Thiruvananthapuram, Kozhikode, Alleppey, Munnar, Thrissur to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Kerala?",
+        "answer": "The ideal time to visit Kerala is during February to March when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Kerala?",
+        "answer": "Kerala is famous for Alleppey Backwaters, Munnar Tea Gardens, Kovalam Beach, Thekkady Wildlife, Fort Kochi and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "0D13",
+    "type": "State",
+    "title": "Madhya Pradesh",
+    "idealTime": "March",
+    "priceStarts": "134100",
+    "bestAttraction": "Bandhavgarh National Park, Ujjain",
+    "description": "Explore the beautiful state of Madhya Pradesh with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Madhya Pradesh in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Madhya Pradesh. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Bhopal, Indore, Jabalpur, Gwalior, Ujjain, Khajuraho to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Madhya Pradesh?",
+        "answer": "The ideal time to visit Madhya Pradesh is during February to April when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Madhya Pradesh?",
+        "answer": "Madhya Pradesh is famous for Khajuraho Temples, Bandhavgarh National Park, Sanchi Stupa, Orchha Fort, Ujjain Temples and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "0D14",
+    "type": "State",
+    "title": "Maharashtra",
+    "idealTime": "October",
+    "priceStarts": "112400",
+    "bestAttraction": "Ajanta and Ellora Caves, Pune",
+    "description": "Explore the beautiful state of Maharashtra with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Maharashtra in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Maharashtra. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Mumbai, Pune, Nagpur, Aurangabad, Nashik, Lonavala to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Maharashtra?",
+        "answer": "The ideal time to visit Maharashtra is during May to April when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Maharashtra?",
+        "answer": "Maharashtra is famous for Gateway of India, Ajanta and Ellora Caves, Lonavala Hills, Mahabaleshwar, Shirdi and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "0D15",
+    "type": "State",
+    "title": "Manipur",
+    "idealTime": "December",
+    "priceStarts": "293300",
+    "bestAttraction": "Imphal War Cemetery, Ukhrul",
+    "description": "Explore the beautiful state of Manipur with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Manipur in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Manipur. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Imphal, Thoubal, Bishnupur, Ukhrul, Churachandpur, Senapati to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Manipur?",
+        "answer": "The ideal time to visit Manipur is during August to April when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Manipur?",
+        "answer": "Manipur is famous for Loktak Lake, Kangla Fort, Keibul Lamjao National Park, INA Memorial, Imphal War Cemetery and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "0D16",
+    "type": "State",
+    "title": "Meghalaya",
+    "idealTime": "December",
+    "priceStarts": "114200",
+    "bestAttraction": "Cherrapunji, Dawki",
+    "description": "Explore the beautiful state of Meghalaya with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Meghalaya in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Meghalaya. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Shillong, Cherrapunji, Mawsynram, Jowai, Dawki, Nongpoh to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Meghalaya?",
+        "answer": "The ideal time to visit Meghalaya is during July to March when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Meghalaya?",
+        "answer": "Meghalaya is famous for Cherrapunji, Mawsynram, Living Root Bridges, Shillong Peak, Umiam Lake and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "0D17",
+    "type": "State",
+    "title": "Mizoram",
+    "idealTime": "February",
+    "priceStarts": "477900",
+    "bestAttraction": "Phawngpui Peak, Serchhip",
+    "description": "Explore the beautiful state of Mizoram with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Mizoram in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Mizoram. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Aizawl, Lunglei, Champhai, Kolasib, Serchhip, Lawngtlai to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Mizoram?",
+        "answer": "The ideal time to visit Mizoram is during January to March when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Mizoram?",
+        "answer": "Mizoram is famous for Phawngpui Peak, Vantawng Falls, Dampa Tiger Reserve, Reiek Peak, Solomon's Temple and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "0D18",
+    "type": "State",
+    "title": "Nagaland",
+    "idealTime": "October",
+    "priceStarts": "179900",
+    "bestAttraction": "Kachari Ruins, Wokha",
+    "description": "Explore the beautiful state of Nagaland with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Nagaland in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Nagaland. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Kohima, Dimapur, Mokokchung, Wokha, Zunheboto, Phek to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Nagaland?",
+        "answer": "The ideal time to visit Nagaland is during June to January when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Nagaland?",
+        "answer": "Nagaland is famous for Dzukou Valley, Kohima War Cemetery, Hornbill Festival, Mount Saramati, Kachari Ruins and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "0D19",
+    "type": "State",
+    "title": "Odisha",
+    "idealTime": "November",
+    "priceStarts": "114600",
+    "bestAttraction": "Jagannath Temple, Puri",
+    "description": "Explore the beautiful state of Odisha with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Odisha in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Odisha. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Bhubaneswar, Puri, Cuttack, Rourkela, Sambalpur, Berhampur to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Odisha?",
+        "answer": "The ideal time to visit Odisha is during November to January when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Odisha?",
+        "answer": "Odisha is famous for Jagannath Temple, Konark Sun Temple, Chilika Lake, Puri Beach, Udayagiri and Khandagiri Caves and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "0D20",
+    "type": "State",
+    "title": "Punjab",
+    "idealTime": "May",
+    "priceStarts": "341200",
+    "bestAttraction": "Wagah Border, Ludhiana",
+    "description": "Explore the beautiful state of Punjab with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Punjab in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Punjab. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Amritsar, Ludhiana, Jalandhar, Patiala, Bathinda, Chandigarh to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Punjab?",
+        "answer": "The ideal time to visit Punjab is during March to October when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Punjab?",
+        "answer": "Punjab is famous for Golden Temple, Jallianwala Bagh, Wagah Border, Kapurthala Palace, Bhakra Nangal Dam and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "0D21",
+    "type": "State",
+    "title": "Rajasthan",
+    "idealTime": "January",
+    "priceStarts": "394100",
+    "bestAttraction": "Jaisalmer Fort, Jaipur",
+    "description": "Explore the beautiful state of Rajasthan with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Rajasthan in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Rajasthan. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Jaipur, Udaipur, Jodhpur, Jaisalmer, Bikaner, Ajmer, Pushkar to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Rajasthan?",
+        "answer": "The ideal time to visit Rajasthan is during October to June when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Rajasthan?",
+        "answer": "Rajasthan is famous for Amber Fort, Hawa Mahal, Lake Palace, Mehrangarh Fort, Jaisalmer Fort, Ranthambore and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "0D22",
+    "type": "State",
+    "title": "Sikkim",
+    "idealTime": "September",
+    "priceStarts": "280200",
+    "bestAttraction": "Yumthang Valley, Gangtok",
+    "description": "Explore the beautiful state of Sikkim with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Sikkim in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Sikkim. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Gangtok, Pelling, Ravangla, Namchi, Lachung, Yuksom to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Sikkim?",
+        "answer": "The ideal time to visit Sikkim is during August to February when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Sikkim?",
+        "answer": "Sikkim is famous for Nathula Pass, Tsomgo Lake, Pelling, Gangtok, Yumthang Valley and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "0D23",
+    "type": "State",
+    "title": "Tamil Nadu",
+    "idealTime": "February",
+    "priceStarts": "390100",
+    "bestAttraction": "Thanjavur Big Temple, Kanyakumari",
+    "description": "Explore the beautiful state of Tamil Nadu with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Tamil Nadu in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Tamil Nadu. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Chennai, Coimbatore, Madurai, Tiruchirappalli, Ooty, Kanyakumari to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Tamil Nadu?",
+        "answer": "The ideal time to visit Tamil Nadu is during April to July when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Tamil Nadu?",
+        "answer": "Tamil Nadu is famous for Meenakshi Temple, Marina Beach, Ooty, Thanjavur Big Temple, Mahabalipuram and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "0D24",
+    "type": "State",
+    "title": "Telangana",
+    "idealTime": "January",
+    "priceStarts": "473700",
+    "bestAttraction": "Hussain Sagar, Karimnagar",
+    "description": "Explore the beautiful state of Telangana with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Telangana in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Telangana. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Hyderabad, Warangal, Karimnagar, Nizamabad, Khammam, Secunderabad to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Telangana?",
+        "answer": "The ideal time to visit Telangana is during August to March when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Telangana?",
+        "answer": "Telangana is famous for Charminar, Golconda Fort, Ramoji Film City, Hussain Sagar, Warangal Fort and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "0D25",
+    "type": "State",
+    "title": "Tripura",
+    "idealTime": "April",
+    "priceStarts": "338600",
+    "bestAttraction": "Ujjayanta Palace, Udaipur",
+    "description": "Explore the beautiful state of Tripura with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Tripura in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Tripura. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Agartala, Udaipur, Dharmanagar, Kailashahar, Belonia, Ambassa to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Tripura?",
+        "answer": "The ideal time to visit Tripura is during January to February when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Tripura?",
+        "answer": "Tripura is famous for Ujjayanta Palace, Neermahal, Sepahijala Wildlife Sanctuary, Unakoti, Jampui Hills and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "0D26",
+    "type": "State",
+    "title": "Uttar Pradesh",
+    "idealTime": "September",
+    "priceStarts": "148400",
+    "bestAttraction": "Lucknow Imambara, Kanpur",
+    "description": "Explore the beautiful state of Uttar Pradesh with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Uttar Pradesh in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Uttar Pradesh. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Lucknow, Kanpur, Agra, Varanasi, Allahabad, Mathura to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Uttar Pradesh?",
+        "answer": "The ideal time to visit Uttar Pradesh is during August to October when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Uttar Pradesh?",
+        "answer": "Uttar Pradesh is famous for Taj Mahal, Varanasi Ghats, Fatehpur Sikri, Sarnath, Lucknow Imambara and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "0D27",
+    "type": "State",
+    "title": "Uttarakhand",
+    "idealTime": "February",
+    "priceStarts": "313800",
+    "bestAttraction": "Haridwar, Mussoorie",
+    "description": "Explore the beautiful state of Uttarakhand with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of Uttarakhand in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of Uttarakhand. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Dehradun, Haridwar, Rishikesh, Nainital, Mussoorie, Almora to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Uttarakhand?",
+        "answer": "The ideal time to visit Uttarakhand is during May to June when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in Uttarakhand?",
+        "answer": "Uttarakhand is famous for Nainital Lake, Rishikesh, Haridwar, Valley of Flowers, Jim Corbett National Park and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  },
+  {
+    "id": "0D28",
+    "type": "State",
+    "title": "West Bengal",
+    "idealTime": "November",
+    "priceStarts": "415900",
+    "bestAttraction": "Darjeeling, Darjeeling",
+    "description": "Explore the beautiful state of West Bengal with its rich culture, diverse landscapes, and historical heritage.",
+    "shortPackageDesc": "Experience the best of West Bengal in a short but memorable tour.",
+    "longPackageDesc": "Immerse yourself in the beauty and culture of West Bengal. This comprehensive package lets you discover the hidden gems and famous attractions of this magnificent Indian state, from Kolkata, Darjeeling, Siliguri, Durgapur, Asansol, Kharagpur to the natural wonders and cultural heritage sites.",
+    "faqs": [
+      {
+        "question": "What is the best time to visit West Bengal?",
+        "answer": "The ideal time to visit West Bengal is during July to January when the weather is pleasant and perfect for sightseeing."
+      },
+      {
+        "question": "What are the main attractions in West Bengal?",
+        "answer": "West Bengal is famous for Victoria Memorial, Darjeeling, Sundarbans, Howrah Bridge, Shantiniketan and many other beautiful spots."
+      }
+    ],
+    "status": 1,
+    "insertDate": 1743427905010,
+    "updateDate": 1743427905010
+  }
+]

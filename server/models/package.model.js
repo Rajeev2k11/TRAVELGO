@@ -1,15 +1,19 @@
 // Mongoose Schema
 import mongoose from "mongoose";
 
+const itenarySchema = new mongoose.Schema({
+  listItem: {
+    type: String,
+  },
+  todo: {
+    type: [String],
+  },
+});
+
 const TourPackageSchema = new mongoose.Schema(
   {
     // Primary Details
     /////////////////////////////////
-    id: {
-      type: String,
-      required: true,
-      unique: true,
-    },
     name: {
       type: String,
       required: true,
@@ -24,20 +28,6 @@ const TourPackageSchema = new mongoose.Schema(
       minlength: 50,
       maxlength: 2000,
     },
-    adult: {
-      type: Number,
-      default: 0,
-      min: 0,
-    },
-    child: {
-      type: Number,
-      default: 0,
-      min: 0,
-    },
-    dateAdded: {
-      type: Date,
-      default: Date.now,
-    },
 
     ///////////////////////////////////
     // Categorizing and Filtering
@@ -48,28 +38,45 @@ const TourPackageSchema = new mongoose.Schema(
       required: true, // This is for relate Key for searching, Example: Himachal then
     },
     keywords: {
-      type: String,
+      type: [String],
       default: "",
     },
-    destinationType: {
-      type: String,
-      enum: ["international", "domestic"],
-      default: "domestic",
-    },
     destinationSearch: {
-      type: [String],
+      type: [String], // Do state of district based destination search
       required: true,
     },
     tourType: {
       type: String,
+      enum: ["Group", "Couple", "Family", "Single"],
       default: "Group",
     },
-    activityType: {
-      type: String,
-      default: null,
+
+    tabs: {
+      itenary: [itenarySchema],
+      inclusions: [String],
+      thingsToDo: [String],
+      timeToVisit: {
+        overview: String, // A little overview
+        season: [
+          /**
+           * This would do something like this
+           *
+           * Winter
+           * nice and cold weather to do this
+           *
+           * Summer
+           * nisdkfjhdslfkkhdsjfkdsljkfjhjdsfj
+           */
+          {
+            name: String,
+            about: String,
+          },
+        ],
+      },
     },
+
     landscapeType: {
-      type: String,
+      type: String, // could be beach, mountain, cave, temple
       default: "",
     },
     tags: {
@@ -77,75 +84,17 @@ const TourPackageSchema = new mongoose.Schema(
       default: [],
     },
 
-    ////////////////////////////////
-    // Pricing & Bookings
-    ////////////////////////////////
-    webPackPrice: {
-      type: Number,
-      required: true,
-      min: 0,
-    },
-    packageRating: {
-      type: Number,
-      min: 0,
-      max: 5,
-      default: 4.5,
-    },
-    starRating: {
-      type: Number,
-      min: 0,
-      max: 5,
-    },
-    hotel: {
-      type: String,
-      default: null,
-    },
-
-    //////////////////////////////
-    // Travel date and duration
-    //////////////////////////////
-    startDate: {
-      type: Date,
-      default: null,
-    },
-    endDate: {
-      type: Date,
-      default: null,
-    },
-    duration: {
-      type: Number,
-      required: true,
-      min: 1,
-      max: 30,
-    },
-    monthLevelSelect: {
-      type: String,
-      default: "",
-    },
-
-    //////////////////////////////
-    //Destination and Information
-    //////////////////////////////
     destination: {
-      type: String, // Strings seperated by comma
+      type: String,
       required: true,
     },
     location: {
       type: String,
       default: null,
     },
-    dayWiseDuration: {
-      type: Number,
-      required: true,
-      min: 1,
-      max: 30,
-    },
 
-    //////////////////////////////
-    // Accomodation & Facilities
-    //////////////////////////////
     hotelFacility: {
-      type: [String],
+      type: [String], // Put some of the images here
       default: [],
     },
     luxuryPackage: {
@@ -173,25 +122,9 @@ const TourPackageSchema = new mongoose.Schema(
       required: true,
       unique: true,
     },
-
-    ///////////////////////////////////
-    // Additional Features
-    ///////////////////////////////////
     notes: {
       type: String,
       default: null,
-    },
-    departureCity: {
-      type: String,
-      default: "",
-    },
-    onArrivalVisa: {
-      type: String,
-      default: "Granted",
-    },
-    groupDates: {
-      type: [Date],
-      default: [],
     },
   },
   {

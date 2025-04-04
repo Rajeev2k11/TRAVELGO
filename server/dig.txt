@@ -1,0 +1,115 @@
+What do we need in destination
+
+{
+    name,
+    image,
+    shortInfo:{
+        idleDuration,
+        bestTime,
+        price,
+        topAttraction[]
+    },
+    info?:{
+        title,
+        shortDescription,
+        longDescription,
+        package:{
+            description,
+            relativePackages,
+            avgTripCost,
+        }
+    },
+    transportationMode:[
+        {
+            mode,
+            description[],
+        }
+    ],
+    placeToVisit:[
+        {
+            placeName,
+            do,
+            inclusion
+        }
+    ],
+    bestThingToDo:[
+        {
+            title,
+            description,
+        }
+    ],
+    bestTimeForTravel:{
+        about,
+        durations:[
+            {
+                title,
+                description,
+            }
+        ]
+    },
+    interestingFact:{
+        about,
+        points:[
+            { 
+                title,
+                description
+            }
+        ]
+    },
+    shoppingLocation:{
+        about,
+        locations:[
+            {
+                title,
+                description
+            }
+        ]
+    },
+    faqs:[
+        {
+            question,
+            answer
+        }
+    ]
+}
+
+
+2. What do we need in packages
+
+{
+    packageName,
+    duration,
+    destination,
+    rating,
+    images:[],
+    price,
+    highlight:{
+        shortDesc,
+        longDesc,
+        exclusion:string[]
+    },
+    tabs:{
+        itenary:[
+            {
+                todo,
+                list:string[]
+            }
+        ],
+        inclusions:string[],
+        thingToDo:string[],
+        timeToVisit:{
+            description,
+            season:{
+                name,
+                about
+            }
+        }
+    },
+    faqs:[
+        {
+            question,
+            answer
+        }
+    ]
+}
+
